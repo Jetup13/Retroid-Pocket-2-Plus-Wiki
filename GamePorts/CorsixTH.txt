@@ -1,0 +1,4 @@
+Create a folder called `th` in the `Internal Shared Storage` of your device. 
+Copy your Theme Hospital Game files into the `th` folder
+
+GOG version used
