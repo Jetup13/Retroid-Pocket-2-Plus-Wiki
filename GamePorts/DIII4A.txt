@@ -1,0 +1,6 @@
+Create a folder called `diii4a` in the `Internal Shared Storage` of your device. 
+Place your `base\` DOOM 3 folder inside the `diii4a` folder
+
+Non-BFG Steam version should work
+
+`diii4a\base\`
