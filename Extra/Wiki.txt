@@ -2,6 +2,10 @@ This page will be used for game ports that work on the Retroid Pocket 2 Plus. It
 
 No copyrighted files are included here. You must supply your own files if needed.
 
+# Native Apps
+
+This portion are for native ports on the android platform.
+
 | Port Name| Files Required|Fixes|Input Type|Notes|
 | ---------|:-------------:|:---:|:--------:|:---:|
 |[CorsixTH-Android](https://github.com/alanwoolley/CorsixTH-Android#download) (Theme Hospital)|[File Structure](https://github.com/Jetup13/Retroid-Pocket-2-Plus-FAQ/blob/main/GamePorts/CorsixTH.txt)||Touch||
@@ -10,3 +14,30 @@ No copyrighted files are included here. You must supply your own files if needed
 |[Open Lara](https://github.com/XProger/OpenLara) (Tomb Raider 1)|[File Structure](https://github.com/Jetup13/Retroid-Pocket-2-Plus-FAQ/blob/main/GamePorts/Open%20Lara.txt)|Long press app icon > App info > Permissions > Storage > On. |Xbox|Change detail level to mid|
 |[OpenMW](https://github.com/xyzz/openmw-android/releases) (Morrowind)|[File Structure](https://github.com/Jetup13/Retroid-Pocket-2-Plus-FAQ/blob/main/GamePorts/OpenMW.txt)|Change UI Scale Factor to around .80|Xbox/Touch|
 |[RVGL](https://re-volt.io/downloads/game) (Re-Volt)|[File Structure](https://github.com/Jetup13/Retroid-Pocket-2-Plus-FAQ/blob/main/GamePorts/RVGL.txt)|Switch the controller in the options menu|Xbox||
+
+# RetroArch (Libretro)
+
+This portion are for ports and standalone games that use RetroArch and assumes your using the latest RetroArch build.
+
+These ports can be found in the online updater on RetroArch.
+
+RetroArch Main Menu > Online Updater > Core Downloader
+
+
+| Engine|Files Required|Fixes|Notes|
+| ------|:------------:|:---:|:---:|
+|2048|None|||
+|Cannonball (Outrun)|File Structure|||
+|Cave Story (NXEngine)|File Structure|||
+|Dinothawr|File Structure|||
+|Doom (PrBoom)|File Structure||||
+|Gong|None||||
+|Jump 'n Bump|File Structure||Local Multiplayer only|
+|Mr. Boom (Bomberman)|None|||
+|Quake I (TyrQuake)|File Structure|||
+|Quake II (vitaQuake 2)|File Structure|||
+|Quake II (vitaQuake 2 Rogue)|File Structure|||
+|Quake II (vitaQuake 2 Xatrix)|File Structure|||
+|Quake II (vitaQuake 2 Zaero)|File Structure|||
+|Rick Dangerous (XRick)|File Structure|||
+|Super Bros War|File Structure|||
