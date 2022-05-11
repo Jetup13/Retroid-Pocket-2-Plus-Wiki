@@ -1,0 +1,1 @@
+Install the devilutionx apk. Copy `DIABDAT.MPQ` from the CD or GOG-installation to `Android/data/org.diasurgical.devilutionx/files/` folder. 

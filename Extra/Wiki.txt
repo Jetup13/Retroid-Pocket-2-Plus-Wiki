@@ -1,8 +1,10 @@
 This page will be used for game ports that work on the Retroid Pocket 2 Plus. It will include information on fixes and files required.
+
 No copyrighted files are included here. You must supply your own files.
 
-| Port Name             | Files Required |Fixes                                                        |Input Type |Notes   |
-| ----------------------|:--------------:|:-----------------------------------------------------------:|:---------:|:------:|
+| Port Name| Files Required|Fixes|Input Type|Notes|
+| ---------|:-------------:|:---:|:--------:|:---:|
 |[CorsixTH-Android](https://github.com/alanwoolley/CorsixTH-Android#download) (Theme Hospital)|[File Structure](https://github.com/Jetup13/Retroid-Pocket-2-Plus-FAQ/blob/main/GamePorts/CorsixTH.txt)||Touch||
+|[DevilutionX](https://github.com/diasurgical/devilutionX) (Diablo 1)|[File Structure](https://github.com/Jetup13/Retroid-Pocket-2-Plus-FAQ/blob/main/GamePorts/DevilutionX.txt)| |Xbox||
 |[DIII4A](https://github.com/glKarin/com.n0n3m4.diii4a) (Doom 3)|[File Structure](https://github.com/Jetup13/Retroid-Pocket-2-Plus-FAQ/blob/main/GamePorts/DIII4A.txt)|Turn off lighting|Xbox|Don't change movement input|
-|[Open Lara](https://github.com/XProger/OpenLara) (Tomb Raider 1)|[File Structure](https://github.com/Jetup13/Retroid-Pocket-2-Plus-FAQ/blob/main/GamePorts/Open%20Lara.txt)  |Long press app icon > App info > Permissions > Storage > On. |Xbox       |Change detail level to mid|
+|[Open Lara](https://github.com/XProger/OpenLara) (Tomb Raider 1)|[File Structure](https://github.com/Jetup13/Retroid-Pocket-2-Plus-FAQ/blob/main/GamePorts/Open%20Lara.txt)|Long press app icon > App info > Permissions > Storage > On. |Xbox|Change detail level to mid|
