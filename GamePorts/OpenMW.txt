@@ -1,0 +1,13 @@
+Create a `Morrowind` folder anywhere on your device. 
+
+Copy the `Data Files`, `Video`, and `Morrowind.ini` folders/files from your Morrowind install to the `Morrowind` folder you created on your device.
+
+
+Open app and locate your installation
+
+Morrowind\
+>\Data Files\
+>\Video\
+>\Morrowind.ini
+
+*Tip for faster fill copy: Zip the files your going to copy all together. Exract the files while on the device

@@ -1,6 +1,6 @@
 This page will be used for game ports that work on the Retroid Pocket 2 Plus. It will include information on fixes and files required.
 
-No copyrighted files are included here. You must supply your own files.
+No copyrighted files are included here. You must supply your own files if needed.
 
 | Port Name| Files Required|Fixes|Input Type|Notes|
 | ---------|:-------------:|:---:|:--------:|:---:|
@@ -8,3 +8,5 @@ No copyrighted files are included here. You must supply your own files.
 |[DevilutionX](https://github.com/diasurgical/devilutionX) (Diablo 1)|[File Structure](https://github.com/Jetup13/Retroid-Pocket-2-Plus-FAQ/blob/main/GamePorts/DevilutionX.txt)| |Xbox||
 |[DIII4A](https://github.com/glKarin/com.n0n3m4.diii4a) (Doom 3)|[File Structure](https://github.com/Jetup13/Retroid-Pocket-2-Plus-FAQ/blob/main/GamePorts/DIII4A.txt)|Turn off lighting|Xbox|Don't change movement input|
 |[Open Lara](https://github.com/XProger/OpenLara) (Tomb Raider 1)|[File Structure](https://github.com/Jetup13/Retroid-Pocket-2-Plus-FAQ/blob/main/GamePorts/Open%20Lara.txt)|Long press app icon > App info > Permissions > Storage > On. |Xbox|Change detail level to mid|
+|[OpenMW](https://github.com/xyzz/openmw-android/releases) (Morrowind)|File Structure(https://github.com/Jetup13/Retroid-Pocket-2-Plus-FAQ/blob/main/GamePorts/OpenMW.txt)|Change UI Scale Factor to around .80|Xbox/Touch|
+|[RVGL](https://re-volt.io/downloads/game) (Re-Volt)|[File Structure](https://github.com/Jetup13/Retroid-Pocket-2-Plus-FAQ/blob/main/GamePorts/RVGL.txt)|Switch the controller in the options menu|Xbox||
