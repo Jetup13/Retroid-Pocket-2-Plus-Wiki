@@ -1,0 +1,12 @@
+First download the core and required content files
+
+RetroArch Main Menu > Online Updater > Core Downloader > CannonBall (Outrun)
+
+RetroArch Main Menu > Online Updater > Content Downloader > CannonBall > CannonBall.zip
+
+Copy the required OutRun Revision B ROM files to your RetroArch downloads folder 
+
+`Internal shared storage\RetroArch\downloads\CannonBall\`
+This file will also include a text file of what files are needed
+
+Load CannonBall.game through Load Content on RetroArch
