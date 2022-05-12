@@ -9,4 +9,4 @@ Copy the required OutRun Revision B ROM files to your RetroArch downloads folder
 `Internal shared storage\RetroArch\downloads\CannonBall\`
 This folder will also include a text file of which outrun files are needed
 
-Load CannonBall.game through Load Content on RetroArch
+Load `CannonBall\CannonBall.game` from `Downloads` through Load Content on RetroArch

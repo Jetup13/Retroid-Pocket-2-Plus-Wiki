@@ -1,0 +1,7 @@
+First download the core and required content files
+
+RetroArch Main Menu > Online Updater > Core Downloader > Rick Dangerous (XRick)
+
+RetroArch Main Menu > Online Updater > Content Downloader > Rick Dangerous > Rick Dangerous.zip
+
+Load `Rick Dangerous\data.zip` from `Downloads` through Load Content on RetroArch

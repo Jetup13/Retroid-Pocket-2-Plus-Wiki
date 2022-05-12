@@ -4,4 +4,4 @@ RetroArch Main Menu > Online Updater > Core Downloader > Dinothawr
 
 RetroArch Main Menu > Online Updater > Content Downloader > Dinothawr > Dinothawr.zip
 
-Load dinothawr.game through Load Content on RetroArch
+Load `Dinothawr\dinothawr.game` from `Downloads` through Load Content on RetroArch

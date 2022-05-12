@@ -39,5 +39,5 @@ RetroArch Main Menu > Online Updater > Core Downloader
 |Quake II (vitaQuake 2 Rogue)|[File Structure](https://github.com/Jetup13/Retroid-Pocket-2-Plus-FAQ/blob/main/GamePorts/vitaQuake2RLibretro.txt)|Quick Menu > Options > Internal Resolution > 640x480||
 |Quake II (vitaQuake 2 Xatrix)|[File Structure](https://github.com/Jetup13/Retroid-Pocket-2-Plus-FAQ/blob/main/GamePorts/vitaQuake2XLibretro.txt)|Quick Menu > Options > Internal Resolution > 640x480||
 |Quake II (vitaQuake 2 Zaero)|[File Structure](https://github.com/Jetup13/Retroid-Pocket-2-Plus-FAQ/blob/main/GamePorts/vitaQuake2ZLibretro.txt)|Quick Menu > Options > Internal Resolution > 640x480||
-|Rick Dangerous (XRick)|File Structure|||
+|Rick Dangerous (XRick)|[File Structure](https://github.com/Jetup13/Retroid-Pocket-2-Plus-FAQ/blob/main/GamePorts/RickLibretro.txt)|||
 |Super Bros War|File Structure|||
