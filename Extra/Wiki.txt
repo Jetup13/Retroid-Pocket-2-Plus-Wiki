@@ -27,7 +27,7 @@ RetroArch Main Menu > Online Updater > Core Downloader
 | Engine|Files Required|Fixes|Notes|
 | ------|:------------:|:---:|:---:|
 |2048|None|||
-|Cannonball (Outrun)|[File Structure](https://github.com/Jetup13/Retroid-Pocket-2-Plus-FAQ/blob/main/GamePorts/CannonballLibretro.txt)|Quick Menu > Video > Widescreen Patch > Off||
+|Cannonball (Outrun)|[File Structure](https://github.com/Jetup13/Retroid-Pocket-2-Plus-FAQ/blob/main/GamePorts/CannonballLibretro.txt)|Quick Menu > Options > Video > Widescreen Patch > Off||
 |Cave Story (NXEngine)|[File Structure](https://github.com/Jetup13/Retroid-Pocket-2-Plus-FAQ/blob/main/GamePorts/CaveStoryLibretro.txt)|||
 |Dinothawr|[File Structure](https://github.com/Jetup13/Retroid-Pocket-2-Plus-FAQ/blob/main/GamePorts/DinothawrLibretro.txt)|||
 |Doom (PrBoom)|[File Structure](https://github.com/Jetup13/Retroid-Pocket-2-Plus-FAQ/blob/main/GamePorts/DoomLibretro.txt)||||
@@ -35,9 +35,9 @@ RetroArch Main Menu > Online Updater > Core Downloader
 |Jump 'n Bump|[File Structure](https://github.com/Jetup13/Retroid-Pocket-2-Plus-FAQ/blob/main/GamePorts/JumpnBumpLibretro.txt)||Local Multiplayer only|
 |Mr. Boom (Bomberman)|None|||
 |Quake I (TyrQuake)|File Structure|||
-|Quake II (vitaQuake 2)|[File Structure](https://github.com/Jetup13/Retroid-Pocket-2-Plus-FAQ/blob/main/GamePorts/vitaQuake2Libretro.txt)|||
-|Quake II (vitaQuake 2 Rogue)|[File Structure](https://github.com/Jetup13/Retroid-Pocket-2-Plus-FAQ/blob/main/GamePorts/vitaQuake2RLibretro.txt)|||
-|Quake II (vitaQuake 2 Xatrix)|[File Structure](https://github.com/Jetup13/Retroid-Pocket-2-Plus-FAQ/blob/main/GamePorts/vitaQuake2XLibretro.txt)|||
-|Quake II (vitaQuake 2 Zaero)|[File Structure](https://github.com/Jetup13/Retroid-Pocket-2-Plus-FAQ/blob/main/GamePorts/vitaQuake2ZLibretro.txt)|||
+|Quake II (vitaQuake 2)|[File Structure](https://github.com/Jetup13/Retroid-Pocket-2-Plus-FAQ/blob/main/GamePorts/vitaQuake2Libretro.txt)|Quick Menu > Options > Internal Resolution > 640x480||
+|Quake II (vitaQuake 2 Rogue)|[File Structure](https://github.com/Jetup13/Retroid-Pocket-2-Plus-FAQ/blob/main/GamePorts/vitaQuake2RLibretro.txt)|Quick Menu > Options > Internal Resolution > 640x480||
+|Quake II (vitaQuake 2 Xatrix)|[File Structure](https://github.com/Jetup13/Retroid-Pocket-2-Plus-FAQ/blob/main/GamePorts/vitaQuake2XLibretro.txt)|Quick Menu > Options > Internal Resolution > 640x480||
+|Quake II (vitaQuake 2 Zaero)|[File Structure](https://github.com/Jetup13/Retroid-Pocket-2-Plus-FAQ/blob/main/GamePorts/vitaQuake2ZLibretro.txt)|Quick Menu > Options > Internal Resolution > 640x480||
 |Rick Dangerous (XRick)|File Structure|||
 |Super Bros War|File Structure|||
