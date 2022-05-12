@@ -1,0 +1,18 @@
+# Add L3/R3
+
+You can easily add L3/R3 buttons through an overlay.
+
+1. Download the files [here](https://github.com/Jetup13/Retroid-Pocket-2-Plus-FAQ/raw/main/Extra/touchscreenoverlay.zip)
+
+2. Create a `Overlays\` folder in your `Internal shared storage\RetroArch` folder
+
+3. Extract the folder to the newly created `Overlays\` folder
+
+4. In RetroArch: Settings > On-Screen Display > On-Screen Overlay > Overlay Preset > Hit Parent Directory 7 times > Select `/storage/emulated/O/RetroArch/Overlays/menul3r3.cfg`. Save configuration after applying
+
+5. Opacity can be changed in the same menu
+
+![](https://github.com/Jetup13/Retroid-Pocket-2-Plus-FAQ/blob/main/Images/touch.png)
+
+_Overlay was created using [RetroPad Editor](https://valent-in.github.io/retropad-editor/)._
+_Created by Jetup13. Edited by [Plaidman](https://github.com/plaidman)_
