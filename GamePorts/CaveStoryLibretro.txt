@@ -1,0 +1,7 @@
+First download the core and required content files
+
+RetroArch Main Menu > Online Updater > Core Downloader > Cave Story (NXEngine)
+
+RetroArch Main Menu > Online Updater > Content Downloader > Cave Story > Cave Story (EN).zip
+
+Load Doukutsu.exe through Load Content on RetroArch

@@ -28,8 +28,8 @@ RetroArch Main Menu > Online Updater > Core Downloader
 | ------|:------------:|:---:|:---:|
 |2048|None|||
 |Cannonball (Outrun)|[File Structure](https://github.com/Jetup13/Retroid-Pocket-2-Plus-FAQ/blob/main/GamePorts/CannonballLibretro.txt)|Quick Menu > Video > Widescreen Patch > Off||
-|Cave Story (NXEngine)|File Structure|||
-|Dinothawr|File Structure|||
+|Cave Story (NXEngine)|[File Structure](https://github.com/Jetup13/Retroid-Pocket-2-Plus-FAQ/blob/main/GamePorts/CaveStoryLibretro.txt)|||
+|Dinothawr|[File Structure](https://github.com/Jetup13/Retroid-Pocket-2-Plus-FAQ/blob/main/GamePorts/DinothawrLibretro.txt)|||
 |Doom (PrBoom)|File Structure||||
 |Gong|None||||
 |Jump 'n Bump|File Structure||Local Multiplayer only|
