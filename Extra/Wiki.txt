@@ -35,9 +35,9 @@ RetroArch Main Menu > Online Updater > Core Downloader
 |Jump 'n Bump|[File Structure](https://github.com/Jetup13/Retroid-Pocket-2-Plus-FAQ/blob/main/GamePorts/JumpnBumpLibretro.txt)||Local Multiplayer only|
 |Mr. Boom (Bomberman)|None|||
 |Quake I (TyrQuake)|File Structure|||
-|Quake II (vitaQuake 2)|File Structure|||
-|Quake II (vitaQuake 2 Rogue)|File Structure|||
-|Quake II (vitaQuake 2 Xatrix)|File Structure|||
-|Quake II (vitaQuake 2 Zaero)|File Structure|||
+|Quake II (vitaQuake 2)|[File Structure](https://github.com/Jetup13/Retroid-Pocket-2-Plus-FAQ/blob/main/GamePorts/vitaQuake2Libretro.txt)|||
+|Quake II (vitaQuake 2 Rogue)|[File Structure](https://github.com/Jetup13/Retroid-Pocket-2-Plus-FAQ/blob/main/GamePorts/vitaQuake2RLibretro.txt)|||
+|Quake II (vitaQuake 2 Xatrix)|[File Structure](https://github.com/Jetup13/Retroid-Pocket-2-Plus-FAQ/blob/main/GamePorts/vitaQuake2XLibretro.txt)|||
+|Quake II (vitaQuake 2 Zaero)|[File Structure](https://github.com/Jetup13/Retroid-Pocket-2-Plus-FAQ/blob/main/GamePorts/vitaQuake2ZLibretro.txt)|||
 |Rick Dangerous (XRick)|File Structure|||
 |Super Bros War|File Structure|||

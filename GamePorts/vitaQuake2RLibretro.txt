@@ -1,0 +1,7 @@
+First download the core
+
+RetroArch Main Menu > Online Updater > Core Downloader > Quake II - vitaQuake 2 (Ground Zero)
+
+Copy your `rogue\` folder from your Quake 2 install anywhere on your device
+
+Load `pak0.pak` through Load Content on RetroArch
