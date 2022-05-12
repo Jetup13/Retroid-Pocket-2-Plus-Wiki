@@ -1,0 +1,22 @@
+First download the core and prboom.wad file
+
+prboom.wad file can be found here
+https://buildbot.libretro.com/assets/cores/DOOM/prboom.wad
+
+RetroArch Main Menu > Online Updater > Core Downloader > Doom (PrBoom)
+
+Create a folder and add your doom .wad file and with a prboom.wad anywhere on your device
+
+Doom 2 as an example:
+
+\doom2\
+>\doom2.wad\
+>\prboom.wad\
+
+Doom 1 as an example:
+
+\doom\
+>\doom.wad\
+>\prboom.wad\
+
+Load the prboom.wad file in the folder through Load Content on RetroArch

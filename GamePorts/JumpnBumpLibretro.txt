@@ -1,0 +1,7 @@
+First download the core and required content
+
+RetroArch Main Menu > Online Updater > Core Downloader > Jump n' Bump
+
+RetroArch Main Menu > Online Updater > Core Downloader > Jump n' Bump Levels
+
+Load one of the levels through Load Content on RetroArch
