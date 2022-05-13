@@ -1,4 +1,4 @@
-# Add L3/R3
+# Adding L3/R3
 
 You can easily add L3/R3 buttons through an overlay.
 
@@ -16,6 +16,20 @@ You can easily add L3/R3 buttons through an overlay.
 
 _Overlay was created using [RetroPad Editor](https://valent-in.github.io/retropad-editor/)._
 _Created by Jetup13. Edited by [Plaidman](https://github.com/plaidman)_
+
+# Core Config files
+
+These are preset core config files for the Options in the RetroArch Quick Menu. These files and folders are simply for those that are too lazy to find out which options should be set. 
+
+Place these core config files into the config folder.
+
+Make sure to also include the folder of the cores name.
+
+Core|File|Changes|
+:---|:---|:---|
+Cannonball (Outrun)|[File/Folder](https://github.com/Jetup13/Retroid-Pocket-2-Plus-FAQ/blob/main/LibretroConfigs/Cannonball.zip)|Widerscreen off, Hi-Res on
+DuckStation|[File/Folder](https://github.com/Jetup13/Retroid-Pocket-2-Plus-FAQ/blob/main/LibretroConfigs/DuckStation.zip)|Software Renderer on
+SwanStation|[File/Folder](https://github.com/Jetup13/Retroid-Pocket-2-Plus-FAQ/blob/main/LibretroConfigs/SwanStation.zip)|Software Renderer on
 
 # Default RetroArch Directory's
 
@@ -61,9 +75,9 @@ Video Filters|`/data/user/0/com.retroarch.*/filters/video`
 Video Shaders|`/data/user/0/com.retroarch.*/shaders/`
 
 `File Browser on Android`
-
-![](https://github.com/Jetup13/Retroid-Pocket-2-Plus-FAQ/blob/main/Images/filebrowser1.png)
-![](https://github.com/Jetup13/Retroid-Pocket-2-Plus-FAQ/blob/main/Images/filebrowser2.png)
+Image 1|Image 2|
+:---|:---|
+![](https://github.com/Jetup13/Retroid-Pocket-2-Plus-FAQ/blob/main/Images/filebrowser1.png)|![](https://github.com/Jetup13/Retroid-Pocket-2-Plus-FAQ/blob/main/Images/filebrowser2.png)|
 
 # Vibration
 
