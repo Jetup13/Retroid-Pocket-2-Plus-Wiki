@@ -1,3 +1,82 @@
+# First Time Setup
+
+Setting up RetroArch can seem hectic and overwhelming at it first. Here's a few settings I go through whenever I load up RetroArch for the first time. 
+
+_Anything with a ✓ is up to the user_
+
+|RetroArch > Settings >|Change|User Preference|Note|
+|:---------------------|:-----|:--------------|:---|
+|`Input`|Maximum Users > 1|✓|Leave to 5 if you planc on using multiple controllers
+||Heptic/FeedbackVibration > Enable Device Vibration (For Supported Cores) > On|
+||Menu Controls > All Users Control Menu > On|
+||
+||
+|`On-Screen Display`|On-Screen Notifications > Notification Visibility > "Load Content" Startup Notification > Off|✓|
+||On-Screen Notifications > Notification Visibility > Input (Autoconfig) Connection Notifications > Off|✓|
+||On-Screen Notifications > Notification Visibility > Cheat Code Notifications > Off|✓|
+||On-Screen Notifications > Notification Visibility > Input Remap Loaded Notifications > Off|✓|
+||On-Screen Notifications > Notification Visibility > Config Override Loaded Notifications > Off|✓|
+||On-Screen Notifications > Scale Graphics Widgets > Off|✓|
+||On-Screen Notifications > Graphics Widgets Scale Override > 1.50x|✓|
+||On-Screen Notifications > Notification Size > 40.0|✓|
+||On-Screen Overlay > Display Overlay > Off|✓|If you plan on using a overlay then use [this one](https://github.com/Jetup13/Retroid-Pocket-2-Plus-FAQ/wiki/RetroArch#adding-l3r3) instead|
+||
+||
+|`User Interface`|Show Advanced Settings > On|✓|Back out of menu for it to take effect
+||Quit on Close Content > CLI|✓|Useful for launchers|
+||Menu Item Visibility > Show Help > Off|✓|
+||Menu Item Visibility > Show Explore > Off|✓|
+||Menu Item Visibility > Show Images > Off|✓|
+||Menu Item Visibility > Show Music > Off|✓|
+||Menu Item Visibility > Show Netplay > Off|✓|
+||Menu Item Visibility > Style of Date and Time > HH:MM (AM/PM)|✓|
+||Menu Item Visibility > Quick Menu > Show Start Recording > Off|✓|
+||Menu Item Visibility > Quick Menu > Show Start Streaming > Off|✓|
+||Menu Item Visibility > Quick Menu > Show Latency > Off|✓|
+||Menu Item Visibility > Quick Menu > Show Video Layout > Off|✓|
+||Menu Item Visibility > Settings > Show Frame Throttle > Off|✓|
+||Menu Item Visibility > Settings > Show Recording > Off|✓|
+||Menu Item Visibility > Settings > Show Accessibility > Off|✓|
+||Menu Item Visibility > Settings > Show Power Management > Off|✓|
+||Menu Item Visibility > Settings > Show Network > Off|✓|
+||Menu Item Visibility > Settings > Show User > Off|✓|
+||Menu > xmb|✓|Save Configuration and restart RetroArch for it to take effect|✓|
+||Appearance > Menu Layout > Handheld|✓|
+||
+||
+|`Directory`|File Browser > Select the location of your roms|✓|
+
+`Hotkeys`
+
+If your not planning on using a overlay then it might be best to setup hotkeys. Hotkeys can used to enable RetroArch features quickly with a press a few buttons. 
+
+_Anything with a ✓ is up to the user_
+
+Navigate to RetroArch > Settings > Input > Hotkeys
+
+|Setting|Button|User Preference|Notes|
+|:------|:-----|:--------------|:----|
+|Menu Toggle|Start+Select|||
+|Hotkey Enable|Select||Always set this option when using Hotkeys|
+|Load State|L1|✓|
+|Save State|R1|✓|
+|Pause Toggle (Pause Emualtion)|A|✓|
+|Reset Game|B|✓|
+|Quit RetroArch|R2|✓|
+|Menu (Toggle)|X|✓|Backup toggle|
+
+Retroarch.cfg file
+
+Here's the `retroarch.cfg` for each Retroarch. These are the with the changes shown above. DO NOT MIX RETROARCH CONFIG FILES. Some parts of a config are meant for the version being loaded (Such as directory's for cores and online updater addresses) 
+
+|RetroArch version|File Location|
+|:----------------|:------------|
+RetroArch (AArch64)|[Internal shared storage\Android\data\com.retroarch.aarch64\files]()
+RetroArch Plus|Will update later
+RetroArch 32 Bit|Internal shared storage\Android\data\com.retroarch.ra32\files
+RetroArch|Will update later
+
+
 # Adding L3/R3
 
 You can easily add L3/R3 buttons through an overlay.
