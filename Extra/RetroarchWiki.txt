@@ -67,8 +67,15 @@ Video Shaders|`/data/user/0/com.retroarch.*/shaders/`
 
 # Vibration
 
-1. RetroArch > Settings > Input > Haptic Feedback/Vibration > Enable Device Vibration (For Supported Cores)
+Make sure to enable device vibration in RetroArch 
 
-2. For PSX cores: RetroArch Quick Menu > Controls > Port 1 Controls > DualShock. Not all games support DualShock controller
+RetroArch > Settings > Input > Haptic Feedback/Vibration > Enable Device Vibration (For Supported Cores) > On. Save Configuration
 
-3. For Dreamcast cores: RetroArch Quick Menu > Options > Input > Purupuru Pack/Vibration Pack
+Core|Setting|Notes|
+:------|:------|:----|
+Cannonball (Outrun)|Enabled by default|
+Duckstation|RetroArch Quick Menu > Controls > Port 1 Controls > Analog Controller (DualShock).|Core will auto switch after setting to DualShock for non-supported games
+Flycast|RetroArch Quick Menu > Options > Input > Purupuru Pack/Vibration Pack
+PCSX-Rearmed|RetroArch Quick Menu > Controls > Port 1 Controls > DualShock.|Not all games use DualShock
+Swanstation|RetroArch Quick Menu > Controls > Port 1 Controls > Analog Controller (DualShock).|Core will auto switch after setting to DualShock for non-supported games
+vitaQuake II (Quake 2)|RetroArch Quick Menu > Options > Input > Rumble Effects
