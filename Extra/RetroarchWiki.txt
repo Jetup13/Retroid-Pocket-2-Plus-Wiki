@@ -16,3 +16,59 @@ You can easily add L3/R3 buttons through an overlay.
 
 _Overlay was created using [RetroPad Editor](https://valent-in.github.io/retropad-editor/)._
 _Created by Jetup13. Edited by [Plaidman](https://github.com/plaidman)_
+
+# Default RetroArch Directory's
+
+These directory's can be switched by navigating to: RetroArch > Settings > Directory 
+
+`Shared between all RetroArchs`
+
+Item| Folder|
+:----|:-----|
+BIOS| `Internal shared storage\RetroArch\system\`
+Cache| `Internal shared storage\RetroArch\tmp\`
+Configs| `Internal shared storage\RetroArch\configs\`
+Cheat Files| `Internal shared storage\RetroArch\cheats\`
+Downloads| `Internal shared storage\RetroArch\downloads\`
+Input Remaps| `Internal shared storage\RetroArch\configs\remaps\`
+Playlist| `Internal shared storage\RetroArch\playlist\`
+Save Files| `Internal shared storage\RetroArch\saves\`
+Save States| `Internal shared storage\RetroArch\states\`
+Screenshots| `Internal shared storage\RetroArch\screenshots\`
+System Even Logs| `Internal shared storage\RetroArch\logs\`
+Thumbnails| `Internal shared storage\RetroArch\thumbnails\`
+
+`Static Folders`
+
+These folders/files should not be switched as they are static to the RetroArch version used.
+
+These can folders/files can be found by loading the Android File Browser > Top Left Screen lines > Bookmarks
+
+* represents the RetroArch version used
+
+Item|Folder|
+:---|:-----|
+Assets|`/data/user/0/com.retroarch.*/assets/`
+Audio Filters|`/data/user/0/com.retroarch.*/filters/audio/`
+Controller Profiles|`/data/user/0/com.retroarch.*/autoconfig/`
+Core Info|`/data/user/0/com.retroarch.*/info/`
+Cores|`/data/user/0/com.retroarch.*/cores/`
+Cursor|`/data/user/0/com.retroarch.*/cursors/`
+Databases|`/data/user/0/com.retroarch.*/databases/rdb/`
+Dynamic Backgrounds|`/data/user/0/com.retroarch.*/assets/wallpapers/`
+Overlays|`/data/user/0/com.retroarch.*/overlays`
+Video Filters|`/data/user/0/com.retroarch.*/filters/video`
+Video Shaders|`/data/user/0/com.retroarch.*/shaders/`
+
+`File Browser on Android`
+
+![](https://github.com/Jetup13/Retroid-Pocket-2-Plus-FAQ/blob/main/Images/filebrowser1.png)
+![](https://github.com/Jetup13/Retroid-Pocket-2-Plus-FAQ/blob/main/Images/filebrowser2.png)
+
+# Vibration
+
+1. RetroArch > Settings > Input > Haptic Feedback/Vibration > Enable Device Vibration (For Supported Cores)
+
+2. For PSX cores: RetroArch Quick Menu > Controls > Port 1 Controls > DualShock. Not all games support DualShock controller
+
+3. For Dreamcast cores: RetroArch Quick Menu > Options > Input > Purupuru Pack/Vibration Pack
