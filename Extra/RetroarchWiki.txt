@@ -4,6 +4,8 @@ Setting up RetroArch can seem hectic and overwhelming at it first. Here's a few 
 
 _Anything with a ✓ is up to the user_
 
+To save configuration: Main Menu > Configuration File > Save Current Configuration
+
 |RetroArch > Settings >|Change|User Preference|Note|
 |:---------------------|:-----|:--------------|:---|
 |`Input`|Maximum Users > 1|✓|Leave to 5 if you planc on using multiple controllers
@@ -65,13 +67,13 @@ Navigate to RetroArch > Settings > Input > Hotkeys
 |Quit RetroArch|R2|✓|
 |Menu (Toggle)|X|✓|Backup toggle|
 
-Retroarch.cfg file
+`Retroarch.cfg file`
 
 Here's the `retroarch.cfg` for each Retroarch. These are the with the changes shown above. DO NOT MIX RETROARCH CONFIG FILES. Some parts of a config are meant for the version being loaded (Such as directory's for cores and online updater addresses) 
 
 |RetroArch version|File Location|
 |:----------------|:------------|
-RetroArch (AArch64)|[Internal shared storage\Android\data\com.retroarch.aarch64\files]()
+RetroArch (AArch64)|[Internal shared storage\Android\data\com.retroarch.aarch64\files](https://github.com/Jetup13/Retroid-Pocket-2-Plus-FAQ/blob/main/LibretroConfigs/RetroArchAArch64.zip)
 RetroArch Plus|Will update later
 RetroArch 32 Bit|Internal shared storage\Android\data\com.retroarch.ra32\files
 RetroArch|Will update later
