@@ -1,0 +1,51 @@
+[Syncthing](https://syncthing.net/) is a continuous file synchronization program. It synchronizes files between two or more devices in real time. While this is not a cloud service, this program can be used to sync your saves between your computer and Retroid Pocket 2 Plus.
+
+<details>
+<summary>PC Setup</summary>
+<br>
+
+`What you need`:
+
+1. [SyncTrayzor]( https://github.com/canton7/SyncTrayzor/releases/latest)
+2. [RetroArch](https://www.retroarch.com/?page=platforms) _*Not needed but this guide will refence folders related to RetroArch_
+
+`Setup`
+
+1. Install & SyncTrazyor 
+2. Click "Add Folder"
+3. Name the `Folder ID` "Retroarch Saves"
+4. Locate the directory path of your RetroArch saves on your PC and input it into `Folder Path` (My path is `C:\Users\jetup\AppData\Roaming\RetroArch\saves`. Yours will be different) 
+5. Click `Save`
+6. Click `Action` > `Show Device ID`
+7. Move onto Android Setup
+
+</details>
+
+<details>
+<summary>Android Setup</summary>
+<br>
+
+`What you need`:
+
+1. [SyncThing](https://play.google.com/store/apps/details?id=com.nutomic.syncthingandroid)
+2. [RetroArch](https://www.retroarch.com/?page=platforms)_*Not needed but this guide will refence folders related to RetroArch_
+
+`Setup`
+
+1. Install and launch Syncthing
+2. Click `Devices` and click the `+` 
+3. In the `Device ID` field you need to input your PC Device ID. Check step 6 on PC setup to find `Device ID`
+4. Name the PC in the `Name` field. Click the checkmark to save
+5. On your PC you should get a notification of a new device. Press `Add Device` and name it `Retroid Pocket 2 Plus`
+6. On PC click on the `Retroarch Saves` folder > `Edit` > `Sharing` tab and check `Retroid Pocket 2 Plus` > Save
+7. On Android you'll get a notification of a folder being shared click it > in the directory filled find your RetroArch Saves on your device (by default `/storage/emulated/0/RetroArch/saves`) > Click Save
+
+</details>
+
+Android|PC|
+-------|--|
+![](https://github.com/Jetup13/Retroid-Pocket-2-Plus-FAQ/blob/main/Images/sta.png)|![](https://github.com/Jetup13/Retroid-Pocket-2-Plus-FAQ/blob/main/Images/stb.png)
+
+Congrats! You should now have Syncthing setup to sync your RetroArch saves on between your Retroid Pocket 2 Plus and PC.
+
+_If your worried about battery drain or don't like the Syncthing notification on android simply swipe the bottom of the screen up > recent apps button (square button) > swipe the synching card up to close app. Just make sure to load into to the app for your saves to sync. Same goes for your desktop. It will only sync if your desktop is on and the app is running._
