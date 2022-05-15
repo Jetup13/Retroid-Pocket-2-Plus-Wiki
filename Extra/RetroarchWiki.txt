@@ -6,7 +6,9 @@ _Anything with a ✓ is up to the user_
 
 To save configuration: `Main Menu > Configuration File > Save Current Configuration`
 
-`Settings`
+<details>
+<summary>Settings</summary>
+<br>
 
 |RetroArch > Settings >|Change|User Preference|Note|
 |:---------------------|:-----|:--------------|:---|
@@ -50,7 +52,11 @@ To save configuration: `Main Menu > Configuration File > Save Current Configurat
 ||
 |`Directory`|File Browser > Select the location of your roms|✓|
 
-`Hotkeys`
+</details>
+
+<details>
+<summary>Hotkeys</summary>
+<br>
 
 If your not planning on using a overlay then it might be best to setup hotkeys. Hotkeys can used to enable RetroArch features quickly with a press a few buttons. 
 
@@ -71,7 +77,9 @@ Navigate to RetroArch > Settings > Input > Hotkeys
 
 </details>
 
-`Retroarch.cfg file`
+<details>
+<summary>Retroarch.cfg file</summary>
+<br>
 
 Here's the `retroarch.cfg` for each Retroarch. These are the with the changes shown above. `DO NOT MIX RETROARCH CONFIG FILES`. Some parts of a config are meant for the version being loaded (Such as directory's for cores and online updater addresses). These configs assume you have your controller set to `Xbox` 
 
@@ -83,6 +91,8 @@ RetroArch (AArch64)|[Internal shared storage\Android\data\com.retroarch.aarch64\
 RetroArch Plus|Will update later
 RetroArch 32 Bit|Internal shared storage\Android\data\com.retroarch.ra32\files
 RetroArch|Will update later
+
+</details>
 
 # Adding L3/R3
 
@@ -121,7 +131,9 @@ SwanStation|[File/Folder](https://github.com/Jetup13/Retroid-Pocket-2-Plus-FAQ/b
 
 These directory's can be switched by navigating to: RetroArch > Settings > Directory 
 
-`Shared between all RetroArchs`
+<details>
+<summary>Shared between all RetroArch installs</summary>
+<br>
 
 Item| Folder|
 :----|:-----|
@@ -138,13 +150,17 @@ Screenshots| `Internal shared storage\RetroArch\screenshots\`
 System Even Logs| `Internal shared storage\RetroArch\logs\`
 Thumbnails| `Internal shared storage\RetroArch\thumbnails\`
 
-`Static Folders`
+</details>
+
+<details>
+<summary>Static Folders</summary>
+<br>
 
 These folders/files should not be switched as they are static to the RetroArch version used.
 
 These can folders/files can be found by loading the Android File Browser > Top Left Screen lines > Bookmarks
 
-* represents the RetroArch version used
+`* represents the RetroArch version used`
 
 Item|Folder|
 :---|:-----|
@@ -160,10 +176,17 @@ Overlays|`/data/user/0/com.retroarch.*/overlays`
 Video Filters|`/data/user/0/com.retroarch.*/filters/video`
 Video Shaders|`/data/user/0/com.retroarch.*/shaders/`
 
-`File Browser on Android`
+</details>
+
+<details>
+<summary>File Browser on Android</summary>
+<br>
+
 Image 1|Image 2|
 :---|:---|
 ![](https://github.com/Jetup13/Retroid-Pocket-2-Plus-FAQ/blob/main/Images/filebrowser1.png)|![](https://github.com/Jetup13/Retroid-Pocket-2-Plus-FAQ/blob/main/Images/filebrowser2.png)|
+
+</details>
 
 # RetroAchievements 
 
