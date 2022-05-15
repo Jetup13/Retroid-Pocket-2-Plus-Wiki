@@ -169,9 +169,57 @@ Image 1|Image 2|
 
 RetroAchievements are achievements for retro games. Simply create an account with [RetroAchievements](http://retroachievements.org/) and sign in on RetroArch.
 
-RetroArch > Settings > Achievements > On
+`RetroArch > Settings > Achievements > On`
 
-Not every game is supported. Make sure your using the correct roms as mentioned in the games linked hashes. 
+<details>
+<summary>Cores that support RetroAchievements</summary>
+<br>
+
+System|Core(s)
+:-----|:-----
+3DO Interactive Multiplayer|Opera
+Amstrad CPC|Caprice32
+Arcade|Final Burn Neo, Final Burn Alpha, Flycast
+Arduboy|arduous
+Atari 2600|Stella
+Atari 7800|ProSystem
+Atari Jaguar|Virtual Jaguar
+Atari Lynx|Beetle Lynx, Handy
+Bandai WonderSwan|Beetle WonderSwan
+Bandai WonderSwan Color|Beetle WonderSwan
+Coleco Vision|blueMSX
+Magnavox Odyssey 2|O2EM
+Mattel Intellivision|FreeIntv
+MSX|blueMSX
+NEC PC Engine|Beetle PCE Fast, Beetle SuperGrafx
+NEC PC-FX|Beetle PC-FX
+Nintendo 64|Mupen64Plus-Next, ParaLLEI
+Nintendo DS|DeSmuME, melonDS
+Nintendo Entertainment System|FCEUmm, Messen, QuickNES
+Nintendo GameBoy Advance|gpSP, mGBA, VBA Next, VBA-M
+Nintendo GameBoy|Gambatte, Gearboy, mGBA, VBA-M
+Nintendo GameBoy Color|Gambatte, Gearboy, mGBA, VBA-M
+Nintendo Virtual Boy|Beetle VB
+Pokemon Mini|PokeMini
+Sega 32X|PicoDrive
+Sega CD/Mega CD|Genesis Plus GX, Genesis Plus GX Wide, PicoDrive
+Sega Dreamcast|Flycast
+Sega Game Gear|Gearsystem, Genesis Plus GX
+Sega Genesis/MegaDrive|Genesis Plus GX, Genesis Plus GX Wide, PicoDrive
+Sega Master System|Gearsystem, Genesis Plus GX, Genesis Plus GX Wide, PicoDrive
+Sega Saturn|Beetle Saturn
+Sega SG-1000|Gearsystem, Genesis Plus GX, Genesis Plus GX Wide, blueMSX
+SNK Neo Geo Pocket|Beetle NeoPop
+Super Nintendo Entertainment System|Snes9x, bsnes-mercury (Balanced), bsnes-mercury (Performance)
+Sony PlayStation|Beetle PSX, Beetle PSX HW, DuckStation, PCSX-ReArmed, SwanStation
+Sony PlayStation Portable|PPSSPP
+Vectrex|VecX
+WASM-4|WASM4
+Watara Supervision|Potator
+
+</details>
+
+_Please note that cores that appear on this list might not be supported on the Retroid Pocket 2 Plus. This list just covers cores that support RetroAchievements_
 
 # Vibration
 
