@@ -10,7 +10,7 @@ This is just simply a list of systems, emulators available, rom formats, and bio
 System|Emulator|Rom format|Bios|
 :-----|:-------|:---------|:---|
 3DO Interactive Multiplayer|Opera-lr|.iso, .chd, .bin/.cue|panafz1.bin, panafz10.bin, panafz10-norsa.bin, panafz10e-anvil.bin, panafz10e-anvil-norsa.bin, panafz1j.bin, panafz1j-norsa.bin, goldstar.bin, sanyotry.bin, 3do_arcade_saot.bin
-Amstrad CPC|Caprice32-lr|.cpc, .dsk, .zip, .7z
+Amstrad CPC|andcpc, Caprice32-lr, CPCDroid, Droid-CPC|.cpc, .dsk, .zip, .7z|
 Arcade|Final Burn Neo-lr, Final Burn Alpha-lr, Flycast-lr, MAME-current-lr, MAME 2000-lr, MAME 2003 Midway-lr, MAME 2003-lr, MAME 2010-lr|.zip|Various
 Arduboy|arduous-lr|.hex|
 Atari 2600|Stella-lr, Stella 2014-lr|.a26, .bin, .zip, .7z|
