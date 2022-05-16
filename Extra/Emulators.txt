@@ -94,7 +94,7 @@ Uzebox|Uzem|.uze|
 VaporSpec|VaporSpec-lr|.vaporbin|
 WASM-4|WASM4-lr|.wasm|
 Watara Supervision|Potator-lr|.bin, .sv|
-Wolfebstein 3D|ECWolf-lr|.wl6, .n3d, .sod, .sdm, .wl1, .pk3, .exe|ecwolf.pk3
+Wolfenstein 3D|ECWolf-lr|.wl6, .n3d, .sod, .sdm, .wl1, .pk3, .exe|ecwolf.pk3
 
 # Bios folders (RetroArch)
 
