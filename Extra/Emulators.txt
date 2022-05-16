@@ -5,9 +5,8 @@ This is just simply a list of systems, emulators available, rom formats, and bio
 * This list is extremely incomplete
 * lr is short for Libretro or RetroArch cores
 * This doesn't take into account if the emulator even works on the Retroid Pocket 2 Plus
-* This guide is not meant for the Retroid Launcher recommended file formats.
 * Some Bios are optional 
-* Some Bios need to be in specially named folders
+* This list is not meant for the Retroid Launcher recommended file formats. But anything `highlighted` is supported by the Retroid Launcher
 
 System|Emulator|Rom format|Bios|
 :-----|:-------|:---------|:---|
@@ -54,15 +53,16 @@ NEC PC Engine CD|Beetle PCE-lr,Beetle PCE Fast-lr|.pce, .ccd, .iso, .img, .chd, 
 NEC PC-8800|QUASI88-lr|.d88, .u88, .m3u|[bios](https://docs.libretro.com/library/quasi88/#bios)
 NEC PC-98|Neko Project II Kai-lr, Neko Project II-lr|.d88, .fdi, .hdi, .zip|[bios](https://docs.libretro.com/library/neko_project_ii_kai/#bios)
 NEC PC-FX|Beetle PC-FX-lr|.chd, .zip, .cue, .ccd, .toc|pcfx.rom
-Nintendo 64|M64Plus FZ, Mupen64Plus-Next GLES3-lr, ParaLLEI-lr|.z64, .n64, .v64, .zip
-Nintendo DS|DeSmuME-lr, DeSmuME 2015-lr, Drastic, melonDS, noods, melonDS-lr|.zip, .nds|nds_bios_arm7.bin, nds_bios_arm9.bin, bios7.bin, bios9.bin
-Nintendo Entertainment System|FCEUmm-lr, Messen-lr, Nestopia UE-lr, QuickNES-lr|.nes, .zip, .7z|
-Nintendo GameBoy Advance|gpSP-lr, mGBA-lr, VBA Next-lr, VBA-M-lr|.gba, .zip, .7z|gba_bios.bin
-Nintendo GameBoy|Gambatte-lr, Gearboy-lr, mGBA-lr, TGB Dual-lr, VBA-M-lr|.gb, .gbc, .dmg, .zip, .7z|gb_bios.bin, sgb_bios.bin
-Nintendo GameBoy Color|Gambatte-lr, Gearboy-lr, mGBA-lr, TGB Dual-lr, VBA-M-lr|.gb, .gbc, .dmg, .zip, .7z|gbc_bios.bin, sgb_bios.bin
-Nintendo Gamecube|Dolphin, Dolphin MMJ, Dolphin MMJR|.iso, .gzip, .rvz, .nkit|
+Nintendo 3DS|Citra, Citra Enhanced, Citra MMJ|`.3ds`, .3dsx|
+Nintendo 64|M64Plus FZ, Mupen64Plus-Next GLES3-lr, ParaLLEI-lr|`.z64`, `.n64`, .v64, .zip
+Nintendo DS|DeSmuME-lr, DeSmuME 2015-lr, Drastic, melonDS, noods, melonDS-lr|.zip, `.nds`|nds_bios_arm7.bin, nds_bios_arm9.bin, bios7.bin, bios9.bin
+Nintendo Entertainment System|FCEUmm-lr, Messen-lr, Nestopia UE-lr, QuickNES-lr|`.nes`, .zip, .7z|
+Nintendo GameBoy Advance|gpSP-lr, mGBA-lr, VBA Next-lr, VBA-M-lr|`.gba`, .zip, .7z|gba_bios.bin
+Nintendo GameBoy|Gambatte-lr, Gearboy-lr, mGBA-lr, TGB Dual-lr, VBA-M-lr|`.gb`, .gbc, .dmg, .zip, .7z|gb_bios.bin, sgb_bios.bin
+Nintendo GameBoy Color|Gambatte-lr, Gearboy-lr, mGBA-lr, TGB Dual-lr, VBA-M-lr|.gb, `.gbc`, .dmg, .zip, .7z|gbc_bios.bin, sgb_bios.bin
+Nintendo Gamecube|Dolphin, Dolphin MMJ, Dolphin MMJR|`.iso`, `.gcz`, .rvz, .nkit|
 Nintendo Pokemon Mini|PokeMini-lr|.min, .zip|bios.min
-Nintendo SNES|Beetle Supafraust-lr, bsnes-lr, bsnes-mercury (Balanced)-lr, bsnes-mercury (Performance)-lr, Snes9x 2002-lr, Snes9x 2005-lr, Snes9x 2005 Plus-lr, Snes9x 2010-lr|.sfc, .smc, .zip, .7z|
+Nintendo SNES|Beetle Supafraust-lr, bsnes-lr, bsnes-mercury (Balanced)-lr, bsnes-mercury (Performance)-lr, Snes9x 2002-lr, Snes9x 2005-lr, Snes9x 2005 Plus-lr, Snes9x 2010-lr|.sfc, `.smc`, .zip, .7z|
 Nintendo Virtual Boy|Beetle VB-lr|.vb, .vboy, .zip, .7z|
 Oberon RISC Emulator|Oberon RISC Emulator-lr|.dsk|
 Palm OS|Mu-lr|.prc, .pqa, .img, .pdb|palmos41-en-m515.rom
@@ -72,11 +72,11 @@ RPG Maker 2000/2003|EasyRPG-lr|.ldb, .zip, .easyrpg|
 ScummVM|ScummVM, ScummVM-lr|.zip, .scummvm|
 Sega 32X|PicoDrive-lr|.32x, .7z, .bin, .md, .smd, .zip|
 Sega CD/Mega CD|Genesis Plus GX-lr, Genesis Plus GX Wide-lr, PicoDrive-lr|.chd, .bin/cue|bios_CD_U.bin, bios_CD_E.bin, bios_CD_J.bin
-Sega Dreamcast|Flycast, Flycast-lr, Redream|.chd, .bin/.cue, .bin/.gdi, .bin/cdi|dc/dc_boot.bin
-Sega Game Gear|Gearsystem-lr, Genesis Plus GX-lr|.bin, .gg, .zip, .7z|bios.gg
-Sega Genesis/MegaDrive|Genesis Plus GX-lr, Genesis Plus GX Wide-lr, PicoDrive-lr|.68k, .mdx, .md, .sgd, .smd, .gen, .bin, .zip, .7z|bios_MD.bin
+Sega Dreamcast|Flycast, Flycast-lr, Redream|`.chd`, .bin/.cue, .bin/.gdi, .bin/cdi|dc/dc_boot.bin
+Sega Game Gear|Gearsystem-lr, Genesis Plus GX-lr|.bin, `.gg`, .zip, .7z|bios.gg
+Sega Genesis/MegaDrive|Genesis Plus GX-lr, Genesis Plus GX Wide-lr, PicoDrive-lr|.68k, .mdx, `.md`, .sgd, .smd, .gen, .bin, .zip, .7z|bios_MD.bin
 Sega Master System|Gearsystem-lr, Genesis Plus GX-lr, Genesis Plus GX Wide-lr, PicoDrive-lr|.7z, .bin, .sms, .zip|bios_E.sms, bios_U.sms, bios_J.sms
-Sega Saturn|Beetle Saturn-lr, YabaSanshiro, YabSanshiro-lr, Yabause-lr|.chd, .iso, .bin/.cue|saturn_bios.bin
+Sega Saturn|Beetle Saturn-lr, YabaSanshiro, YabSanshiro-lr, Yabause-lr|`.chd`, .iso, .bin/.cue|saturn_bios.bin
 Sega SG-1000|Gearsystem-lr, Genesis Plus GX-lr, Genesis Plus GX Wide-lr, blueMSX-lr|.7z, .bin, .sg, .zip|[blueMSX](http://bluemsx.msxblue.com/download.html)
 Sega VMU|VeMUlator-lr|.vms, .bin|
 Sharp X1|X Millennium-lr|.dx1, .zip, .2d, .2hd, .tfd, .d88, .88d, .hdm, .xdf, .dup, .cmd|IPLROM.X1, IPLROM.X1T
@@ -85,9 +85,9 @@ Sinclair ZX 81|EightyOne-lr|.p, .tzx, .zip
 Sinclair ZX Spectrum|Fuse-lr|.sna, .szx, .z80, .tap, .tzx, .gz, .udi, .mgt, .img, .trd, .scl, .dsk
 SNK Neo Geo CD|Final Burn Neo-lr, NeoCD-lr|.cue, .chd|neocd_f.rom, neocd_sf.rom, front-sp1.bin, neocd_t.rom, neocd_st.rom, top-sp1.bin, neocd_z.rom, neocd_sz.rom, neocd.bin, ng-lo.rom, 000-lo.lo, uni-bioscd.rom, neocd.zip
 SNK Neo Geo Pocket|Beetle NeoPop-lr, RACE-lr|.ngp, .ngc, .zip, .7z|
-Sony PlayStation|Avocado, DuckStation, DuckStation-lr, ePSXe, FPse, PCSX-ReArmed-lr, SwanStation-lr|.chd, .bin/.cue, .pbp|scph5000.bin, scph5001.bin, scph5002.bin
-Sony PlayStation 2|AetherSX2|.chd, .bin/cue, .iso|scph10000.bin
-Sony PlayStation Portable|PPSSPP, PPSSPP-lr|.iso, .cso, .pbp|
+Sony PlayStation|Avocado, DuckStation, DuckStation-lr, ePSXe, FPse, PCSX-ReArmed-lr, SwanStation-lr|`.chd`, .bin/.cue, `.pbp`|scph5000.bin, scph5001.bin, scph5002.bin
+Sony PlayStation 2|AetherSX2|.chd, .bin/cue, `.iso`|scph10000.bin
+Sony PlayStation Portable|PPSSPP, PPSSPP-lr|`.iso`, .cso, .pbp|
 Thomson MO/TO|Theodore-lr|.fd, .sap, .k7, .m7, .m5, .rom|
 TIC-80|TIC-80-lr|.tic
 Uzebox|Uzem|.uze|
