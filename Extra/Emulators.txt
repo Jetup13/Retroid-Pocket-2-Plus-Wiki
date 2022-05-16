@@ -1,3 +1,5 @@
+# Emulator List
+
 This is just simply a list of systems, emulators available, rom formats, and bios required. 
 
 * This list is extremely incomplete
@@ -93,3 +95,25 @@ VaporSpec|VaporSpec-lr|.vaporbin|
 WASM-4|WASM4-lr|.wasm|
 Watara Supervision|Potator-lr|.bin, .sv|
 Wolfebstein 3D|ECWolf-lr|.wl6, .n3d, .sod, .sdm, .wl1, .pk3, .exe|ecwolf.pk3
+
+# Bios folders (RetroArch)
+
+Some RetroArch cores need bios in folders to be read
+
+* Place your bios into `Internal shared storage\RetroArch\system\`
+
+Core|Folder Name|Files|
+:-----|:-----|:---|
+BlueMSX (Various)|`Databases\`, `Machines\`|Various
+Final Burn Neo (Arcade)|`fbneo\`|`cheats\`, `samples\`, bubsys.zip, cchip.zip, channelf.zip, coleco.zip, decocass.zip, fdsbios.zip, isgsm.zip, midssio.zip, msx.zip, namcoc69.zip, namcoc70.zip, namcoc75.zip, neocdz.zip, neogeo.zip, ngp.zip, nmk004.zip, pgm.zip, skns.zip, spec128.zip, spec128k.zip, spec48k.zip, spectrum.zip, ym2608.zip
+Flycast (Atomiswave)|`dc\`|awbios.zip
+Flycast (Sega Dreamcast)|`dc\`|dc_boot.bin, dc_flash.bin
+Flycast (Sega Naomi)|`dc\`|naomi.zip
+Fuse (Sinclair ZX 81)|`fuse\`|128p-0.rom, 128p-1.rom, trdos.rom, gluck.rom, 256s-0.rom, 256s-1.rom, 256s-2.rom, 256s-3.rom
+Mame 2003|`mame2003-plus\samples\`|Audio Samples
+Neko Project II/Kai (NEC PC-98)|`np2kai\`|font.bmp, FONT.ROM, bios.rom, itf.rom, sound.rom, bios9821.rom, d8000.rom, 2608_BD.WAV, 2608_SD.WAV, 2608_TOP.WAV, 2608_HH.WAV, 2608_TOM.WAV, 2608_RIM.WAV	
+NeoCD (NeoGeoCD)|`neocd\`|neocd_f.rom, neocd_sf.rom, front-sp1.bin, neocd_t.rom, neocd_st.rom, top-sp1.bin, neocd_z.rom, neocd_sz.rom, neocd.bin, ng-lo.rom, 000-lo.lo, uni-bioscd.rom, neocd.zip
+Quasi88 (NEC PC-88)|`quasi88\`|DISK.ROM, FONT.ROM, n88.rom, n88_0.rom, n88_1.rom, n88_2.rom, n88_3.rom, n88jisho.rom, n88knj1.rom, n88knj2.rom, n88n.rom, n88sub.rom,
+PX68k (Sharp X68000)|`keropi\`|iplrom.dat, cgrom.dat, iplrom30.dat, iplromco.dat, iplromxv.dat
+Same CDI (Philips CDi)|`same_cdi\bios\`|cdimono1.zip, cdimono1.zip, cdimono2.zip
+X Millennium (Sharp X1)|`xmil\`|IPLROM.X1, IPLROM.X1T
