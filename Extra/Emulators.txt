@@ -1,0 +1,95 @@
+This is just simply a list of systems, emulators available, rom formats, and bios required. 
+
+* This list is extremely incomplete
+* lr is short for Libretro or RetroArch cores
+* This doesn't take into account if the emulator even works on the Retroid Pocket 2 Plus
+* This guide is not meant for the Retroid Launcher recommended file formats.
+* Some Bios are optional 
+* Some Bios need to be in specially named folders
+
+System|Emulator|Rom format|Bios|
+:-----|:-------|:---------|:---|
+3DO Interactive Multiplayer|Opera-lr|.iso, .chd, .bin/.cue|panafz1.bin, panafz10.bin, panafz10-norsa.bin, panafz10e-anvil.bin, panafz10e-anvil-norsa.bin, panafz1j.bin, panafz1j-norsa.bin, goldstar.bin, sanyotry.bin, 3do_arcade_saot.bin
+Amstrad CPC|Caprice32-lr|.cpc, .dsk, .zip, .7z
+Arcade|Final Burn Neo-lr, Final Burn Alpha-lr, Flycast-lr, MAME-current-lr, MAME 2000-lr, MAME 2003 Midway-lr, MAME 2003-lr, MAME 2010-lr|.zip|Various
+Arduboy|arduous-lr|.hex|
+Atari 2600|Stella-lr, Stella 2014-lr|.a26, .bin, .zip, .7z|
+Atari 5200|a5200-lr, Atari800-lr|.a52, .bin, .zip, .7z|5200.rom, ATARIBAS.ROM
+Atari 7800|ProSystem-lr|.a78, .zip|7800 BIOS (U).rom
+Atari Jaguar|Virtual Jaguar-lr| .j64, .jag, .rom, .abs, .cof, .bin, .prg|
+Atari Lynx|Beetle Lynx-lr, Handy-lr|.7z, .lnx, .zip|lynxboot.img
+Atari ST/STE/TT/Falcon|Hatari-lr|.st, .msa, .stx, .dim, .ipf, .zip|tos.img
+Bandai WonderSwan|Beetle Cygne-lr|.ws, .pc2, .zip, .7z|
+Bandai WonderSwan Color|Beetle Cygne-lr|.ws2, .pc2, .zip, .7z|
+Chai Love|Chai Love-lr|.chai, .chailove|
+CHIP-8/S-CHIP/XO-CHIP|JAXE-lr|.ch8, .sc8, .xo8|
+Coleco Vision|blueMSX-lr, Gearcoleco|.rom, .ri, .mx1, .mx2, .col, .dsk, .cas, .sg, .sc, .m3u, .zip, .7z|coleco.rom, [blueMSX](http://bluemsx.msxblue.com/download.html)
+Commodore Amiga|PUAE 2021-lr, PUAE-lr|
+Commodore C128|VICE x128-lr|.d64, .d71, .d80, .d81, .d82, .g64, .g41, .x64, .t64, .tap, .prg, .p00, .crt, .bin, .zip, .gz, .d6z, .d7z, .d8z, .g6z, .g4z, .x6z, .cmd, .m3u, .vsf, .nib, .nbz|JiffyDOS_C128.bin, JiffyDOS_C64.bin, JiffyDOS_1541-II.bin, JiffyDOS_1571_repl310654.bin, JiffyDOS_1581.bin
+Commodore C64|Frodo-lr, VICE x64 fast-lr, VICE x64sc accurate-lr|.d64, .zip, .7z, .t64, .crt, .prg, .nib, .tap|
+Commodore C64 SuperCPU|VICE xscpu64-lr|.d64, d71, d80, d81, d82, g64, g41, x64, t64, tap, prg, p00, crt, bin, zip, gz, d6z, d7z, d8z, g6z, g4z, x6z, cmd, m3u, vfl, vsf, nib, nbz, d2m, d4m|JiffyDOS_C64.bin, JiffyDOS_1541-II.bin, JiffyDOS_1571_repl310654.bin, JiffyDOS_1581.bin
+Commodore CBM-II 5x0|VICE xcbm5x0-lr|.d64, d71, d80, d81, d82, g64, g41, x64, t64, tap, prg, p00, crt, bin, zip, gz, d6z, d7z, d8z, g6z, g4z, x6z, cmd, m3u, vfl, vsf, nib, nbz, d2m, d4m|
+Commodore CBM-II 6x0/7x0|VICE xcbm2-lr|.d64, d71, d80, d81, d82, g64, g41, x64, t64, tap, prg, p00, crt, bin, zip, gz, d6z, d7z, d8z, g6z, g4z, x6z, cmd, m3u, vfl, vsf, nib, nbz, d2m, d4m|
+Commodore PET|VICE xpet-lr|.d64, .zip, .7z, .t64, .crt, .prg, .nib, .tap|
+Commodore PLUS/4|xplus4-lr|.d64, d71, d80, d81, d82, g64, g41, x64, t64, tap, prg, p00, crt, bin, zip, gz, d6z, d7z, d8z, g6z, g4z, x6z, cmd, m3u, vfl, vsf, nib, nbz, d2m, d4m|
+Commodore VICE-20|VICE xvic-lr|.d64, .zip, .7z, .t64, .crt, .prg, .nib, .tap|
+Doom|PRBoom-lr|.wad, .iwad, .pwad|
+DOS|DOSBox-core-lr, DOSBox-Pure-lr, DOSBox-SVN-lr|.dosz, .exe, .com, .bat, .conf, .cue, .zip|
+Fairchild ChannelIF|FreeChaF-lr|.bin, .rom, .chf, .zip|sl31253.bin, sl31254.bin, sl90025.bin
+GCE Vectrex|VecX-lr|.vec, .zip, .7z
+Handheld Electronic|GW-lr|mgw|
+Java ME|SquirrelJME-lr|.jar, .sqc, .jam, .jad, .kjx|squirreljme.sqc
+LowRes NX|LowRes NX-lr|.nx|
+Lua Engine|Lutro-lr|.lutro, .love, .lua|
+Mac II|minivmac-lr|.dsk, .img, .zip, .hvf, .cmd|MacII.ROM
+Magnavox Odyssey 2|O2EM-lr|.bin|o2rom.bin
+Mattel Intellivision|FreeIntv-lr|.bin, .int, .zip, .7z|exec.bin, grom.bin
+Mega Duck/Cougar Boy|SameDuck-lr|.bin, .zip, .7z
+MSX|blueMSX-lr, fMSX-lr|.cas, .dsk, .mx1, .mx2, .rom, .zip, .7z|[blueMSX](http://bluemsx.msxblue.com/download.html)
+MSX2|blueMSX-lr, fMSX-lr|.cas, .dsk, .mx1, .mx2, .rom, .zip, .7z|[blueMSX](http://bluemsx.msxblue.com/download.html)
+NEC PC Engine|Beetle PCE Fast-lr, Beetle SuperGrafx-lr|.pce, .chd, .zip, .7z|
+NEC PC Engine CD|Beetle PCE-lr,Beetle PCE Fast-lr|.pce, .ccd, .iso, .img, .chd, .cue|syscard3.pce
+NEC PC-8800|QUASI88-lr|.d88, .u88, .m3u|[bios](https://docs.libretro.com/library/quasi88/#bios)
+NEC PC-98|Neko Project II Kai-lr, Neko Project II-lr|.d88, .fdi, .hdi, .zip|[bios](https://docs.libretro.com/library/neko_project_ii_kai/#bios)
+NEC PC-FX|Beetle PC-FX-lr|.chd, .zip, .cue, .ccd, .toc|pcfx.rom
+Nintendo 64|M64Plus FZ, Mupen64Plus-Next GLES3-lr, ParaLLEI-lr|.z64, .n64, .v64, .zip
+Nintendo DS|DeSmuME-lr, DeSmuME 2015-lr, Drastic, melonDS, noods, melonDS-lr|.zip, .nds|nds_bios_arm7.bin, nds_bios_arm9.bin, bios7.bin, bios9.bin
+Nintendo Entertainment System|FCEUmm-lr, Messen-lr, Nestopia UE-lr, QuickNES-lr|.nes, .zip, .7z|
+Nintendo GameBoy Advance|gpSP-lr, mGBA-lr, VBA Next-lr, VBA-M-lr|.gba, .zip, .7z|gba_bios.bin
+Nintendo GameBoy|Gambatte-lr, Gearboy-lr, mGBA-lr, TGB Dual-lr, VBA-M-lr|.gb, .gbc, .dmg, .zip, .7z|gb_bios.bin, sgb_bios.bin
+Nintendo GameBoy Color|Gambatte-lr, Gearboy-lr, mGBA-lr, TGB Dual-lr, VBA-M-lr|.gb, .gbc, .dmg, .zip, .7z|gbc_bios.bin, sgb_bios.bin
+Nintendo Gamecube|Dolphin, Dolphin MMJ, Dolphin MMJR|.iso, .gzip, .rvz, .nkit|
+Nintendo Pokemon Mini|PokeMini-lr|.min, .zip|bios.min
+Nintendo SNES|Beetle Supafraust-lr, bsnes-lr, bsnes-mercury (Balanced)-lr, bsnes-mercury (Performance)-lr, Snes9x 2002-lr, Snes9x 2005-lr, Snes9x 2005 Plus-lr, Snes9x 2010-lr|.sfc, .smc, .zip, .7z|
+Nintendo Virtual Boy|Beetle VB-lr|.vb, .vboy, .zip, .7z|
+Oberon RISC Emulator|Oberon RISC Emulator-lr|.dsk|
+Palm OS|Mu-lr|.prc, .pqa, .img, .pdb|palmos41-en-m515.rom
+Philips CDi|SAME CDi-lr|.chd, .iso|cdimono1.zip, cdimono2.zip, cdibios.zip
+Pico-8|Retro8-lr|.png, .p8
+RPG Maker 2000/2003|EasyRPG-lr|.ldb, .zip, .easyrpg|
+ScummVM|ScummVM, ScummVM-lr|.zip, .scummvm|
+Sega 32X|PicoDrive-lr|.32x, .7z, .bin, .md, .smd, .zip|
+Sega CD/Mega CD|Genesis Plus GX-lr, Genesis Plus GX Wide-lr, PicoDrive-lr|.chd, .bin/cue|bios_CD_U.bin, bios_CD_E.bin, bios_CD_J.bin
+Sega Dreamcast|Flycast, Flycast-lr, Redream|.chd, .bin/.cue, .bin/.gdi, .bin/cdi|dc/dc_boot.bin
+Sega Game Gear|Gearsystem-lr, Genesis Plus GX-lr|.bin, .gg, .zip, .7z|bios.gg
+Sega Genesis/MegaDrive|Genesis Plus GX-lr, Genesis Plus GX Wide-lr, PicoDrive-lr|.68k, .mdx, .md, .sgd, .smd, .gen, .bin, .zip, .7z|bios_MD.bin
+Sega Master System|Gearsystem-lr, Genesis Plus GX-lr, Genesis Plus GX Wide-lr, PicoDrive-lr|.7z, .bin, .sms, .zip|bios_E.sms, bios_U.sms, bios_J.sms
+Sega Saturn|Beetle Saturn-lr, YabaSanshiro, YabSanshiro-lr, Yabause-lr|.chd, .iso, .bin/.cue|saturn_bios.bin
+Sega SG-1000|Gearsystem-lr, Genesis Plus GX-lr, Genesis Plus GX Wide-lr, blueMSX-lr|.7z, .bin, .sg, .zip|[blueMSX](http://bluemsx.msxblue.com/download.html)
+Sega VMU|VeMUlator-lr|.vms, .bin|
+Sharp X1|X Millennium-lr|.dx1, .zip, .2d, .2hd, .tfd, .d88, .88d, .hdm, .xdf, .dup, .cmd|IPLROM.X1, IPLROM.X1T
+Sharp X68000|PX68k-lr|.dim, .m3u|iplrom.dat, cgrom.dat, iplrom30.dat, iplromco.dat, iplromxv.dat
+Sinclair ZX 81|EightyOne-lr|.p, .tzx, .zip
+Sinclair ZX Spectrum|Fuse-lr|.sna, .szx, .z80, .tap, .tzx, .gz, .udi, .mgt, .img, .trd, .scl, .dsk
+SNK Neo Geo CD|Final Burn Neo-lr, NeoCD-lr|.cue, .chd|neocd_f.rom, neocd_sf.rom, front-sp1.bin, neocd_t.rom, neocd_st.rom, top-sp1.bin, neocd_z.rom, neocd_sz.rom, neocd.bin, ng-lo.rom, 000-lo.lo, uni-bioscd.rom, neocd.zip
+SNK Neo Geo Pocket|Beetle NeoPop-lr, RACE-lr|.ngp, .ngc, .zip, .7z|
+Sony PlayStation|Avocado, DuckStation, DuckStation-lr, ePSXe, FPse, PCSX-ReArmed-lr, SwanStation-lr|.chd, .bin/.cue, .pbp|scph5000.bin, scph5001.bin, scph5002.bin
+Sony PlayStation 2|AetherSX2|.chd, .bin/cue, .iso|scph10000.bin
+Sony PlayStation Portable|PPSSPP, PPSSPP-lr|.iso, .cso, .pbp|
+Thomson MO/TO|Theodore-lr|.fd, .sap, .k7, .m7, .m5, .rom|
+TIC-80|TIC-80-lr|.tic
+Uzebox|Uzem|.uze|
+VaporSpec|VaporSpec-lr|.vaporbin|
+WASM-4|WASM4-lr|.wasm|
+Watara Supervision|Potator-lr|.bin, .sv|
+Wolfebstein 3D|ECWolf-lr|.wl6, .n3d, .sod, .sdm, .wl1, .pk3, .exe|ecwolf.pk3
