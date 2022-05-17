@@ -57,7 +57,7 @@ Nintendo 3DS|Citra, Citra Enhanced, Citra MMJ|`.3ds`, .3dsx|
 Nintendo 64|M64Plus FZ, Mupen64Plus-Next GLES3-lr, ParaLLEI-lr|`.z64`, `.n64`, .v64, .zip
 Nintendo DS|DeSmuME-lr, DeSmuME 2015-lr, Drastic, melonDS, noods, melonDS-lr|`.nds`, .zip|nds_bios_arm7.bin, nds_bios_arm9.bin, bios7.bin, bios9.bin
 Nintendo Entertainment System|FCEUmm-lr, Messen-lr, Nestopia UE-lr, QuickNES-lr|`.nes`, .zip, .7z|
-Nintendo GameBoy Advance|gpSP-lr, mGBA-lr, VBA Next-lr, VBA-M-lr|`.gba`, .zip, .7z|gba_bios.bin
+Nintendo GameBoy Advance|gpSP-lr, mGBA-lr, Pizza Boy GBA, VBA Next-lr, VBA-M-lr|`.gba`, .zip, .7z|gba_bios.bin
 Nintendo GameBoy|Gambatte-lr, Gearboy-lr, mGBA-lr, TGB Dual-lr, VBA-M-lr|`.gb`, .gbc, .dmg, .zip, .7z|gb_bios.bin, sgb_bios.bin
 Nintendo GameBoy Color|Gambatte-lr, Gearboy-lr, mGBA-lr, TGB Dual-lr, VBA-M-lr|`.gbc`, .gb, .dmg, .zip, .7z|gbc_bios.bin, sgb_bios.bin
 Nintendo Gamecube|Dolphin, Dolphin MMJ, Dolphin MMJR|`.iso`, `.gcz`, .rvz, .nkit|
@@ -68,7 +68,7 @@ Nintendo Wii|Dolphin, Dolphin MMJ, Dolphin MMJR|`.iso`, .rvz, .nkit|
 Oberon RISC Emulator|Oberon RISC Emulator-lr|.dsk|
 Palm OS|Mu-lr|.prc, .pqa, .img, .pdb|palmos41-en-m515.rom
 Philips CDi|SAME CDi-lr|.chd, .iso|cdimono1.zip, cdimono2.zip, cdibios.zip
-Pico-8|Retro8-lr|.png, .p8
+Pico-8|P8 Player, Retro8-lr|.png, .p8
 RPG Maker 2000/2003|EasyRPG-lr|.ldb, .zip, .easyrpg|
 ScummVM|ScummVM, ScummVM-lr|.zip, .scummvm|
 Sega 32X|PicoDrive-lr|.32x, .7z, .bin, .md, .smd, .zip|
@@ -86,7 +86,7 @@ Sinclair ZX 81|EightyOne-lr|.p, .tzx, .zip
 Sinclair ZX Spectrum|Fuse-lr|.sna, .szx, .z80, .tap, .tzx, .gz, .udi, .mgt, .img, .trd, .scl, .dsk
 SNK Neo Geo CD|Final Burn Neo-lr, NeoCD-lr|.cue, .chd|neocd_f.rom, neocd_sf.rom, front-sp1.bin, neocd_t.rom, neocd_st.rom, top-sp1.bin, neocd_z.rom, neocd_sz.rom, neocd.bin, ng-lo.rom, 000-lo.lo, uni-bioscd.rom, neocd.zip
 SNK Neo Geo Pocket|Beetle NeoPop-lr, RACE-lr|.ngp, .ngc, .zip, .7z|
-Sony PlayStation|Avocado, DuckStation, DuckStation-lr, ePSXe, FPse, PCSX-ReArmed-lr, SwanStation-lr|`.chd`, `.pbp`, .bin/.cue, .m3u|scph5000.bin, scph5001.bin, scph5002.bin
+Sony PlayStation|Avocado, DuckStation, DuckStation-lr, ePSXe, FPse, PCSX-ReArmed-lr, SwanStation-lr, XEBRA|`.chd`, `.pbp`, .bin/.cue, .m3u|scph5000.bin, scph5001.bin, scph5002.bin, psxonpsp660.bin
 Sony PlayStation 2|AetherSX2|.iso, .chd, .bin/cue|scph10000.bin
 Sony PlayStation Portable|PPSSPP, PPSSPP-lr|`.iso`, .cso, .pbp|
 Thomson MO/TO|Theodore-lr|.fd, .sap, .k7, .m7, .m5, .rom|
