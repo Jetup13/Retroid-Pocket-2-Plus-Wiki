@@ -1,14 +1,15 @@
 # First Time Setup
 
-Setting up RetroArch can seem hectic and overwhelming at it first. Here's a few settings I go through whenever I load up RetroArch for the first time. 
+Retroid provides a RetroArch config themselves. You can enable this by opening the `Retroid Launcher > Setup > RetroArch Setup`
 
-_Anything with a ✓ is up to the user_
-
-To save configuration: `Main Menu > Configuration File > Save Current Configuration`
+Here's a few settings I go through personally whenever I load and setup RetroArch myself
 
 <details>
 <summary>Settings</summary>
 <br>
+
+* _To save configuration: `Main Menu > Configuration File > Save Current Configuration`_
+* _Anything with a ✓ is up to the user_
 
 |RetroArch > Settings >|Change|User Preference|Note|
 |:---------------------|:-----|:--------------|:---|
@@ -83,7 +84,7 @@ Navigate to RetroArch > Settings > Input > Hotkeys
 
 Here's the `retroarch.cfg` for each Retroarch. These are the with the changes shown above. `DO NOT MIX RETROARCH CONFIG FILES`. Some parts of a config are meant for the version being loaded (Such as directory's for cores and online updater addresses). These configs assume you have your controller set to `Xbox` 
 
-_I highly suggest setting up RetroArch yourself._
+_I highly suggest setting up RetroArch yourself or use Retroids pre-configured setup._
 
 |RetroArch version|File Location|
 |:----------------|:------------|
