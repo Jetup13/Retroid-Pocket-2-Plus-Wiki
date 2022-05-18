@@ -2,9 +2,15 @@
 
 The AOSP Launcher is one of two preinstalled front-ends that you can use when loading up your Retroid Pocket 2 Plus. It's your typical Android launcher.
 
+<details>
+<summary>AOSP Launcher Image</summary>
+<br>
+
 AOSP Launcher|
 :------------:|
 ![](https://github.com/Jetup13/Retroid-Pocket-2-Plus-FAQ/blob/main/Images/aosp.png)|
+
+</details>
 
 # Game Assistant Widget (Touch Overlay)
 
@@ -18,10 +24,15 @@ The Game Assistant is a multifunction tool that pops up when loading a game. It 
 * Record
 
 To turn off the Game Assistant widget simply `swipe the top the top of your screen > tap the game controller icon (Floating Icon)`
+<details>
+<summary>Game Assistant Images</summary>
+<br>
 
 Widget (On Screen)|Opened|Disable/Enable|
 :-----------------:|:-----:|:-------------:|
 ![](https://github.com/Jetup13/Retroid-Pocket-2-Plus-FAQ/blob/main/Images/gameassistant1.png)|![](https://github.com/Jetup13/Retroid-Pocket-2-Plus-FAQ/blob/main/Images/gameassistant2.png)|![](https://github.com/Jetup13/Retroid-Pocket-2-Plus-FAQ/blob/main/Images/gameassistant3.png)
+
+</details>
 
 # Input
 
@@ -38,11 +49,17 @@ You can do the following in the Retroid Launcher:
 * Add systems, roms, and launch apps
 * Use Retroid's RetroArch/Standalone preconfigured setup
 
+<details>
+<summary>Retroid Launcher Images</summary>
+<br>
+
 Retroid Launcher Home|Add Systems|Game List View 1|Gamelist View 2|
 :--------------------:|:----------:|:---------------:|:--------------:|
 ![](https://github.com/Jetup13/Retroid-Pocket-2-Plus-FAQ/blob/main/Images/rlhome.png)|![](https://github.com/Jetup13/Retroid-Pocket-2-Plus-FAQ/blob/main/Images/rladdsystems.png)|![](https://github.com/Jetup13/Retroid-Pocket-2-Plus-FAQ/blob/main/Images/rlview1.png)|![](https://github.com/Jetup13/Retroid-Pocket-2-Plus-FAQ/blob/main/Images/rlview2.png)
 
-To use Retroid's preconfigured RetroArch/Standalone setup:`Retroid Launcher System Screen > Setup`
+</details>
+
+* _To use Retroid's preconfigured RetroArch/Standalone setup:`Retroid Launcher System Screen > Setup`_
 
 # Setup Wizard
 
