@@ -1,0 +1,9 @@
+Download apk
+
+Open apk with 7zip.
+
+Place your `answer\`, `scripts\`, `sounds\`, and `data.win` (rename to game.droid) folders and files from your VA-11 HALL-A install inside the apk.
+
+Sign apk with your favorite apk signing app (ZipSigner for instance).
+
+Install signed apk.
