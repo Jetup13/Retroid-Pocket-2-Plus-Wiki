@@ -16,7 +16,8 @@ This portion are for native ports on the android platform.
 |[OpenMW](https://github.com/xyzz/openmw-android/releases) (Morrowind)|[File Structure](https://github.com/Jetup13/Retroid-Pocket-2-Plus-FAQ/blob/main/GamePorts/OpenMW.txt)|Change UI Scale Factor to around .80|Xbox/Touch|
 |[RVGL](https://re-volt.io/downloads/game) (Re-Volt)|[File Structure](https://github.com/Jetup13/Retroid-Pocket-2-Plus-FAQ/blob/main/GamePorts/RVGL.txt)|Switch the controller in the options menu|Xbox||
 [San Andreas Unity](https://github.com/GTA-ASM/SanAndreasUnity/wiki/Running-on-Android) (GTA SA Multiplayer)|[File Structure](https://github.com/Jetup13/Retroid-Pocket-2-Plus-FAQ/blob/main/GamePorts/SanAndreasUnity.txt)|Options > Input > Use Touch input off|Xbox/Touch|Controls are a mess. Not worth it|
-[Xash3D-FWGS](https://github.com/FWGS/xash3d-fwgs/releases) (Half Life)|[File Structure](https://github.com/Jetup13/Retroid-Pocket-2-Plus-FAQ/blob/main/GamePorts/Xash3D.txt)|Xbox|
+[Source Engine](https://discord.com/invite/NaAhjQt6) (Half Life 2)|[File Structure](https://github.com/Jetup13/Retroid-Pocket-2-Plus-FAQ/blob/main/GamePorts/HalfLife2.txt)|Options > Mouse > Enable Gamepad / Touch > Disable Touch|Xbox|
+[Xash3D-FWGS](https://github.com/FWGS/xash3d-fwgs/releases) (Half Life)|[File Structure](https://github.com/Jetup13/Retroid-Pocket-2-Plus-FAQ/blob/main/GamePorts/Xash3D.txt)|Configration > Touch > Touch Options > Disable Touch|Xbox|
 
 # RetroArch (Libretro)
 

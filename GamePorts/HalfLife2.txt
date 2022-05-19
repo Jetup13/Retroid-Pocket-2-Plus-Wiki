@@ -1,0 +1,5 @@
+Create a folder called `srceng\` in the root of your internal storage
+
+Copy every folder of your Half-Life 2 installation (besides `bin\`) to the `srceng\` folder
+
+Install the source engine apk annd launch.
