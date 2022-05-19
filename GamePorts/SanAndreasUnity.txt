@@ -1,0 +1,26 @@
+Create a folder called "gtasa" anywhere on your device
+
+Place your GTA Sandreas install inside that folder
+
+Install the apk and navigate to "Change path to GTA"
+
+Select the location of your "gtasa\" folder you created
+
+Start game
+
+Folders
+
+`gtasa\`
+>models\
+>movies\
+>ReadMe\
+>text\
+>eax.dll
+>gta-sa.exe
+>installscript.vdf
+>ogg.dll
+>stream.ini
+>vorbis.dll
+>vorbisFile.dll
+>anim
+>audio
