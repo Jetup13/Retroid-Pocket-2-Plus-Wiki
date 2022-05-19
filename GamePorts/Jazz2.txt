@@ -1,0 +1,11 @@
+* From github
+
+Download both Desktop and Android releases
+
+Drag and drop original Jazz Jackrabbit 2 directory on Import.exe
+
+Copy `Content\` directory to `Internal Shared Storage\jazz2.android\Content\`
+
+Create empty file `.nomedia` in `Internal Shared Storage\jazz2.android\` to hide files from Android Gallery (optional)
+
+Install Jazz2.apk on Android device

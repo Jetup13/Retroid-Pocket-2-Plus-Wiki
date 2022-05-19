@@ -11,9 +11,12 @@ This portion are for native ports on the android platform.
 |[CorsixTH-Android](https://github.com/alanwoolley/CorsixTH-Android#download) (Theme Hospital)|[File Structure](https://github.com/Jetup13/Retroid-Pocket-2-Plus-FAQ/blob/main/GamePorts/CorsixTH.txt)||Touch||
 |[DevilutionX](https://github.com/diasurgical/devilutionX) (Diablo 1)|[File Structure](https://github.com/Jetup13/Retroid-Pocket-2-Plus-FAQ/blob/main/GamePorts/DevilutionX.txt)| |Xbox||
 |[DIII4A](https://github.com/glKarin/com.n0n3m4.diii4a) (Doom 3)|[File Structure](https://github.com/Jetup13/Retroid-Pocket-2-Plus-FAQ/blob/main/GamePorts/DIII4A.txt)|Turn off lighting|Xbox|Don't change movement input|
+[Jazz 2 Resurrection](https://github.com/deathkiller/jazz2#android) (Jazz Jackrabbit 2)|[File Structure](https://github.com/Jetup13/Retroid-Pocket-2-Plus-FAQ/blob/main/GamePorts/Jazz2.txt)||Xbox|
 |[Open Lara](https://github.com/XProger/OpenLara) (Tomb Raider 1)|[File Structure](https://github.com/Jetup13/Retroid-Pocket-2-Plus-FAQ/blob/main/GamePorts/Open%20Lara.txt)|Long press app icon > App info > Permissions > Storage > On. |Xbox|Change detail level to mid|
 |[OpenMW](https://github.com/xyzz/openmw-android/releases) (Morrowind)|[File Structure](https://github.com/Jetup13/Retroid-Pocket-2-Plus-FAQ/blob/main/GamePorts/OpenMW.txt)|Change UI Scale Factor to around .80|Xbox/Touch|
 |[RVGL](https://re-volt.io/downloads/game) (Re-Volt)|[File Structure](https://github.com/Jetup13/Retroid-Pocket-2-Plus-FAQ/blob/main/GamePorts/RVGL.txt)|Switch the controller in the options menu|Xbox||
+[San Andreas Unity](https://github.com/GTA-ASM/SanAndreasUnity/wiki/Running-on-Android) (GTA SA Multiplayer)|[File Structure](https://github.com/Jetup13/Retroid-Pocket-2-Plus-FAQ/blob/main/GamePorts/SanAndreasUnity.txt)|Options > Input > Use Touch input off|Xbox/Touch|Controls are a mess. Not worth it|
+[Xash3D-FWGS](https://github.com/FWGS/xash3d-fwgs/releases) (Half Life)|[File Structure](https://github.com/Jetup13/Retroid-Pocket-2-Plus-FAQ/blob/main/GamePorts/Xash3D.txt)|Xbox|
 
 # RetroArch (Libretro)
 

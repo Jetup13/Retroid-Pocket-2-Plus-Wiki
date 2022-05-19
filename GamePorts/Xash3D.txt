@@ -1,0 +1,8 @@
+Copy your Half-Life `valve` folder to either one of the following folders:
+
+Internal Storage (root): `xash\`
+External Storage: `Android\data\in.celest.xash3d.hl\files\`
+
+Install and launch the apk
+
+Go through prompts
