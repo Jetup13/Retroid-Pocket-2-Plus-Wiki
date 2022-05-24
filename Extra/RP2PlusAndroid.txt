@@ -34,11 +34,17 @@ Widget (On Screen)|Opened|Disable/Enable|
 
 </details>
 
+# Hide images in gallery
+
+Tired of emulators creating tons of images in your picture gallery? Create a [.nomedia](https://github.com/Jetup13/Retroid-Pocket-2-Plus-FAQ/blob/main/Extra/.nomedia) file. It will hide every image in the same folder (+ subfolders).
+
 # Input
 
 The Retroid Pocket 2 Plus has two controller style: `Xbox` and `Retro`. If you enjoy the A button (Right) as your select/accept then choose `Retro`. I'd recommend sticking with `Xbox` for game and app compatibility.
 
 To set input style or check other input related options: `Android setting > Handheld Settings > Input`
+
+To enable virtual mouse mode simply hold the Home button for 3 seconds. To disable hold the Home button again for 3 seconds
 
 # Retroid Launcher
 
@@ -60,6 +66,8 @@ Retroid Launcher Home|Add Systems|Game List View 1|Gamelist View 2|
 </details>
 
 * _To use Retroid's preconfigured RetroArch/Standalone setup:`Retroid Launcher System Screen > Setup`_
+* _To switch cover art with your own on the device: long press the game and select "Box Cover" and navigate to the `.png`._
+* _To add your own custom box art via computer place your `.pngs` in the Internal storage `RP3Launcher\Emulations\systemname` folders. Make sure to exit and re-enter the Retroid Launcher for it to take effect._
 
 # Setup Wizard
 
@@ -98,6 +106,17 @@ Android Settings > Handheld Settings > Advanced > Control Screen Drive Noise > R
 ![](https://github.com/Jetup13/Retroid-Pocket-2-Plus-FAQ/blob/main/Images/screennoise.png)|
 
 </details>
+
+# Storage Paths
+
+If you're ever needing to type out your folder path on the device:
+
+Storage|Path|
+:------|:---|
+Internal Storage|**/storage/emulated/0**
+External micro SD Card|**/storage/sdcard0/**
+
+_External SD card can also appear as **/storage/xxxx-xxxx/** (x = random string of numbers). It's best to use **/storage/sdcard0/** in this case if your swapping out multiple mirco SD card._
 
 # Updater
 

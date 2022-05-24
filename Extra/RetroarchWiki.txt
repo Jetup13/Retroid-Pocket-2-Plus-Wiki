@@ -1,6 +1,8 @@
 # First Time Setup
 
-Retroid provides a RetroArch config themselves. You can enable this by opening the `Retroid Launcher > Setup > RetroArch Setup`
+Retroid provides a RetroArch config themselves.
+
+You can enable this by opening the `Retroid Launcher > Setup > RetroArch Setup`
 
 Here's a few settings I go through personally whenever I load and setup RetroArch myself
 
