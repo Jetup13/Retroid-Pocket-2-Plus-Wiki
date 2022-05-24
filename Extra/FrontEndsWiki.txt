@@ -1,0 +1,12 @@
+List of Available Android Launchers
+
+Frontend|Price|Notes|
+:-------|:----|:----|
+[AOSP Launcher](https://github.com/Jetup13/Retroid-Pocket-2-Plus-FAQ/wiki/Retroid-Pocket-2-Plus-Android#aosp-launcher)|Free|Pre-Installed|
+[ARC Browser](https://play.google.com/store/apps/details?id=net.floatingpoint.android.arcturus)|$8.49|
+[Daijishō](https://play.google.com/store/apps/details?id=com.magneticchen.daijishou)|Free|
+[Dig](https://play.google.com/store/apps/details?id=com.digdroid.alman.dig)|Free / In-App Purchases|
+[Launchbox](https://www.launchbox-app.com/android-download)|Free / $10 (_+ $5 yearly for updates or $15 upgrade_) / $25|
+[Pegasus](https://pegasus-frontend.org/#downloads)|Free|
+[Retroid Launcher](https://github.com/Jetup13/Retroid-Pocket-2-Plus-FAQ/wiki/Retroid-Pocket-2-Plus-Android#retroid-launcher)|Free|Pre-Installed
+[RESET Collection](https://play.google.com/store/apps/details?id=com.retroloungelab.resetcollection)|$4.99

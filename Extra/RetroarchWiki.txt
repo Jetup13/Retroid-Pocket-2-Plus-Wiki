@@ -16,7 +16,7 @@ Here's a few settings I go through personally whenever I load and setup RetroArc
 |RetroArch > Settings >|Change|User Preference|Note|
 |:---------------------|:-----|:--------------|:---|
 |`Input`|Maximum Users > 1|✓|Leave to 5 if you plan on using multiple controllers
-||[Heptic Feedback/Vibration > Enable Device Vibration (For Supported Cores) > On](https://github.com/Jetup13/Retroid-Pocket-2-Plus-FAQ/wiki/RetroArch#vibration)|
+||[Heptic Feedback/Vibration > Enable Device Vibration (For Supported Cores) > On](https://github.com/Jetup13/Retroid-Pocket-2-Plus-Wiki/wiki/RetroArch#vibration)|
 ||Menu Controls > All Users Control Menu > On|
 ||
 ||
@@ -28,7 +28,7 @@ Here's a few settings I go through personally whenever I load and setup RetroArc
 ||On-Screen Notifications > Scale Graphics Widgets > Off|✓|
 ||On-Screen Notifications > Graphics Widgets Scale Override > 1.50x|✓|
 ||On-Screen Notifications > Notification Size > 40.0|✓|
-||On-Screen Overlay > Display Overlay > Off|✓|If you plan on using a overlay then use [this one](https://github.com/Jetup13/Retroid-Pocket-2-Plus-FAQ/wiki/RetroArch#adding-l3r3) instead|
+||On-Screen Overlay > Display Overlay > Off|✓|If you plan on using a overlay then use [this one](https://github.com/Jetup13/Retroid-Pocket-2-Plus-Wiki/wiki/RetroArch#adding-l3r3) instead|
 ||
 ||
 |`User Interface`|Show Advanced Settings > On|✓|Back out of menu for it to take effect
@@ -90,7 +90,7 @@ _I highly suggest setting up RetroArch yourself or use Retroids pre-configured s
 
 |RetroArch version|File Location|
 |:----------------|:------------|
-RetroArch (AArch64)|[Internal shared storage\Android\data\com.retroarch.aarch64\files](https://github.com/Jetup13/Retroid-Pocket-2-Plus-FAQ/blob/main/LibretroConfigs/RetroArchAArch64.zip)
+RetroArch (AArch64)|[Internal shared storage\Android\data\com.retroarch.aarch64\files](https://github.com/Jetup13/Retroid-Pocket-2-Plus-Wiki/blob/main/LibretroConfigs/RetroArchAArch64.zip)
 RetroArch Plus|Will update later
 RetroArch 32 Bit|Internal shared storage\Android\data\com.retroarch.ra32\files
 RetroArch|Will update later
@@ -101,7 +101,7 @@ RetroArch|Will update later
 
 You can easily add L3/R3 buttons through an overlay.
 
-1. Download the files [here](https://github.com/Jetup13/Retroid-Pocket-2-Plus-FAQ/raw/main/Extra/touchscreenoverlay.zip)
+1. Download the files [here](https://github.com/Jetup13/Retroid-Pocket-2-Plus-Wiki/raw/main/Extra/touchscreenoverlay.zip)
 
 2. Create a `Overlays\` folder in your `Internal shared storage\RetroArch` folder
 
@@ -111,7 +111,7 @@ You can easily add L3/R3 buttons through an overlay.
 
 5. Opacity can be changed in the same menu
 
-![](https://github.com/Jetup13/Retroid-Pocket-2-Plus-FAQ/blob/main/Images/touch.png)
+![](https://github.com/Jetup13/Retroid-Pocket-2-Plus-Wiki/blob/main/Images/touch.png)
 
 _Overlay was created using [RetroPad Editor](https://valent-in.github.io/retropad-editor/)._
 _Created by Jetup13. Edited by [Plaidman](https://github.com/plaidman)_
@@ -126,9 +126,9 @@ Make sure to also include the folder of the cores name.
 
 Core|File|Changes|
 :---|:---|:---|
-Cannonball (Outrun)|[File/Folder](https://github.com/Jetup13/Retroid-Pocket-2-Plus-FAQ/blob/main/LibretroConfigs/Cannonball.zip)|Widerscreen off, Hi-Res on
-DuckStation|[File/Folder](https://github.com/Jetup13/Retroid-Pocket-2-Plus-FAQ/blob/main/LibretroConfigs/DuckStation.zip)|Software Renderer on
-SwanStation|[File/Folder](https://github.com/Jetup13/Retroid-Pocket-2-Plus-FAQ/blob/main/LibretroConfigs/SwanStation.zip)|Software Renderer on
+Cannonball (Outrun)|[File/Folder](https://github.com/Jetup13/Retroid-Pocket-2-Plus-Wiki/blob/main/LibretroConfigs/Cannonball.zip)|Widerscreen off, Hi-Res on
+DuckStation|[File/Folder](https://github.com/Jetup13/Retroid-Pocket-2-Plus-Wiki/blob/main/LibretroConfigs/DuckStation.zip)|Software Renderer on
+SwanStation|[File/Folder](https://github.com/Jetup13/Retroid-Pocket-2-Plus-Wiki/blob/main/LibretroConfigs/SwanStation.zip)|Software Renderer on
 
 # Default RetroArch Directory's
 
@@ -187,7 +187,7 @@ Video Shaders|`/data/user/0/com.retroarch.*/shaders/`
 
 Image 1|Image 2|
 :---|:---|
-![](https://github.com/Jetup13/Retroid-Pocket-2-Plus-FAQ/blob/main/Images/filebrowser1.png)|![](https://github.com/Jetup13/Retroid-Pocket-2-Plus-FAQ/blob/main/Images/filebrowser2.png)|
+![](https://github.com/Jetup13/Retroid-Pocket-2-Plus-Wiki/blob/main/Images/filebrowser1.png)|![](https://github.com/Jetup13/Retroid-Pocket-2-Plus-Wiki/blob/main/Images/filebrowser2.png)|
 
 </details>
 

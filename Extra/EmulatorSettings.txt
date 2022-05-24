@@ -1,0 +1,47 @@
+# DuckStation Standalone
+
+> App Settings
+
+Category|Setting Change|Note
+:-------|:-------------|:---|
+General|Fast Boot > On|Skips PSX intro
+General|GPU Renderer > Vulkan|
+Display|Show Messages > Off|
+Enhancements|Resolution Scale > 1x|Some games might be able to play at 2x
+Enhancements|PGXP Geometry Correction > On|Disable if Resolution Scale is at 2x
+Enhancements|PGXP Culling Correction > On|
+Enhancements|PGXP Texture Correction > On|
+
+> Controller Settings
+
+Category|Setting Change|Note
+:-------|:-------------|:---|
+Settings|Auto-Hide Touchscreen Controller > On|
+Settings|Device Vibration > On|
+Port 1|Controller Type > Analog Controller (DualShock)|
+Port 1|Use Analog Sticks for D-Pad in Digital Mode > On|
+
+* _To enable touch screen menu button: `Touchscreen Controller Settings > Change Type > Light gun`. Then `Add/Remove Buttons > Remove everything but OpenPauseMenu`. Make sure Auto-Hide Touchscreen Controller is off_
+
+# Dolphin MMJR2
+
+Use the [community config](https://mega.nz/file/eQIGhJJb#UnsV-GN6x1-L4VPBo5B8AuFvEDmft4ALNshHFT28d4k) with the Dolphin MMJR2 build from the Retroid Setup Wizard.
+
+# PPSSPP Standalone
+
+Category|Setting Change|Note|
+:-------|:-------------|:---|
+Rendering Mode|Backend > OpenGL|
+Rendering Mode|Mode > Buffered Rendering|Switch to Non-buffered if you have problems
+Framerate Control|Frame skipping > 1|
+Framerate Control|Auto framskip > On|
+
+# Yaba Sanshiro 2
+
+Setting|Option|
+:------|:-----|
+CPU Core|New Dynamic
+Video Core|OpenGL
+Aspect Ratio|4:3
+Sound Engine|Legacy
+Sound Time Synchronization|Real Time

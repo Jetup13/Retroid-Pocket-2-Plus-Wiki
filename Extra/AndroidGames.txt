@@ -1,0 +1,71 @@
+Here's a list of android games that have been tested on the Retroid Pocket 2 Plus. 
+
+Please refer to the Android Game ports wiki for anything that mentions it for setup and fixes [here](https://github.com/Jetup13/Retroid-Pocket-2-Plus-Wiki/wiki/Game-Ports#native-apps).
+
+Item|Note|
+:---:|:---|
+🟩|Playable with little to no issues
+🟧|Playable with lots of issues or hardware limitations (such as vertical only)
+🟥|Not playable
+Xbox|Xbox input style was used during testing
+Xbox/Touch|Game used both touch and controller inputs
+Touch|Controller was not supported and was touch only
+V.Mouse|Virtual mouse mode was used (Hold Home button for 3 seconds)
+
+Title|Playable|Fixes|Input Style|Notes|
+:----|:-------:|:----|:----------|:----|
+[Alien Blackout](https://play.google.com/store/apps/details?id=com.D3Go.mendel)|🟩||Touch|
+[Among Us](https://play.google.com/store/apps/details?id=com.innersloth.spacemafia)|🟩||Xbox/Touch|
+[Back to Bed](https://play.google.com/store/apps/details?id=com.bedtime.backtobed)|🟩||Xbox|
+[Brawhlalla](https://play.google.com/store/apps/details?id=air.com.ubisoft.brawl.halla.platform.fighting.action.pvp)|🟩||Xbox|Small text|
+[Bully Anniversary Edition](https://play.google.com/store/apps/details?id=com.rockstargames.bully)|🟩||Xbox|
+[Chrono Trigger](https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.chrono)|🟩||Xbox|
+[CorsixTH-Android](https://github.com/alanwoolley/CorsixTH-Android#download) (Theme Hospital)|🟩||Touch|[Game Ports wiki](https://github.com/Jetup13/Retroid-Pocket-2-Plus-Wiki/wiki/Game-Ports)|
+[Crazy Taxi Classic](https://play.google.com/store/apps/details?id=com.sega.CrazyTaxiplayhaven)|🟩||Xbox/Touch||
+[Dead Cells](https://play.google.com/store/apps/details?id=com.playdigious.deadcells.mobile)|🟩|Options > Video > High Resolution|Xbox|
+[DevilutionX](https://github.com/diasurgical/devilutionX) (Diablo 1)|🟩||Xbox|[Game Ports wiki](https://github.com/Jetup13/Retroid-Pocket-2-Plus-Wiki/wiki/Game-Ports)|
+[DIII4A](https://github.com/glKarin/com.n0n3m4.diii4a) (Doom 3)|🟩||Xbox|[Game Ports wiki](https://github.com/Jetup13/Retroid-Pocket-2-Plus-Wiki/wiki/Game-Ports)|
+[Downwell](https://play.google.com/store/apps/details?id=com.devolver.downwell_rerelease)|🟧||Touch|Vertical Only|
+[Dragon Quest 1](https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.dq1_gp)|🟧||Touch|Vertical Only|
+[EvoCreo](https://play.google.com/store/apps/details?id=ilmfinity.evocreo.main.android)|🟩||Touch||
+Fahrenheit (Indigo Prophecy)|🟥||N/A|Black Screen and De-listed|
+[Fatal Fury Special](https://play.google.com/store/apps/details?id=com.snkplaymore.android012)|🟩||Touch|UI is off|
+[Final Fantasy 8 Remastered](https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.FFVIII)|🟩||Xbox|UI scaling is off on some elements|
+[Final Fantasy 9](https://play.google.com/store/apps/details?id=com.square_enix.FFIXww.android_googleplay)|🟩||Xbox/Touch|Choppy FMV's|
+[Final Fantasy Tactics WotL](https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.FFT_en2)|🟩||Touch|
+[GAROU: MARK OF THE WOLVES](https://play.google.com/store/apps/details?id=com.snkplaymore.android013)|🟩||Xbox|Analog reads four directions|
+[Grand Theft Auto 3](https://play.google.com/store/apps/details?id=com.rockstar.gta3)|🟩|Options > Draw Distance > 75%|Xbox|
+[Grand Theft Auto Vice City](https://play.google.com/store/apps/details?id=com.rockstargames.gtavc)|🟩||Xbox|
+[Gris](https://play.google.com/store/apps/details?id=com.devolver.grispaid)|🟥||Touch|
+[ICEY](https://play.google.com/store/apps/details?id=com.fantablade.icey)|🟩||Xbox/Touch|Menus require touch|
+Jade Empire|🟥||N/A|Black Screen and De-listed|
+[Jazz 2 Resurrection](https://github.com/deathkiller/jazz2#android) (Jazz Jackrabbit 2)|🟩||Xbox|[Game Ports wiki](https://github.com/Jetup13/Retroid-Pocket-2-Plus-Wiki/wiki/Game-Ports)|
+[Max Payne Mobile](https://play.google.com/store/apps/details?id=com.rockstar.maxpayne)|🟩||Xbox|
+[Metal Slug](https://play.google.com/store/apps/details?id=com.dotemu.neogeo.mslug)|🟩||Xbox|
+[Neverwinter Nights: Enhanced Edition](https://play.google.com/store/apps/details?id=com.beamdog.nwnandroid)|🟥||N/A|Pink Screen|
+[No Gravity - Space Combat Adventure](https://play.google.com/store/apps/details?id=com.realtechvr.nogravity)|🟩||Xbox|De-listed|
+[N.O.V.A Legacy](https://play.google.com/store/apps/details?id=com.gameloft.android.ANMP.GloftNOHM)|🟥||N/A|
+[Oddworld Strangers Wrath](https://play.google.com/store/apps/details?id=com.oddworld.Stranger)|🟩|Change Gamepad Mode to 2|Xbox|
+[Open Lara](https://github.com/XProger/OpenLara) (Tomb Raider 1)|🟩||Xbox|[Game Ports wiki](https://github.com/Jetup13/Retroid-Pocket-2-Plus-Wiki/wiki/Game-Ports)|
+[OpenMW](https://github.com/xyzz/openmw-android/releases) (Morrowind)|🟩||Xbox|[Game Ports wiki](https://github.com/Jetup13/Retroid-Pocket-2-Plus-Wiki/wiki/Game-Ports)|
+[Pascal's Wager](https://play.google.com/store/apps/details?id=com.tipsworks.android.pascalswager.google)|🟧||Xbox|Choppy
+[RPG Tears Revolude](https://play.google.com/store/apps/details?id=kemco.wws.revolude)|🟩||Xbox|
+[RVGL](https://re-volt.io/downloads/game) (Re-Volt)|🟩||Xbox|[Game Ports wiki](https://github.com/Jetup13/Retroid-Pocket-2-Plus-Wiki/wiki/Game-Ports)|
+[San Andreas Unity](https://github.com/GTA-ASM/SanAndreasUnity/wiki/Running-on-Android) (GTA SA Multiplayer)|🟧||Xbox|[Game Ports wiki](https://github.com/Jetup13/Retroid-Pocket-2-Plus-Wiki/wiki/Game-Ports)|
+[Source Engine Player](https://discord.com/invite/NaAhjQt6) (Half Life 2)|🟩||Xbox|[Game Ports wiki](https://github.com/Jetup13/Retroid-Pocket-2-Plus-Wiki/wiki/Game-Ports)|
+[Spelunky Classic HD](https://yancharkin.itch.io/spelunky-classic-hd)|🟩||Xbox|[Game Ports wiki](https://github.com/Jetup13/Retroid-Pocket-2-Plus-Wiki/wiki/Game-Ports)|
+[Star Wars Knights of the Old Republic](https://play.google.com/store/apps/details?id=com.aspyr.swkotor)|🟩||Xbox/Touch|Small text
+[Tesla vs. Lovecraft](https://play.google.com/store/apps/details?id=com.the10tons.teslavslovecraft)|🟩||Xbox|
+[THE KING OF FIGHTERS `97](https://play.google.com/store/apps/details?id=com.snkplaymore.android001)|🟩|Set controller to Xperia|Xbox|Analog reads four directions|
+[THE KING OF FIGHTERS `98](https://play.google.com/store/apps/details?id=com.snkplaymore.android007)|🟩|Set controller to Google or Samsung|Xbox|Analog reads four directions|
+[The Deer God](https://play.google.com/store/apps/details?id=com.crescentmoongames.deergod)|🟧||Xbox|Never swipe in game or you'll lose analog control's)
+[The Ramp](https://play.google.com/store/apps/details?id=com.crescentmoongames.theramp)|🟩||Xbox|
+[The World Ends With You](https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.subarashikikonosekai_solo)|🟩||Touch|
+[Titan Quest](https://play.google.com/store/apps/details?id=com.dotemu.titanquest)|🟩||Xbox|UI scaling is off on some elements|
+[Titan Quest: Legendary Edition](https://play.google.com/store/apps/details?id=com.hg.titanquestedition)|🟩||Xbox|UI scaling is off on some elements|
+[Tomb Raider](https://play.google.com/store/apps/details?id=com.squareenix.tombraider1classic)|🟩||Xbox|De-listed|
+[VA-11 HALL-A](https://drive.google.com/drive/folders/1YM3VtTuzeWWge9Tk8GPPjWn2IRBSowgn)|🟩||Touch/V.Mouse|[Game Ports wiki](https://github.com/Jetup13/Retroid-Pocket-2-Plus-Wiki/wiki/Game-Ports)|
+[VALKYRIE PROFILE: LENNETH](https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.ValkyrieProfilew)|🟩||Xbox/Touch|Gamepad support is limited|
+[Vita Fighters](https://play.google.com/store/apps/details?id=com.Angrydevs.VitaFighters)|🟩||Xbox|
+[Ys Chronicles 1](https://play.google.com/store/apps/details?id=com.dotemu.ys1x)|🟩||Xbox|Analog controls is sensitive|
+[Xash3D-FWGS](https://github.com/FWGS/xash3d-fwgs/releases) (Half Life)|🟩||Xbox|[Game Ports wiki](https://github.com/Jetup13/Retroid-Pocket-2-Plus-Wiki/wiki/Game-Ports)|

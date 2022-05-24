@@ -8,18 +8,18 @@ This portion are for native ports on the android platform.
 
 | Port Name| Files Required|Fixes|Input Type|Notes|
 | ---------|:-------------:|:---:|:--------:|:---:|
-|[CorsixTH-Android](https://github.com/alanwoolley/CorsixTH-Android#download) (Theme Hospital)|[File Structure](https://github.com/Jetup13/Retroid-Pocket-2-Plus-FAQ/blob/main/GamePorts/CorsixTH.txt)||Touch||
-|[DevilutionX](https://github.com/diasurgical/devilutionX) (Diablo 1)|[File Structure](https://github.com/Jetup13/Retroid-Pocket-2-Plus-FAQ/blob/main/GamePorts/DevilutionX.txt)| |Xbox||
-|[DIII4A](https://github.com/glKarin/com.n0n3m4.diii4a) (Doom 3)|[File Structure](https://github.com/Jetup13/Retroid-Pocket-2-Plus-FAQ/blob/main/GamePorts/DIII4A.txt)|Turn off lighting|Xbox|Don't change movement input|
-[Jazz 2 Resurrection](https://github.com/deathkiller/jazz2#android) (Jazz Jackrabbit 2)|[File Structure](https://github.com/Jetup13/Retroid-Pocket-2-Plus-FAQ/blob/main/GamePorts/Jazz2.txt)||Xbox|
-|[Open Lara](https://github.com/XProger/OpenLara) (Tomb Raider 1)|[File Structure](https://github.com/Jetup13/Retroid-Pocket-2-Plus-FAQ/blob/main/GamePorts/Open%20Lara.txt)|Long press app icon > App info > Permissions > Storage > On. |Xbox|Change detail level to mid|
-|[OpenMW](https://github.com/xyzz/openmw-android/releases) (Morrowind)|[File Structure](https://github.com/Jetup13/Retroid-Pocket-2-Plus-FAQ/blob/main/GamePorts/OpenMW.txt)|Change UI Scale Factor to around .80|Xbox/Touch|
-|[RVGL](https://re-volt.io/downloads/game) (Re-Volt)|[File Structure](https://github.com/Jetup13/Retroid-Pocket-2-Plus-FAQ/blob/main/GamePorts/RVGL.txt)|Switch the controller in the options menu|Xbox||
-[San Andreas Unity](https://github.com/GTA-ASM/SanAndreasUnity/wiki/Running-on-Android) (GTA SA Multiplayer)|[File Structure](https://github.com/Jetup13/Retroid-Pocket-2-Plus-FAQ/blob/main/GamePorts/SanAndreasUnity.txt)|Options > Input > Use Touch input off|Xbox/Touch|Controls are a mess. Not worth it|
-[Source Engine Player](https://discord.com/invite/NaAhjQt6) (Half Life 2)|[File Structure](https://github.com/Jetup13/Retroid-Pocket-2-Plus-FAQ/blob/main/GamePorts/HalfLife2.txt)|Options > Mouse > Enable Gamepad / Touch > Disable Touch|Xbox|
-[Spelunky Classic HD](https://yancharkin.itch.io/spelunky-classic-hd)|[File Structure](https://github.com/Jetup13/Retroid-Pocket-2-Plus-FAQ/blob/main/GamePorts/SPCHD.txt)|Options > Touch controls visibility > 0|Xbox
-[VA-11 HALL-A](https://drive.google.com/drive/folders/1YM3VtTuzeWWge9Tk8GPPjWn2IRBSowgn)|[File Structure](https://github.com/Jetup13/Retroid-Pocket-2-Plus-FAQ/blob/main/GamePorts/VallHallA.txt)|Enable virtual mouse mode by holding the home button for 3 seconds.|Touch/V.Mouse
-[Xash3D-FWGS](https://github.com/FWGS/xash3d-fwgs/releases) (Half Life)|[File Structure](https://github.com/Jetup13/Retroid-Pocket-2-Plus-FAQ/blob/main/GamePorts/Xash3D.txt)|Configration > Touch > Touch Options > Disable Touch|Xbox|
+|[CorsixTH-Android](https://github.com/alanwoolley/CorsixTH-Android#download) (Theme Hospital)|[File Structure](https://github.com/Jetup13/Retroid-Pocket-2-Plus-Wiki/blob/main/GamePorts/CorsixTH.txt)||Touch||
+|[DevilutionX](https://github.com/diasurgical/devilutionX) (Diablo 1)|[File Structure](https://github.com/Jetup13/Retroid-Pocket-2-Plus-Wiki/blob/main/GamePorts/DevilutionX.txt)| |Xbox||
+|[DIII4A](https://github.com/glKarin/com.n0n3m4.diii4a) (Doom 3)|[File Structure](https://github.com/Jetup13/Retroid-Pocket-2-Plus-Wiki/blob/main/GamePorts/DIII4A.txt)|Turn off lighting|Xbox|Don't change movement input|
+[Jazz 2 Resurrection](https://github.com/deathkiller/jazz2#android) (Jazz Jackrabbit 2)|[File Structure](https://github.com/Jetup13/Retroid-Pocket-2-Plus-Wiki/blob/main/GamePorts/Jazz2.txt)||Xbox|
+|[Open Lara](https://github.com/XProger/OpenLara) (Tomb Raider 1)|[File Structure](https://github.com/Jetup13/Retroid-Pocket-2-Plus-Wiki/blob/main/GamePorts/Open%20Lara.txt)|Long press app icon > App info > Permissions > Storage > On. |Xbox|Change detail level to mid|
+|[OpenMW](https://github.com/xyzz/openmw-android/releases) (Morrowind)|[File Structure](https://github.com/Jetup13/Retroid-Pocket-2-Plus-Wiki/blob/main/GamePorts/OpenMW.txt)|Change UI Scale Factor to around .80|Xbox/Touch|
+|[RVGL](https://re-volt.io/downloads/game) (Re-Volt)|[File Structure](https://github.com/Jetup13/Retroid-Pocket-2-Plus-Wiki/blob/main/GamePorts/RVGL.txt)|Switch the controller in the options menu|Xbox||
+[San Andreas Unity](https://github.com/GTA-ASM/SanAndreasUnity/wiki/Running-on-Android) (GTA SA Multiplayer)|[File Structure](https://github.com/Jetup13/Retroid-Pocket-2-Plus-Wiki/blob/main/GamePorts/SanAndreasUnity.txt)|Options > Input > Use Touch input off|Xbox/Touch|Controls are a mess. Not worth it|
+[Source Engine Player](https://discord.com/invite/NaAhjQt6) (Half Life 2)|[File Structure](https://github.com/Jetup13/Retroid-Pocket-2-Plus-Wiki/blob/main/GamePorts/HalfLife2.txt)|Options > Mouse > Enable Gamepad / Touch > Disable Touch|Xbox|
+[Spelunky Classic HD](https://yancharkin.itch.io/spelunky-classic-hd)|[File Structure](https://github.com/Jetup13/Retroid-Pocket-2-Plus-Wiki/blob/main/GamePorts/SPCHD.txt)|Options > Touch controls visibility > 0|Xbox
+[VA-11 HALL-A](https://drive.google.com/drive/folders/1YM3VtTuzeWWge9Tk8GPPjWn2IRBSowgn)|[File Structure](https://github.com/Jetup13/Retroid-Pocket-2-Plus-Wiki/blob/main/GamePorts/VallHallA.txt)|Enable virtual mouse mode by holding the home button for 3 seconds.|Touch/V.Mouse
+[Xash3D-FWGS](https://github.com/FWGS/xash3d-fwgs/releases) (Half Life)|[File Structure](https://github.com/Jetup13/Retroid-Pocket-2-Plus-Wiki/blob/main/GamePorts/Xash3D.txt)|Configration > Touch > Touch Options > Disable Touch|Xbox|
 
 # RetroArch (Libretro)
 
@@ -33,17 +33,17 @@ RetroArch Main Menu > Online Updater > Core Downloader
 | Engine|Files Required|Fixes|Notes|
 | ------|:------------:|:---:|:---:|
 |2048|None|||
-|Cannonball (Outrun)|[File Structure](https://github.com/Jetup13/Retroid-Pocket-2-Plus-FAQ/blob/main/GamePorts/CannonballLibretro.txt)|Quick Menu > Options > Video > Widescreen Patch > Off||
-|Cave Story (NXEngine)|[File Structure](https://github.com/Jetup13/Retroid-Pocket-2-Plus-FAQ/blob/main/GamePorts/CaveStoryLibretro.txt)|||
-|Dinothawr|[File Structure](https://github.com/Jetup13/Retroid-Pocket-2-Plus-FAQ/blob/main/GamePorts/DinothawrLibretro.txt)|||
-|Doom (PrBoom)|[File Structure](https://github.com/Jetup13/Retroid-Pocket-2-Plus-FAQ/blob/main/GamePorts/DoomLibretro.txt)||||
+|Cannonball (Outrun)|[File Structure](https://github.com/Jetup13/Retroid-Pocket-2-Plus-Wiki/blob/main/GamePorts/CannonballLibretro.txt)|Quick Menu > Options > Video > Widescreen Patch > Off||
+|Cave Story (NXEngine)|[File Structure](https://github.com/Jetup13/Retroid-Pocket-2-Plus-Wiki/blob/main/GamePorts/CaveStoryLibretro.txt)|||
+|Dinothawr|[File Structure](https://github.com/Jetup13/Retroid-Pocket-2-Plus-Wiki/blob/main/GamePorts/DinothawrLibretro.txt)|||
+|Doom (PrBoom)|[File Structure](https://github.com/Jetup13/Retroid-Pocket-2-Plus-Wiki/blob/main/GamePorts/DoomLibretro.txt)||||
 |Gong|None||||
-|Jump 'n Bump|[File Structure](https://github.com/Jetup13/Retroid-Pocket-2-Plus-FAQ/blob/main/GamePorts/JumpnBumpLibretro.txt)||Local Multiplayer only|
+|Jump 'n Bump|[File Structure](https://github.com/Jetup13/Retroid-Pocket-2-Plus-Wiki/blob/main/GamePorts/JumpnBumpLibretro.txt)||Local Multiplayer only|
 |Mr. Boom (Bomberman)|None|||
 |Quake I (TyrQuake)|File Structure|||
-|Quake II (vitaQuake 2)|[File Structure](https://github.com/Jetup13/Retroid-Pocket-2-Plus-FAQ/blob/main/GamePorts/vitaQuake2Libretro.txt)|Quick Menu > Options > Internal Resolution > 640x480||
-|Quake II (vitaQuake 2 Rogue)|[File Structure](https://github.com/Jetup13/Retroid-Pocket-2-Plus-FAQ/blob/main/GamePorts/vitaQuake2RLibretro.txt)|Quick Menu > Options > Internal Resolution > 640x480||
-|Quake II (vitaQuake 2 Xatrix)|[File Structure](https://github.com/Jetup13/Retroid-Pocket-2-Plus-FAQ/blob/main/GamePorts/vitaQuake2XLibretro.txt)|Quick Menu > Options > Internal Resolution > 640x480||
-|Quake II (vitaQuake 2 Zaero)|[File Structure](https://github.com/Jetup13/Retroid-Pocket-2-Plus-FAQ/blob/main/GamePorts/vitaQuake2ZLibretro.txt)|Quick Menu > Options > Internal Resolution > 640x480||
-|Rick Dangerous (XRick)|[File Structure](https://github.com/Jetup13/Retroid-Pocket-2-Plus-FAQ/blob/main/GamePorts/RickLibretro.txt)|||
+|Quake II (vitaQuake 2)|[File Structure](https://github.com/Jetup13/Retroid-Pocket-2-Plus-Wiki/blob/main/GamePorts/vitaQuake2Libretro.txt)|Quick Menu > Options > Internal Resolution > 640x480||
+|Quake II (vitaQuake 2 Rogue)|[File Structure](https://github.com/Jetup13/Retroid-Pocket-2-Plus-Wiki/blob/main/GamePorts/vitaQuake2RLibretro.txt)|Quick Menu > Options > Internal Resolution > 640x480||
+|Quake II (vitaQuake 2 Xatrix)|[File Structure](https://github.com/Jetup13/Retroid-Pocket-2-Plus-Wiki/blob/main/GamePorts/vitaQuake2XLibretro.txt)|Quick Menu > Options > Internal Resolution > 640x480||
+|Quake II (vitaQuake 2 Zaero)|[File Structure](https://github.com/Jetup13/Retroid-Pocket-2-Plus-Wiki/blob/main/GamePorts/vitaQuake2ZLibretro.txt)|Quick Menu > Options > Internal Resolution > 640x480||
+|Rick Dangerous (XRick)|[File Structure](https://github.com/Jetup13/Retroid-Pocket-2-Plus-Wiki/blob/main/GamePorts/RickLibretro.txt)|||
 |Super Bros War|File Structure|||

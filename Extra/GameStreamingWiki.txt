@@ -1,0 +1,52 @@
+# Moonlight 
+
+[Moonlight](https://play.google.com/store/apps/details?id=com.limelight) streams games, programs, or your full desktop from an NVIDIA GameStream-compatible PC on your local network or the Internet using NVIDIA GeForce Experience.
+
+If your using an AMD gpu then install [Sunshine](https://github.com/loki-47-6F-64/sunshine/releases) on your PC instead.
+
+# Stadia
+
+Stadia is a cloud gaming service developed and operated by Google. It works perfectly fine on the Retroid Pocket 2 Plus. Be mindful of the missing buttons when selecting games (L3/R3 namely).
+
+<details>
+<summary>Images</summary>
+<br>
+
+Home|Gameplay
+:--:|:-------:|
+![](https://github.com/Jetup13/Retroid-Pocket-2-Plus-Wiki/blob/main/Images/stadia1.png)|![](https://github.com/Jetup13/Retroid-Pocket-2-Plus-Wiki/blob/main/Images/stadia2.png)
+
+</details>
+
+# Steam Link
+
+Steam Link is a software solution made by Valve Corporation for streaming Steam content from a personal computer or Steam Machine wirelessly to a mobile device. 
+
+If you're having issues streaming to your Retroid Pocket 2 Plus (such as instant disconnection) try enabling HEVC Video.
+
+<details>
+<summary>HEVC Video</summary>
+<br>
+
+Step 1|Step 2|Step 3|Step 4
+:-:|:-:|:-:|:-:|
+![](https://github.com/Jetup13/Retroid-Pocket-2-Plus-Wiki/blob/main/Images/steamlink1.png)|![](https://github.com/Jetup13/Retroid-Pocket-2-Plus-Wiki/blob/main/Images/steamlink2.png)|![](https://github.com/Jetup13/Retroid-Pocket-2-Plus-Wiki/blob/main/Images/steamlink3.png)|![](https://github.com/Jetup13/Retroid-Pocket-2-Plus-Wiki/blob/main/Images/steamlink4.png)
+
+</details>
+
+<details>
+<summary>Touch Overlay (Add/Remove Buttons)</summary>
+<br>
+
+You can use the touch screen overlay to add buttons (such as the missing L3/R3).
+
+1. Settings > Controller > Enable Touch Controller
+2. In-Game touch the `...` on the top left > touch `Layout Controls` > Touch `Edit Layout`
+3. Drag and Drop with the touchscreen to remove and add buttons. 
+4. Touch the `...` again and touch `x` when finished
+
+Step 1|Step 2|Step 3|Step 4
+:-:|:-:|:-:|:-:|
+![](https://github.com/Jetup13/Retroid-Pocket-2-Plus-Wiki/blob/main/Images/steamlinkvcontroller1.png)|![](https://github.com/Jetup13/Retroid-Pocket-2-Plus-Wiki/blob/main/Images/steamlinkvcontroller2.png)|![](https://github.com/Jetup13/Retroid-Pocket-2-Plus-Wiki/blob/main/Images/steamlinkvcontroller3.png)|![](https://github.com/Jetup13/Retroid-Pocket-2-Plus-Wiki/blob/main/Images/steamlinkvcontroller4.png)
+
+</details>

@@ -44,7 +44,7 @@
 
 Android|PC|
 -------|--|
-![](https://github.com/Jetup13/Retroid-Pocket-2-Plus-FAQ/blob/main/Images/sta.png)|![](https://github.com/Jetup13/Retroid-Pocket-2-Plus-FAQ/blob/main/Images/stb.png)
+![](https://github.com/Jetup13/Retroid-Pocket-2-Plus-Wiki/blob/main/Images/sta.png)|![](https://github.com/Jetup13/Retroid-Pocket-2-Plus-Wiki/blob/main/Images/stb.png)
 
 Congrats! You should now have Syncthing setup to sync your RetroArch saves on between your Retroid Pocket 2 Plus and PC.
 
