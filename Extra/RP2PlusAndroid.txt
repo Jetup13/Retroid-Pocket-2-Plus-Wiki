@@ -34,6 +34,12 @@ Widget (On Screen)|Opened|Disable/Enable|
 
 </details>
 
+# Developer Mode
+
+* Android Settings > System > About Retroid Pocket 2+ > Tap Build Number 7 times
+
+In developer mode you enable and disable powerful android options such as unlocking the OEM bootloader. The general user will not need to use any of these options. 
+
 # Hide images in gallery
 
 Tired of emulators creating tons of images in your picture gallery? Create a [.nomedia](https://github.com/Jetup13/Retroid-Pocket-2-Plus-Wiki/blob/main/Extra/.nomedia) file. It will hide every image in the same folder (+ subfolders).

@@ -17,7 +17,7 @@ Enhancements|PGXP Texture Correction > On|
 Category|Setting Change|Note
 :-------|:-------------|:---|
 Settings|Auto-Hide Touchscreen Controller > On|
-Settings|Device Vibration > On|
+Settings|Device Vibration > On|To maximize performance leave vibration off
 Port 1|Controller Type > Analog Controller (DualShock)|
 Port 1|Use Analog Sticks for D-Pad in Digital Mode > On|
 

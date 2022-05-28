@@ -11,7 +11,7 @@
 
 `Setup`
 
-1. Install & SyncTrazyor 
+1. Install & launch SyncTrazyor 
 2. Click "Add Folder"
 3. Name the `Folder ID` "Retroarch Saves"
 4. Locate the directory path of your RetroArch saves on your PC and input it into `Folder Path` (My path is `C:\Users\jetup\AppData\Roaming\RetroArch\saves`. Yours will be different) 
@@ -28,7 +28,7 @@
 `What you need`:
 
 1. [SyncThing](https://play.google.com/store/apps/details?id=com.nutomic.syncthingandroid)
-2. [RetroArch](https://www.retroarch.com/?page=platforms)_ *Not needed but this guide will reference folders related to RetroArch_
+2. [RetroArch](https://www.retroarch.com/?page=platforms) _*Not needed but this guide will reference folders related to RetroArch_
 
 `Setup`
 
