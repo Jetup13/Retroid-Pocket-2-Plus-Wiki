@@ -10,3 +10,47 @@ Frontend|Price|Notes|
 [Pegasus](https://pegasus-frontend.org/#downloads)|Free|
 [Retroid Launcher](https://github.com/Jetup13/Retroid-Pocket-2-Plus-FAQ/wiki/Retroid-Pocket-2-Plus-Android#retroid-launcher)|Free|Pre-Installed
 [RESET Collection](https://play.google.com/store/apps/details?id=com.retroloungelab.resetcollection)|$4.99
+
+# Daijisho
+
+Daijishō is a retro launcher that let you manage your retro games libraries.
+
+<details>
+<summary>Preview Images</summary>
+<br>
+
+![](https://github.com/Jetup13/Retroid-Pocket-2-Plus-Wiki/blob/main/Images/Daijisho1.png)![](https://github.com/Jetup13/Retroid-Pocket-2-Plus-Wiki/blob/main/Images/Daijisho2.png)
+
+</details>
+
+<details>
+<summary>How to add systems</summary>
+<br>
+
+1. `Settings` > `Download Platforms` > Select each system you want to add > `Import`
+
+2. `Platforms` > Select `Paths`, `Add` and navigate to the systems folder > `Finish`
+
+3. Hit `Sync` to let the front-end find and scrape your games
+
+</details>
+
+<details>
+<summary>How to change emulator</summary>
+<br>
+
+1. On the `Platforms` tab select the pen icon > Player Settings drop down
+
+2. Select the emulator > `Save`
+
+</details>
+
+<details>
+<summary>How to change emulator per game</summary>
+<br>
+
+1. `Library` > Swipe the bottom section to the right until you get to `Edit Item`
+
+2. `Custom Player` On > Use Drop-down > `Save`
+
+</details>
