@@ -16,6 +16,7 @@ Title|Playable|Fixes|Input Style|Notes|
 :----|:-------:|:----|:----------|:----|
 [Alien Blackout](https://play.google.com/store/apps/details?id=com.D3Go.mendel)|🟩||Touch|
 [Among Us](https://play.google.com/store/apps/details?id=com.innersloth.spacemafia)|🟩||Xbox/Touch|
+[Asphalt 8](https://play.google.com/store/apps/details?id=com.gameloft.android.ANMP.GloftA8HM)|🟩||Xbox|Can get choppy
 [Back to Bed](https://play.google.com/store/apps/details?id=com.bedtime.backtobed)|🟩||Xbox|
 [Bards Tale](https://play.google.com/store/apps/details?id=com.inxile.BardTale)|🟩||Xbox|
 [Brawhlalla](https://play.google.com/store/apps/details?id=air.com.ubisoft.brawl.halla.platform.fighting.action.pvp)|🟩||Xbox|Small text|
@@ -46,6 +47,7 @@ Final Fantasy 4 (3D Remake)|🟩||Xbox|Amazon Appstore version used.
 Grand Theft Auto San Andreas|🟥||N/A|Amazon Appstore version used.|
 [Grand Theft Auto Vice City](https://play.google.com/store/apps/details?id=com.rockstargames.gtavc)|🟩||Xbox|
 [Gris](https://play.google.com/store/apps/details?id=com.devolver.grispaid)|🟥||Touch|
+[Gunfire Reborn](https://play.google.com/store/apps/details?id=com.duoyihk.m2m1)|🟩|Leave autofire on|Xbox/Touch|LT/RT don't work
 [Her Story](https://play.google.com/store/apps/details?id=com.MrSamBarlow.HerStoryGame)|🟩||V.mouse/Touch||
 [ICEY](https://play.google.com/store/apps/details?id=com.fantablade.icey)|🟩||Xbox/Touch|Menus require touch|
 Jade Empire|🟥||N/A|Black Screen and De-listed|
@@ -56,6 +58,7 @@ Jet Set Radio|🟩||Xbox|Amazon Appstore version used. De-listed|
 [Neverwinter Nights: Enhanced Edition](https://play.google.com/store/apps/details?id=com.beamdog.nwnandroid)|🟥||N/A|Pink Screen|
 [No Gravity - Space Combat Adventure](https://play.google.com/store/apps/details?id=com.realtechvr.nogravity)|🟩||Xbox|De-listed|
 [N.O.V.A Legacy](https://play.google.com/store/apps/details?id=com.gameloft.android.ANMP.GloftNOHM)|🟥||N/A|
+[Nuclear Throne Mobile](https://toncho.itch.io/nuclear-throne-mobile)|🟩||Xbox|[Game Ports wiki](https://github.com/Jetup13/Retroid-Pocket-2-Plus-Wiki/wiki/Game-Ports)|
 [Oddworld Strangers Wrath](https://play.google.com/store/apps/details?id=com.oddworld.Stranger)|🟩|Change Gamepad Mode to 2|Xbox|
 [Open Lara](https://github.com/XProger/OpenLara) (Tomb Raider 1)|🟩||Xbox|[Game Ports wiki](https://github.com/Jetup13/Retroid-Pocket-2-Plus-Wiki/wiki/Game-Ports)|
 [OpenMW](https://github.com/xyzz/openmw-android/releases) (Morrowind)|🟩||Xbox|[Game Ports wiki](https://github.com/Jetup13/Retroid-Pocket-2-Plus-Wiki/wiki/Game-Ports)|
@@ -80,6 +83,15 @@ Jet Set Radio|🟩||Xbox|Amazon Appstore version used. De-listed|
 [VA-11 HALL-A](https://drive.google.com/drive/folders/1YM3VtTuzeWWge9Tk8GPPjWn2IRBSowgn)|🟩||Touch/V.Mouse|[Game Ports wiki](https://github.com/Jetup13/Retroid-Pocket-2-Plus-Wiki/wiki/Game-Ports)|
 [VALKYRIE PROFILE: LENNETH](https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.ValkyrieProfilew)|🟩||Xbox/Touch|Gamepad support is limited|
 [Vita Fighters](https://play.google.com/store/apps/details?id=com.Angrydevs.VitaFighters)|🟩||Xbox|
+[White Day: A Labyrinth Named School](https://play.google.com/store/apps/details?id=kr.co.sonnori.whiteday.g)|🟩|Settings > Gamepade Mode (beta)|Xbox/Touch|
 [Ys Chronicles 1](https://play.google.com/store/apps/details?id=com.dotemu.ys1x)|🟩||Xbox|Analog controls is sensitive|
 Wayward Souls|🟥||N/A|Amazon Appstore version used. Failed connection to Amazon server|
 [Xash3D-FWGS](https://github.com/FWGS/xash3d-fwgs/releases) (Half Life)|🟩||Xbox|[Game Ports wiki](https://github.com/Jetup13/Retroid-Pocket-2-Plus-Wiki/wiki/Game-Ports)|
+
+
+
+_If you would like to add a game to the list submit an issue and follow this format_:
+
+```
+Game Name|🟩🟧🟥|Fixes|Input Method used and/or needed|Notes
+```

@@ -23,7 +23,7 @@ The Game Assistant is a multifunction tool that pops up when loading a game. It 
 * Screenshot
 * Record
 
-To turn off the Game Assistant widget simply `swipe the top the top of your screen > tap the game controller icon (Floating Icon)`
+To turn off the Game Assistant widget simply `swipe the top of your screen > tap the game controller icon (Floating Icon)`
 <details>
 <summary>Game Assistant Images</summary>
 <br>
@@ -122,7 +122,8 @@ Storage|Path|
 Internal Storage|**/storage/emulated/0**
 External micro SD Card|**/storage/sdcard0/**
 
-_External SD card can also appear as **/storage/xxxx-xxxx/** (x = random string of numbers). It's best to use **/storage/sdcard0/** in this case if your swapping out multiple mirco SD card._
+* _External SD card can also appear as **/storage/xxxx-xxxx/** (x = random string of numbers). It's best to use **/storage/sdcard0/** in this case if your swapping out multiple mirco SD card._
+* _When switching portable storages to another micro sd card, make sure to re-add the path as the **/storage/xxxx-xxxx/** has changed._
 
 # Updater
 

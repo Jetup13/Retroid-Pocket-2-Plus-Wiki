@@ -249,9 +249,9 @@ _Please note that cores that appear on this list might not be supported on the R
 
 # Vibration
 
-Make sure to enable device vibration in RetroArch 
-
 RetroArch > Settings > Input > Haptic Feedback/Vibration > Enable Device Vibration (For Supported Cores) > On. Save Configuration
+
+* _Enabling Vibration can hit performance. Leave it off you feel like your getting bad performance._
 
 Core|Setting|Notes|
 :------|:------|:----|

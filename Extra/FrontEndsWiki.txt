@@ -1,4 +1,6 @@
-List of Available Android Launchers
+# Front-Ends
+
+List of Available Android Launchers/Front-Ends
 
 Frontend|Price|Notes|
 :-------|:----|:----|
@@ -7,13 +9,15 @@ Frontend|Price|Notes|
 [Daijishō](https://play.google.com/store/apps/details?id=com.magneticchen.daijishou)|Free|
 [Dig](https://play.google.com/store/apps/details?id=com.digdroid.alman.dig)|Free / In-App Purchases|
 [Launchbox](https://www.launchbox-app.com/android-download)|Free / $10 (_+ $5 yearly for updates or $15 upgrade_) / $25|
+[Lemuroid](https://play.google.com/store/apps/details?id=com.swordfish.lemuroid)|Free|
 [Pegasus](https://pegasus-frontend.org/#downloads)|Free|
+[RetroArch](https://www.retroarch.com/)|Free|
 [Retroid Launcher](https://github.com/Jetup13/Retroid-Pocket-2-Plus-FAQ/wiki/Retroid-Pocket-2-Plus-Android#retroid-launcher)|Free|Pre-Installed
 [RESET Collection](https://play.google.com/store/apps/details?id=com.retroloungelab.resetcollection)|$4.99
 
-# Daijisho
+# Daijishou
 
-Daijishō is a retro launcher that let you manage your retro games libraries.
+[Daijishō](https://github.com/magneticchen/Daijishou) is a retro launcher that let you manage your retro games libraries.
 
 <details>
 <summary>Preview Images</summary>
@@ -33,10 +37,12 @@ Daijishō is a retro launcher that let you manage your retro games libraries.
 
 3. Hit `Sync` to let the front-end find and scrape your games
 
+* _To add systems not available through the download I'd recommend editing one of [these](https://github.com/magneticchen/Daijishou/tree/main/platforms) JSON files and importing it through `Settings > More Settings > Import platform`_
+
 </details>
 
 <details>
-<summary>How to change emulator</summary>
+<summary>How to change default emulator</summary>
 <br>
 
 1. On the `Platforms` tab select the pen icon > Player Settings drop down
@@ -52,5 +58,273 @@ Daijishō is a retro launcher that let you manage your retro games libraries.
 1. `Library` > Swipe the bottom section to the right until you get to `Edit Item`
 
 2. `Custom Player` On > Use Drop-down > `Save`
+
+</details>
+
+# Launch Commands for Retroid Launcher
+
+* These are launch commands for the Retroid Launcher. 
+* To add: Retroid Launcher > Game list > Edit > New
+* Unfinished
+
+<details>
+<summary>Retroid Launcher Commands Dropdown</summary>
+<br>
+
+<details>
+<summary>AetherSX2 (PS2)</summary>
+<br>
+
+Option|Command/Input
+:-----|:-----------
+Name|AetherSX2
+Package|xyz.aethersx2.android
+Activity|xyz.aethersx2.android.EmulationActivity
+RetroArch Core|
+Rom path key|bootPath
+Data Type|`*/*`
+
+</details>
+
+<details>
+<summary>Dolphin (GC/Wii)</summary>
+<br>
+
+Option|Command/Input
+:-----|:-----------
+Name|Dolphin
+Package|org.dolphinemu.dolphinemu
+Activity|org.dolphinemu.dolphinemu.ui.main.MainActivity
+RetroArch Core|
+Rom path key|AutoStartFile
+Data Type|
+
+</details>
+
+<details>
+<summary>Dolphin MMJ (GC/Wii)</summary>
+<br>
+
+Option|Command/Input
+:-----|:-----------
+Name|Dolphin MMJ
+Package|org.mm.j
+Activity|org.dolphinemu.dolphinemu.ui.main.MainActivity
+RetroArch Core|
+Rom path key|AutoStartFile
+Data Type|
+
+</details>
+
+<details>
+<summary>Dolphin MMJR2 (GC/Wii)</summary>
+<br>
+
+Option|Command/Input
+:-----|:-----------
+Name|Dolphin MMJR2
+Package|org.dolphinemu.handheld
+Activity|org.dolphinemu.dolphinemu.ui.main.MainActivity
+RetroArch Core|
+Rom path key|AutoStartFile
+Data Type|
+
+</details>
+
+
+<details>
+<summary>DuckStation Standalone (PS1)</summary>
+<br>
+
+Option|Command/Input
+:-----|:-----------
+Name|DuckStation
+Package|com.github.stenzek.duckstation
+Activity|com.github.stenzek.duckstation.EmulationActivity
+RetroArch Core|
+Rom path key|bootPath
+Data Type|
+
+</details>
+
+<details>
+<summary>ePSXe (PS1)</summary>
+<br>
+
+Option|Command/Input
+:-----|:-----------
+Name|ePSXe
+Package|com.epsxe.ePSXe
+Activity|com.epsxe.ePSXe.ePSXe
+RetroArch Core|
+Rom path key|com.epsxe.ePSXe.isoName
+Data Type|
+
+</details>
+
+<details>
+<summary>FPSE (PS1)</summary>
+<br>
+
+Option|Command/Input
+:-----|:-----------
+Name|FPSE
+Package|com.emulator.fpse
+Activity|com.emulator.fpse.Main
+RetroArch Core|
+Rom path key|path
+Data Type|`*/*`
+
+</details>
+
+<details>
+<summary>FPSE64 (PS1)</summary>
+<br>
+
+Option|Command/Input
+:-----|:-----------
+Name|FPSE64
+Package|com.emulator.fpse64
+Activity|com.emulator.fpse64.Main
+RetroArch Core|
+Rom path key|path
+Data Type|`*/*`
+
+</details>
+
+<details>
+<summary>My Boy! Free (GBA)</summary>
+<br>
+
+Option|Command/Input
+:-----|:-----------
+Name|My Boy! Free
+Package|com.fastemulator.gbafree
+Activity|com.fastemulator.gba.EmulatorActivity
+RetroArch Core|
+Rom path key|
+Data Type|application/x-gbc-rom
+
+</details>
+
+<details>
+<summary>My Boy! Pro (GBA)</summary>
+<br>
+
+Option|Command/Input
+:-----|:-----------
+Name|My Boy! Pro
+Package|com.fastemulator.gba
+Activity|com.fastemulator.gba.EmulatorActivity
+RetroArch Core|
+Rom path key|
+Data Type|application/x-gbc-rom
+
+</details>
+
+<details>
+<summary>Pizza Boy Basic (GBA)</summary>
+<br>
+
+Option|Command/Input
+:-----|:-----------
+Name|Pizza Boy Pro
+Package|it.dbtecno.pizzaboygba
+Activity|it.dbtecno.pizzaboygba.MainActivity
+RetroArch Core|
+Rom path key|rom_uri
+Data Type|
+
+</details>
+
+<details>
+<summary>Pizza Boy Pro (GBA)</summary>
+<br>
+
+Option|Command/Input
+:-----|:-----------
+Name|Pizza Boy Pro
+Package|it.dbtecno.pizzaboygbapro
+Activity|it.dbtecno.pizzaboygbapro.MainActivity
+RetroArch Core|
+Rom path key|rom_uri
+Data Type|
+
+</details>
+
+<details>
+<summary>RetroArch</summary>
+<br>
+
+Option|Command/Input
+:-----|:-----------
+Name|RetroArch (Core Name)
+Package|com.retroarch
+Activity|com.retroarch.browser.retroactivity.RetroActivityFuture
+RetroArch Core|corename_libretro_android.so
+Rom path key|ROM
+Data type|
+
+</details>
+
+<details>
+<summary>RetroArch 32bit</summary>
+<br>
+
+Option|Command/Input
+:-----|:-----------
+Name|RetroArch 32bit (Core Name)
+Package|com.retroarch.32bit
+Activity|com.retroarch.browser.retroactivity.RetroActivityFuture
+RetroArch Core|corename_libretro_android.so
+Rom path key|ROM
+Data type|
+
+</details>
+
+<details>
+<summary>RetroArch AArch64</summary>
+<br>
+
+Option|Command/Input
+:-----|:-----------
+Name|RetroArch AArch 64 (Core Name)
+Package|com.retroarch.aarch64
+Activity|com.retroarch.browser.retroactivity.RetroActivityFuture
+RetroArch Core|corename_libretro_android.so
+Rom path key|ROM
+
+Data type|
+</details>
+
+<details>
+<summary>Yaba Sanshiro 2 (Saturn)</summary>
+<br>
+
+Option|Command/Input
+:-----|:-----------
+Name|Yaba Sanshiro 2
+Package|org.devmiyax.yabasanshioro2
+Activity|org.uoyabause.android.Yabause
+RetroArch Core|
+Rom path key|org.uoyabause.android.FileNameEx
+Data Type|
+
+</details>
+
+<details>
+<summary>Yaba Sanshiro 2 Pro (Saturn)</summary>
+<br>
+
+Option|Command/Input
+:-----|:-----------
+Name|Yaba Sanshiro 2 Pro
+Package|org.devmiyax.yabasanshioro2.pro
+Activity|org.uoyabause.android.Yabause
+RetroArch Core|
+Rom path key|org.uoyabause.android.FileNameEx
+Data Type|
+
+</details>
 
 </details>
