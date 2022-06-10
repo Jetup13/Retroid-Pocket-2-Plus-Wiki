@@ -1,0 +1,24 @@
+# Homebrew Games
+
+* Links to legally free homebrew games that can be played through emulators
+* Turn off boot bios if the game fails to load
+
+Title|Console|Genre|Developer|
+:----|:------|:----|:--------|
+[30 Years of Nintendon't](https://drludos.itch.io/30-years-of-nintendont)|Mega Drive|Action|[Dr.Ludos](https://drludos.itch.io/)
+[Alter Ego](https://retrosouls.itch.io/alterego16bit)|Mega Drive|Platformer|[RetroSouls](https://retrosouls.itch.io/)
+[Binding of Isaac, The: Game Boy Edition](https://jrob774.itch.io/the-binding-of-isaac-gbjam8-edition)|Game Boy|Roguelike|[Joshua Robertson](https://jrob774.itch.io/)
+[Black Castle](https://user0x7f.itch.io/black-castle)|Game Boy|Action Platformer|[User0x7f](https://user0x7f.itch.io/)
+[Bobl](https://morphcatgames.itch.io/bobl)|NES|Platformer|[Morphcat Games](https://morphcatgames.itch.io/)
+[Celeste Classic](https://github.com/JeffRuLz/Celeste-Classic-GBA)|Game Boy Advanve|Platformer|Matt Thorson and Noel Berry
+[Do I Pass?](https://taylormccue.itch.io/do-i-pass)|Game Boy|Visual Novel|[Taylor McCue](https://taylormccue.itch.io/)
+[Duck Marines](https://tangramgames.itch.io/duckmarines)|Love|Puzzle|[Tangram Games](https://tangramgames.dk/)
+[Hyperbeatz](https://mysticalwheelbarrow.itch.io/hyperbeatz)|NES|Rhythm|[Mystical Wheelbarrow](https://mysticalwheelbarrow.itch.io/)
+[Loonies 8192](https://thp.itch.io/loonies-8192)|Multiplatform|Puzzle|[Thomas Perl](https://thp.itch.io/)
+[Pocket Meat](https://bomberdev.itch.io/pocket-meat)|Game Boy Advanve|Platformer|[BomberDev](https://bomberdev.itch.io/)
+[PSXFunkin](https://github.com/cuckydev/PSXFunkin)|PlayStation|Rhythem|[cuckydev](https://github.com/cuckydev/)
+[Sienna](https://tangramgames.itch.io/sienna)|Love|Platformer|[Tangram Games](https://tangramgames.dk/)
+[Tobu Tobu Girl](https://tangramgames.dk/tobutobugirl/)|Game Boy|Platformer|[Tangram Games](https://tangramgames.dk/)
+[Tobu Tobu Girl Deluxe](https://tangramgames.dk/tobutobugirldx/)|Game Boy Color|Platformer|[Tangram Games](https://tangramgames.dk/)
+[Wartris](https://www.wartris.com/articles/view/wartris)|PlayStation|Puzzle|Pissteam
+[Wartris++](http://www.wartris.com/articles/view/wartris-2)|PlayStation|Puzzle|Pissteam

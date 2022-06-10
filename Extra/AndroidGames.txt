@@ -34,6 +34,7 @@ Crazy Taxi|🟧||Xbox|Amazon Appstore version used.
 [Disgaea 1 Complete](https://play.google.com/store/apps/details?id=jp.nippon1.disgaearefine)|🟥||N/A|Force Close
 [Downwell](https://play.google.com/store/apps/details?id=com.devolver.downwell_rerelease)|🟧||Touch|Vertical Only|
 [Dragon Quest 1](https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.dq1_gp)|🟧||Touch|Vertical Only|
+Dragon Quest 8|🟧||Touch|Amazon App Store version used. Technically works but choppy and text is hard to read.|
 DuckTales Remastered|🟩||Xbox|Amazon Appstore version used.
 [EvoCreo](https://play.google.com/store/apps/details?id=ilmfinity.evocreo.main.android)|🟩||Touch||
 Fahrenheit (Indigo Prophecy)|🟥||N/A|Black Screen and De-listed|
@@ -71,6 +72,7 @@ Jet Set Radio|🟩||Xbox|Amazon Appstore version used. De-listed|
 [Spelunky Classic HD](https://yancharkin.itch.io/spelunky-classic-hd)|🟩||Xbox|[Game Ports wiki](https://github.com/Jetup13/Retroid-Pocket-2-Plus-Wiki/wiki/Game-Ports)|
 [Star Wars Knights of the Old Republic](https://play.google.com/store/apps/details?id=com.aspyr.swkotor)|🟩||Xbox/Touch|Small text
 [Super Gravitron](https://play.google.com/store/apps/details?id=air.com.distractionware.supgrav)|🟩||Xbox/Touch|
+[Super Tux Kart](https://play.google.com/store/apps/details?id=org.supertuxkart.stk)|🟩|Settings > Controls > Touch Device > Turn off Device enabled|Xbox|
 [Tesla vs. Lovecraft](https://play.google.com/store/apps/details?id=com.the10tons.teslavslovecraft)|🟩||Xbox|
 [THE KING OF FIGHTERS `97](https://play.google.com/store/apps/details?id=com.snkplaymore.android001)|🟩|Set controller to Xperia|Xbox|Analog reads four directions|
 [THE KING OF FIGHTERS `98](https://play.google.com/store/apps/details?id=com.snkplaymore.android007)|🟩|Set controller to Google or Samsung|Xbox|Analog reads four directions|
@@ -85,7 +87,7 @@ Jet Set Radio|🟩||Xbox|Amazon Appstore version used. De-listed|
 [Vita Fighters](https://play.google.com/store/apps/details?id=com.Angrydevs.VitaFighters)|🟩||Xbox|
 [White Day: A Labyrinth Named School](https://play.google.com/store/apps/details?id=kr.co.sonnori.whiteday.g)|🟩|Settings > Gamepade Mode (beta)|Xbox/Touch|
 [Ys Chronicles 1](https://play.google.com/store/apps/details?id=com.dotemu.ys1x)|🟩||Xbox|Analog controls is sensitive|
-Wayward Souls|🟥||N/A|Amazon Appstore version used. Failed connection to Amazon server|
+Wayward Souls|🟩||Xbox/Touch|Amazon Appstore version used. Use Amazon Fix|
 [Xash3D-FWGS](https://github.com/FWGS/xash3d-fwgs/releases) (Half Life)|🟩||Xbox|[Game Ports wiki](https://github.com/Jetup13/Retroid-Pocket-2-Plus-Wiki/wiki/Game-Ports)|
 
 
@@ -95,3 +97,12 @@ _If you would like to add a game to the list submit an issue and follow this for
 ```
 Game Name|🟩🟧🟥|Fixes|Input Method used and/or needed|Notes
 ```
+
+# Amazon App Store
+
+Retroid Pocket 2 Plus is seemingly killing background processes that are needed to connect to Amazons servers (GameCircle).
+
+If using the Amazon App Store make sure to do the following so you won't get pesky connection failed errors:
+
+* Whitelist the Amazon App Store: Android Settings > Handheld Settings > Advanced > Whitelist Application > Select Amazon App Store
+* Leave Amazon App Store open while playing game

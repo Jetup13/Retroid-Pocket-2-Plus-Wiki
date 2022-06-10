@@ -293,8 +293,8 @@ Package|com.retroarch.aarch64
 Activity|com.retroarch.browser.retroactivity.RetroActivityFuture
 RetroArch Core|corename_libretro_android.so
 Rom path key|ROM
-
 Data type|
+
 </details>
 
 <details>
