@@ -1,0 +1,37 @@
+Create these two folders in the root of your internal storage:
+
+`openrct2\`
+`rct2\`
+
+Download the portable OpenRCT2 build from here: https://openrct2.org/downloads/releases/latest
+Extract portable OpenRCT2 data folder contents into the `openrct2\` folder
+
+|`openrct2\`
+ \____`language\`
+ \____`object\`
+ \____`sequence\`
+ \____`shaders\`
+ \____`g2.dat`
+	
+From your Roller Coaster Tycoon 2 install copy these folders into the `rct2\` folder
+Required: 'Data\', 'ObjData\'
+Optional: 'Landscapes', 'Saved Games\', 'Scenarios\', 'Tracks\'
+
+|`rct2\`
+ \____'Data\'
+ \____'ObjData\'
+ \____'Landscapes'
+ \____`Saved Games'
+ \____'Scenarios\'
+ \____'Tracks\'
+
+
+Install apk and launch. It will give you an error message telling you to configure the gamepath
+
+Open the file:`openrct2-user\config.ini`
+CTRL-F and search "game_path" (or look for the 16th line) and replace it with this:
+game_path = "/storage/emulated/0/rct2/"
+
+Save and replace the config.ini with the new one
+
+Launch game
