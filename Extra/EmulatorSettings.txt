@@ -27,6 +27,10 @@ Port 1|Use Analog Sticks for D-Pad in Digital Mode > On|
 
 Use the [community config](https://mega.nz/file/eQIGhJJb#UnsV-GN6x1-L4VPBo5B8AuFvEDmft4ALNshHFT28d4k) with the Dolphin MMJR2 build from the Retroid Setup Wizard.
 
+# EasyRPG Standalone
+
+* To hide the Touch Screen layout: `Settings > Input > Input Layout Transparency 100%`
+
 # PPSSPP Standalone
 
 Category|Setting Change|Note|

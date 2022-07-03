@@ -23,7 +23,9 @@ Frontend|Price|Notes|
 <summary>Preview Images</summary>
 <br>
 
-![](https://github.com/Jetup13/Retroid-Pocket-2-Plus-Wiki/blob/main/Images/Daijisho1.png)![](https://github.com/Jetup13/Retroid-Pocket-2-Plus-Wiki/blob/main/Images/Daijisho2.png)
+Preview 1|Preview 2|
+:-------|:----|
+![](https://github.com/Jetup13/Retroid-Pocket-2-Plus-Wiki/blob/main/Images/Daijisho1.png)|![](https://github.com/Jetup13/Retroid-Pocket-2-Plus-Wiki/blob/main/Images/Daijisho2.png)
 
 </details>
 
@@ -60,6 +62,8 @@ Frontend|Price|Notes|
 2. `Custom Player` On > Use Drop-down > `Save`
 
 </details>
+
+* [System Images Pack](https://github.com/Jetup13/Retroid-Pocket-2-Plus-Wiki/blob/main/Extra/daijishouimagepack.zip) (Updated 6/12/22)
 
 # Launch Commands for Retroid Launcher
 

@@ -73,7 +73,6 @@ Navigate to RetroArch > Settings > Input > Hotkeys
 |Hotkey Enable|Select||Always set this option when using Hotkeys|
 |Load State|L1|✓|
 |Save State|R1|✓|
-|Pause Toggle (Pause Emualtion)|A|✓|
 |Reset Game|B|✓|
 |Quit RetroArch|R2|✓|
 |Menu (Toggle)|X|✓|Backup toggle|
@@ -97,7 +96,7 @@ RetroArch|Will update later
 
 </details>
 
-# Adding L3/R3
+# Adding L3/R3/Menu Buttons
 
 You can easily add L3/R3 buttons through an overlay.
 

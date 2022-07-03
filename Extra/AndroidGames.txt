@@ -10,6 +10,7 @@ Item|Note|
 Xbox|Xbox input style was used during testing
 Xbox/Touch|Game used both touch and controller inputs
 Touch|Controller was not supported and was touch only
+[Touch Screen Mapper](https://github.com/Jetup13/Retroid-Pocket-2-Plus-Wiki/wiki/Retroid-Pocket-2-Plus-Android#game-assistant-widget-touch-overlay)|Input used with the built-in Touch Screen Mapper
 V.Mouse|Virtual mouse mode was used (Hold Home button for 3 seconds)
 
 Title|Playable|Fixes|Input Style|Notes|
@@ -27,16 +28,22 @@ ChuChu Rocket|🟩||Touch|Amazon Appstore version used.
 [CorsixTH-Android](https://github.com/alanwoolley/CorsixTH-Android#download) (Theme Hospital)|🟩||Touch|[Game Ports wiki](https://github.com/Jetup13/Retroid-Pocket-2-Plus-Wiki/wiki/Game-Ports)|
 Crazy Taxi|🟧||Xbox|Amazon Appstore version used.
 [Crazy Taxi Classic](https://play.google.com/store/apps/details?id=com.sega.CrazyTaxiplayhaven)|🟩||Xbox/Touch||
+[Crossy Road](https://play.google.com/store/apps/details?id=com.yodo1.crossyroad)|🟩||Xbox|_* Credit to [mrwhistles](https://github.com/mrwhistles)_|
 [Danganronpa: Trigger Happy Havoc](https://play.google.com/store/apps/details?id=jp.co.spike_chunsoft.DR1)|🟩||V.Mouse/Touch|
 [Dead Cells](https://play.google.com/store/apps/details?id=com.playdigious.deadcells.mobile)|🟩|Options > Video > High Resolution|Xbox|
 [DevilutionX](https://github.com/diasurgical/devilutionX) (Diablo 1)|🟩||Xbox|[Game Ports wiki](https://github.com/Jetup13/Retroid-Pocket-2-Plus-Wiki/wiki/Game-Ports)|
+[Diablo Immortal](https://play.google.com/store/apps/details?id=com.blizzard.diablo.immortal)|🟥||Xbox|Runs extremely slow. Unplayable. _* Credit to [mrwhistles](https://github.com/mrwhistles)_|
 [DIII4A](https://github.com/glKarin/com.n0n3m4.diii4a) (Doom 3)|🟩||Xbox|[Game Ports wiki](https://github.com/Jetup13/Retroid-Pocket-2-Plus-Wiki/wiki/Game-Ports)|
 [Disgaea 1 Complete](https://play.google.com/store/apps/details?id=jp.nippon1.disgaearefine)|🟥||N/A|Force Close
-[Downwell](https://play.google.com/store/apps/details?id=com.devolver.downwell_rerelease)|🟧||Touch|Vertical Only|
+[Doom](https://play.google.com/store/apps/details?id=com.bethsoft.DOOM)|🟩||Xbox|_* Credit to [mrwhistles](https://github.com/mrwhistles)_|
+[Doom 2](https://play.google.com/store/apps/details?id=com.bethsoft.DOOMII)|🟩||Xbox|_* Credit to [mrwhistles](https://github.com/mrwhistles)_|
+[Downwell](https://play.google.com/store/apps/details?id=com.devolver.downwell_rerelease)|🟩|Screen map buttons for left, right and attack.|Touch Screen Mapper|Vertical Only. _* Credit to [mrwhistles](https://github.com/mrwhistles)_|
 [Dragon Quest 1](https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.dq1_gp)|🟧||Touch|Vertical Only|
 Dragon Quest 8|🟧||Touch|Amazon App Store version used. Technically works but choppy and text is hard to read.|
 DuckTales Remastered|🟩||Xbox|Amazon Appstore version used.
 [EvoCreo](https://play.google.com/store/apps/details?id=ilmfinity.evocreo.main.android)|🟩||Touch||
+[Evoland](https://play.google.com/store/apps/details?id=air.com.shirogames.evoland12)|🟩||Xbox|_* Credit to [mrwhistles](https://github.com/mrwhistles)_|
+[Evoland 2](https://play.google.com/store/apps/details?id=com.playdigious.evoland2)|🟩||Xbox|_* Credit to [mrwhistles](https://github.com/mrwhistles)_|
 Fahrenheit (Indigo Prophecy)|🟥||N/A|Black Screen and De-listed|
 [Fatal Fury Special](https://play.google.com/store/apps/details?id=com.snkplaymore.android012)|🟩||Touch|UI is off|
 Final Fantasy 4 (3D Remake)|🟩||Xbox|Amazon Appstore version used.
@@ -48,15 +55,27 @@ Final Fantasy 4 (3D Remake)|🟩||Xbox|Amazon Appstore version used.
 Grand Theft Auto San Andreas|🟥||N/A|Amazon Appstore version used.|
 [Grand Theft Auto Vice City](https://play.google.com/store/apps/details?id=com.rockstargames.gtavc)|🟩||Xbox|
 [Gris](https://play.google.com/store/apps/details?id=com.devolver.grispaid)|🟥||Touch|
+[Groundskeeper 2](https://play.google.com/store/apps/details?id=com.orangepixel.groundskeep2)|🟩||Xbox|_* Credit to [mrwhistles](https://github.com/mrwhistles)_|
 [Gunfire Reborn](https://play.google.com/store/apps/details?id=com.duoyihk.m2m1)|🟩|Leave autofire on|Xbox/Touch|LT/RT don't work
+[GT Racing 2: real car game](https://play.google.com/store/apps/details?id=com.gameloft.android.ANMP.GloftRAHM)|🟩||Xbox|
 [Her Story](https://play.google.com/store/apps/details?id=com.MrSamBarlow.HerStoryGame)|🟩||V.mouse/Touch||
+[Heroes of Loot](https://play.google.com/store/apps/details?id=com.orangepixel.dungeon)|🟩||Xbox|_* Credit to [mrwhistles](https://github.com/mrwhistles)_|
+[Heroes of Loot 2](https://play.google.com/store/apps/details?id=com.orangepixel.dungeon2)|🟩||Xbox|_* Credit to [mrwhistles](https://github.com/mrwhistles)_|
 [ICEY](https://play.google.com/store/apps/details?id=com.fantablade.icey)|🟩||Xbox/Touch|Menus require touch|
 Jade Empire|🟥||N/A|Black Screen and De-listed|
 [Jazz 2 Resurrection](https://github.com/deathkiller/jazz2#android) (Jazz Jackrabbit 2)|🟩||Xbox|[Game Ports wiki](https://github.com/Jetup13/Retroid-Pocket-2-Plus-Wiki/wiki/Game-Ports)|
+[Jetpack Joyride](https://play.google.com/store/apps/details?id=com.halfbrick.jetpackjoyride)|🟩||Xbox|_* Credit to [mrwhistles](https://github.com/mrwhistles)_|
 Jet Set Radio|🟩||Xbox|Amazon Appstore version used. De-listed|
+[Kosmic Revenge](https://play.google.com/store/apps/details?id=com.realtechvr.kosmikrevenge)|🟩||Xbox|_* Credit to [mrwhistles](https://github.com/mrwhistles)_|
+[Life is Strange](https://play.google.com/store/apps/details?id=com.squareenix.lis)|🟩||Xbox|Text can be hard to read
 [Max Payne Mobile](https://play.google.com/store/apps/details?id=com.rockstar.maxpayne)|🟩||Xbox|
 [Metal Slug](https://play.google.com/store/apps/details?id=com.dotemu.neogeo.mslug)|🟩||Xbox|
+[Minecraft](https://play.google.com/store/apps/details?id=com.mojang.minecraftpe)|🟩||Xbox|_* Credit to [mrwhistles](https://github.com/mrwhistles)_|
+[Minion Rush](https://play.google.com/store/apps/details?id=com.gameloft.android.ANMP.GloftDMHM)|🟩|Enable "Force landscape", Screen map a button for directional "swipes"|Touch Screen Mapper|_* Credit to [mrwhistles](https://github.com/mrwhistles)_|
+[Ms. Pac-Man](https://play.google.com/store/apps/details?id=com.NamcoNetworks.MsPacMan)|🟩||Xbox|_* Credit to [mrwhistles](https://github.com/mrwhistles)_|
 [Neverwinter Nights: Enhanced Edition](https://play.google.com/store/apps/details?id=com.beamdog.nwnandroid)|🟥||N/A|Pink Screen|
+[NFS Most Wanted](https://play.google.com/store/apps/details?id=com.ea.games.nfs13_na)|🟧||N/A|Seemingly runs fine but uncontrollable even with the touchscreen. _* Credit to [mrwhistles](https://github.com/mrwhistles)_|
+Nimble Quest|🟩||Xbox|_* Credit to [mrwhistles](https://github.com/mrwhistles)_|
 [No Gravity - Space Combat Adventure](https://play.google.com/store/apps/details?id=com.realtechvr.nogravity)|🟩||Xbox|De-listed|
 [N.O.V.A Legacy](https://play.google.com/store/apps/details?id=com.gameloft.android.ANMP.GloftNOHM)|🟥||N/A|
 [Nuclear Throne Mobile](https://toncho.itch.io/nuclear-throne-mobile)|🟩||Xbox|[Game Ports wiki](https://github.com/Jetup13/Retroid-Pocket-2-Plus-Wiki/wiki/Game-Ports)|
@@ -65,12 +84,18 @@ Jet Set Radio|🟩||Xbox|Amazon Appstore version used. De-listed|
 [OpenMW](https://github.com/xyzz/openmw-android/releases) (Morrowind)|🟩||Xbox|[Game Ports wiki](https://github.com/Jetup13/Retroid-Pocket-2-Plus-Wiki/wiki/Game-Ports)|
 [Otherworld Legends](https://play.google.com/store/apps/details?id=com.chillyroom.zhmr.gp)|🟩||Xbox|
 [Pascal's Wager](https://play.google.com/store/apps/details?id=com.tipsworks.android.pascalswager.google)|🟧||Xbox|Choppy
+[Pac-Man 256](https://play.google.com/store/apps/details?id=eu.bandainamcoent.pacman256)|🟩||Xbox|_* Credit to [mrwhistles](https://github.com/mrwhistles)_|
+[Reaper](https://play.google.com/store/apps/details?id=net.hexage.reaper)|🟩||Xbox|_* Credit to [mrwhistles](https://github.com/mrwhistles)_|
+[Retro Bowl](https://play.google.com/store/apps/details?id=com.newstargames.retrobowl)|🟩||Xbox|_* Credit to [mrwhistles](https://github.com/mrwhistles)_|
 [RPG Tears Revolude](https://play.google.com/store/apps/details?id=kemco.wws.revolude)|🟩||Xbox|
 [RVGL](https://re-volt.io/downloads/game) (Re-Volt)|🟩||Xbox|[Game Ports wiki](https://github.com/Jetup13/Retroid-Pocket-2-Plus-Wiki/wiki/Game-Ports)|
 [San Andreas Unity](https://github.com/GTA-ASM/SanAndreasUnity/wiki/Running-on-Android) (GTA SA Multiplayer)|🟧||Xbox|[Game Ports wiki](https://github.com/Jetup13/Retroid-Pocket-2-Plus-Wiki/wiki/Game-Ports)|
+[Sonic Robo Blast 2](https://www.srb2.org/download/#android-installations)|🟩|Head to options and setup the controls|Xbox|
 [Source Engine Player](https://discord.com/invite/NaAhjQt6) (Half Life 2)|🟩||Xbox|[Game Ports wiki](https://github.com/Jetup13/Retroid-Pocket-2-Plus-Wiki/wiki/Game-Ports)|
 [Spelunky Classic HD](https://yancharkin.itch.io/spelunky-classic-hd)|🟩||Xbox|[Game Ports wiki](https://github.com/Jetup13/Retroid-Pocket-2-Plus-Wiki/wiki/Game-Ports)|
+[Stardew Valley](https://play.google.com/store/apps/details?id=com.chucklefish.stardewvalley)|🟩||Xbox|_* Credit to [mrwhistles](https://github.com/mrwhistles)_|
 [Star Wars Knights of the Old Republic](https://play.google.com/store/apps/details?id=com.aspyr.swkotor)|🟩||Xbox/Touch|Small text
+[Streets of Rage 4](https://play.google.com/store/apps/details?id=com.playdigious.sor4)|🟩|Under Options > Video > Advanced Options set "Graphics quality" to "Low".|Xbox|_* Credit to [mrwhistles](https://github.com/mrwhistles)_|
 [Super Gravitron](https://play.google.com/store/apps/details?id=air.com.distractionware.supgrav)|🟩||Xbox/Touch|
 [Super Tux Kart](https://play.google.com/store/apps/details?id=org.supertuxkart.stk)|🟩|Settings > Controls > Touch Device > Turn off Device enabled|Xbox|
 [Tesla vs. Lovecraft](https://play.google.com/store/apps/details?id=com.the10tons.teslavslovecraft)|🟩||Xbox|
@@ -88,9 +113,8 @@ Jet Set Radio|🟩||Xbox|Amazon Appstore version used. De-listed|
 [White Day: A Labyrinth Named School](https://play.google.com/store/apps/details?id=kr.co.sonnori.whiteday.g)|🟩|Settings > Gamepade Mode (beta)|Xbox/Touch|
 [Ys Chronicles 1](https://play.google.com/store/apps/details?id=com.dotemu.ys1x)|🟩||Xbox|Analog controls is sensitive|
 Wayward Souls|🟩||Xbox/Touch|Amazon Appstore version used. Use Amazon Fix|
+[Williams Pinball](https://play.google.com/store/apps/details?id=com.zenstudios.williamspinball)|🟩|Enable "Force landscape"|Xbox|_* Credit to [mrwhistles](https://github.com/mrwhistles)_|
 [Xash3D-FWGS](https://github.com/FWGS/xash3d-fwgs/releases) (Half Life)|🟩||Xbox|[Game Ports wiki](https://github.com/Jetup13/Retroid-Pocket-2-Plus-Wiki/wiki/Game-Ports)|
-
-
 
 _If you would like to add a game to the list submit an issue and follow this format_:
 

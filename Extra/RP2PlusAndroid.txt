@@ -23,7 +23,6 @@ The Game Assistant is a multifunction tool that pops up when loading a game. It 
 * Screenshot
 * Record
 
-To turn off the Game Assistant widget simply `swipe the top of your screen > tap the game controller icon (Floating Icon)`
 <details>
 <summary>Game Assistant Images</summary>
 <br>
@@ -33,6 +32,10 @@ Widget (On Screen)|Opened|Disable/Enable|
 ![](https://github.com/Jetup13/Retroid-Pocket-2-Plus-Wiki/blob/main/Images/gameassistant1.png)|![](https://github.com/Jetup13/Retroid-Pocket-2-Plus-Wiki/blob/main/Images/gameassistant2.png)|![](https://github.com/Jetup13/Retroid-Pocket-2-Plus-Wiki/blob/main/Images/gameassistant3.png)
 
 </details>
+
+_To configure the key mapper: `Swipe the right side of the screen > Key Mapper > Drag & Drop the button(s) to your preferred location and press a button > Save`_
+
+_To turn off the Game Assistant widget: `Swipe the top of your screen > tap the game controller icon (Floating Icon)`_
 
 # Developer Mode
 
@@ -119,7 +122,7 @@ If you're ever needing to type out your folder path on the device:
 
 Storage|Path|
 :------|:---|
-Internal Storage|**/storage/emulated/0**
+Internal Storage|**/storage/emulated/0/**
 External micro SD Card|**/storage/sdcard0/**
 
 * _External SD card can also appear as **/storage/xxxx-xxxx/** (x = random string of numbers). It's best to use **/storage/sdcard0/** in this case if your swapping out multiple mirco SD card._
