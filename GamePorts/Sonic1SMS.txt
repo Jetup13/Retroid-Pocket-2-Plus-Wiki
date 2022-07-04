@@ -1,0 +1,3 @@
+Install Apk
+
+When it ask to edit the controls on first start, map it randomly, and choose "No" when it ask you to save.
