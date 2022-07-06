@@ -1,0 +1,3 @@
+Download the AM2RLauncher 2.20 win (Download me) from github
+Load AM2RLauncher.exe > Press Download > Load your AM2R1.1.zip > Create apk
+Install apk and enjoy!
