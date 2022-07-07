@@ -1,0 +1,11 @@
+Download the Super Bros War core
+
+RetroArch Main Menu > Online Updater > Core Downloader > Super Bros War
+
+Downdloa Super Cat Wars LITE from the content downloader
+
+RetroArch Main Menu > Online Updater > Content Downloader > Super Bros War > Super Cat Wars LITE.zip
+
+Load content > Downloads > Super Cat Wars LITE > Super Cat Wars Lite.game
+
+(I have not tested other content)

@@ -1,0 +1,7 @@
+First download the core
+
+RetroArch Main Menu > Online Updater > Core Downloader > Quake - (TyrQuake)
+
+Copy your `id1\` folder from your Quake 1 install anywhere on your device
+
+Load `pak0.pak` through Load Content on RetroArch
