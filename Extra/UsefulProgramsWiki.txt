@@ -1,4 +1,40 @@
-[Syncthing](https://syncthing.net/) is a continuous file synchronization program. It synchronizes files between two or more devices in real time. While this is not a cloud service, this program can be used to sync your saves between your computer and Retroid Pocket 2 Plus.
+# CDMage
+
+[CDMage](https://www.romhacking.net/utilities/1435/) is a useful program to use if (for some reason) you don't want to use CHD files but want single bin/cue files for your disc based games. The program has more usages such as extracting files from a game.
+
+Simply Load Cue > File > Save As > (Don't change track modes) Ok
+
+# CHDMan
+
+CHD is a compressed file format. It can be used for various emulators and is quite useful to save on space. You can use CHDMan to convert your bin/cue, bin/gdi, or iso files to chd.
+
+[Download](https://github.com/Jetup13/Retroid-Pocket-2-Plus-Wiki/blob/main/Extra/chdman.zip)
+
+Simply place your bin/cue, gdi, or iso files into the same folder as CHDMan and run this command or use the bat file included
+
+> CUE/GDI/ISO to CHD (Standard)
+```
+for /r %%i in (*.cue, *.gdi, *.iso) do chdman createcd -i "%%i" -o "%%~ni.chd"
+```
+
+If for some reason you're getting a performance hit using chd try this instead:
+
+> CUE/GDI/ISO to CHD (disabled LZMA)
+```
+for /r %%i in (*.cue, *.gdi, *.iso) do chdman createcd -i "%%i" -o "%%~ni.chd" -c cdzl,cdfl
+```
+
+# namDHC
+
+[namDHC](https://github.com/umageddon/namDHC) is a chdman frontend. Great for those that want a user interface to convert their disc games to chd format.
+
+# PNGoo
+
+[PNGoo](https://pngquant.org/PNGoo.0.1.1.zip) is a lossy PNG compressor program. It can be used to compress or png files down with losing much quality. This is extremely useful when cutting down file sizes of cover art.
+
+# Syncthing
+
+[Syncthing](https://syncthing.net/) is a continuous file synchronization program. It synchronizes files between two or more devices in real time. While this is not a cloud service, this program can be used to sync your saves between your computer, phone, and Retroid Pocket 2 Plus.
 
 <details>
 <summary>PC Setup</summary>

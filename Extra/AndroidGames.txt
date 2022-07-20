@@ -7,7 +7,7 @@ Item|Note|
 🟩|Playable with little to no issues
 🟧|Playable with lots of issues or hardware limitations (such as vertical only)
 🟥|Not playable
-Xbox|Xbox input style was used during testing
+[Xbox](https://github.com/Jetup13/Retroid-Pocket-2-Plus-Wiki/wiki/Retroid-Pocket-2-Plus-Android#input)|Xbox input style was used during testing
 Xbox/Touch|Game used both touch and controller inputs
 Touch|Controller was not supported and was touch only
 [Touch Screen Mapper](https://github.com/Jetup13/Retroid-Pocket-2-Plus-Wiki/wiki/Retroid-Pocket-2-Plus-Android#game-assistant-widget-touch-overlay)|Input used with the built-in Touch Screen Mapper
@@ -15,8 +15,12 @@ V.Mouse|Virtual mouse mode was used (Hold Home button for 3 seconds)
 
 Title|Playable|Fixes|Input Style|Notes|
 :----|:-------:|:----|:----------|:----|
+[Abbaye des Morts](https://locomalito.com/abbaye_des_morts.php)|🟩||Xbox|[Game Ports wiki](https://github.com/Jetup13/Retroid-Pocket-2-Plus-Wiki/wiki/Game-Ports)|
 [Alien Blackout](https://play.google.com/store/apps/details?id=com.D3Go.mendel)|🟩||Touch|
+[AlephOne](https://github.com/daniele-rapagnani/alephone-android/releases) (Marathon Trilogy)|🟩||Xbox/Touch|
+[AM2R - Another Metroid 2 Remake](https://github.com/AM2R-Community-Developers/AM2RLauncher/releases/tag/2.2.0) (Metroid II Fan Remake)|🟩|Options > Display Settings > Turn off Widescreen|Xbox|[Game Ports wiki](https://github.com/Jetup13/Retroid-Pocket-2-Plus-Wiki/wiki/Game-Ports)|
 [Among Us](https://play.google.com/store/apps/details?id=com.innersloth.spacemafia)|🟩||Xbox/Touch|
+[Apple Knight](https://play.google.com/store/apps/details?id=online.limitless.appleknight.free)|🟩||Xbox/Touch|
 [Asphalt 8](https://play.google.com/store/apps/details?id=com.gameloft.android.ANMP.GloftA8HM)|🟩||Xbox|Can get choppy
 [Back to Bed](https://play.google.com/store/apps/details?id=com.bedtime.backtobed)|🟩||Xbox|
 [Bards Tale](https://play.google.com/store/apps/details?id=com.inxile.BardTale)|🟩||Xbox|
@@ -30,6 +34,7 @@ Crazy Taxi|🟧||Xbox|Amazon Appstore version used.
 [Crazy Taxi Classic](https://play.google.com/store/apps/details?id=com.sega.CrazyTaxiplayhaven)|🟩||Xbox/Touch||
 [Crossy Road](https://play.google.com/store/apps/details?id=com.yodo1.crossyroad)|🟩||Xbox|_* Credit to [mrwhistles](https://github.com/mrwhistles)_|
 [Danganronpa: Trigger Happy Havoc](https://play.google.com/store/apps/details?id=jp.co.spike_chunsoft.DR1)|🟩||V.Mouse/Touch|
+[ddlc-android](https://github.com/saber-nyan/ddlc-android/releases)  (Doki Doki Literature Club! Android port)|🟩||V.Mouse/Touch|
 [Dead Cells](https://play.google.com/store/apps/details?id=com.playdigious.deadcells.mobile)|🟩|Options > Video > High Resolution|Xbox|
 [DevilutionX](https://github.com/diasurgical/devilutionX) (Diablo 1)|🟩||Xbox|[Game Ports wiki](https://github.com/Jetup13/Retroid-Pocket-2-Plus-Wiki/wiki/Game-Ports)|
 [Diablo Immortal](https://play.google.com/store/apps/details?id=com.blizzard.diablo.immortal)|🟥||Xbox|Runs extremely slow. Unplayable. _* Credit to [mrwhistles](https://github.com/mrwhistles)_|
@@ -50,6 +55,7 @@ Final Fantasy 4 (3D Remake)|🟩||Xbox|Amazon Appstore version used.
 [Final Fantasy 8 Remastered](https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.FFVIII)|🟩||Xbox|UI scaling is off on some elements|
 [Final Fantasy 9](https://play.google.com/store/apps/details?id=com.square_enix.FFIXww.android_googleplay)|🟩||Xbox/Touch|Choppy FMV's|
 [Final Fantasy Tactics WotL](https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.FFT_en2)|🟩||Touch|
+[Funkin-Android](https://github.com/luckydog7/Funkin-android/releases) (Friday Night Funkin)|🟧|Xbox||[Game Ports wiki](https://github.com/Jetup13/Retroid-Pocket-2-Plus-Wiki/wiki/Game-Ports)|
 [GAROU: MARK OF THE WOLVES](https://play.google.com/store/apps/details?id=com.snkplaymore.android013)|🟩||Xbox|Analog reads four directions|
 [Grand Theft Auto 3](https://play.google.com/store/apps/details?id=com.rockstar.gta3)|🟩|Options > Draw Distance > 75%|Xbox|
 Grand Theft Auto San Andreas|🟥||N/A|Amazon Appstore version used.|
@@ -68,6 +74,7 @@ Jade Empire|🟥||N/A|Black Screen and De-listed|
 Jet Set Radio|🟩||Xbox|Amazon Appstore version used. De-listed|
 [Kosmic Revenge](https://play.google.com/store/apps/details?id=com.realtechvr.kosmikrevenge)|🟩||Xbox|_* Credit to [mrwhistles](https://github.com/mrwhistles)_|
 [Life is Strange](https://play.google.com/store/apps/details?id=com.squareenix.lis)|🟩||Xbox|Text can be hard to read
+[Maldita Castilla](https://locomalito.com/maldita_castilla.php)|🟩||Xbox|[Game Ports wiki](https://github.com/Jetup13/Retroid-Pocket-2-Plus-Wiki/wiki/Game-Ports)|
 [Max Payne Mobile](https://play.google.com/store/apps/details?id=com.rockstar.maxpayne)|🟩||Xbox|
 [Metal Slug](https://play.google.com/store/apps/details?id=com.dotemu.neogeo.mslug)|🟩||Xbox|
 [Minecraft](https://play.google.com/store/apps/details?id=com.mojang.minecraftpe)|🟩||Xbox|_* Credit to [mrwhistles](https://github.com/mrwhistles)_|
@@ -91,17 +98,19 @@ Nimble Quest|🟩||Xbox|_* Credit to [mrwhistles](https://github.com/mrwhistles)
 [RVGL](https://re-volt.io/downloads/game) (Re-Volt)|🟩||Xbox|[Game Ports wiki](https://github.com/Jetup13/Retroid-Pocket-2-Plus-Wiki/wiki/Game-Ports)|
 [San Andreas Unity](https://github.com/GTA-ASM/SanAndreasUnity/wiki/Running-on-Android) (GTA SA Multiplayer)|🟧||Xbox|[Game Ports wiki](https://github.com/Jetup13/Retroid-Pocket-2-Plus-Wiki/wiki/Game-Ports)|
 [Sonic Robo Blast 2](https://www.srb2.org/download/#android-installations)|🟩|Head to options and setup the controls|Xbox|
+[Sonic 1 SMS](https://sonic-sms-remake.blogspot.com/p/one.html)|🟩||Xbox|[Game Ports wiki](https://github.com/Jetup13/Retroid-Pocket-2-Plus-Wiki/wiki/Game-Ports)|
 [Source Engine Player](https://discord.com/invite/NaAhjQt6) (Half Life 2)|🟩||Xbox|[Game Ports wiki](https://github.com/Jetup13/Retroid-Pocket-2-Plus-Wiki/wiki/Game-Ports)|
 [Spelunky Classic HD](https://yancharkin.itch.io/spelunky-classic-hd)|🟩||Xbox|[Game Ports wiki](https://github.com/Jetup13/Retroid-Pocket-2-Plus-Wiki/wiki/Game-Ports)|
 [Stardew Valley](https://play.google.com/store/apps/details?id=com.chucklefish.stardewvalley)|🟩||Xbox|_* Credit to [mrwhistles](https://github.com/mrwhistles)_|
 [Star Wars Knights of the Old Republic](https://play.google.com/store/apps/details?id=com.aspyr.swkotor)|🟩||Xbox/Touch|Small text
 [Streets of Rage 4](https://play.google.com/store/apps/details?id=com.playdigious.sor4)|🟩|Under Options > Video > Advanced Options set "Graphics quality" to "Low".|Xbox|_* Credit to [mrwhistles](https://github.com/mrwhistles)_|
 [Super Gravitron](https://play.google.com/store/apps/details?id=air.com.distractionware.supgrav)|🟩||Xbox/Touch|
+Super Mario 64 Android|🟥||N/A|Black Screen|
 [Super Tux Kart](https://play.google.com/store/apps/details?id=org.supertuxkart.stk)|🟩|Settings > Controls > Touch Device > Turn off Device enabled|Xbox|
 [Tesla vs. Lovecraft](https://play.google.com/store/apps/details?id=com.the10tons.teslavslovecraft)|🟩||Xbox|
 [THE KING OF FIGHTERS `97](https://play.google.com/store/apps/details?id=com.snkplaymore.android001)|🟩|Set controller to Xperia|Xbox|Analog reads four directions|
 [THE KING OF FIGHTERS `98](https://play.google.com/store/apps/details?id=com.snkplaymore.android007)|🟩|Set controller to Google or Samsung|Xbox|Analog reads four directions|
-[The Deer God](https://play.google.com/store/apps/details?id=com.crescentmoongames.deergod)|🟧||Xbox|Never swipe in game or you'll lose analog control's)
+[The Deer God](https://play.google.com/store/apps/details?id=com.crescentmoongames.deergod)|🟧||Xbox|Never swipe in game or you'll lose analog control's
 [The Ramp](https://play.google.com/store/apps/details?id=com.crescentmoongames.theramp)|🟩||Xbox|
 [The World Ends With You](https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.subarashikikonosekai_solo)|🟩||Touch|
 [Titan Quest](https://play.google.com/store/apps/details?id=com.dotemu.titanquest)|🟩||Xbox|UI scaling is off on some elements|
@@ -124,7 +133,7 @@ Game Name|🟩🟧🟥|Fixes|Input Method used and/or needed|Notes
 
 # Amazon App Store
 
-Retroid Pocket 2 Plus is seemingly killing background processes that are needed to connect to Amazons servers (GameCircle).
+Retroid Pocket 2 Plus seemingly kill's background processes that are needed to connect to Amazons servers (GameCircle).
 
 If using the Amazon App Store make sure to do the following so you won't get pesky connection failed errors:
 

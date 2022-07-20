@@ -3,44 +3,142 @@
 * Links to legally free homebrew games that can be played through emulators
 * Turn off boot bios if the game fails to load
 
-Title|Console|Genre|Developer|
-:----|:------|:----|:--------|
-[30 Years of Nintendon't](https://drludos.itch.io/30-years-of-nintendont)|Mega Drive|Action|[Dr.Ludos](https://drludos.itch.io/)
-[A 4D Christmas](https://notimplementedlife.itch.io/a-4d-christmas)|Game Boy Advance|Shooter|[NotImplementedLife](https://notimplementedlife.itch.io/)
-[AIRPLANZ](https://notimplementedlife.itch.io/airplanz)|Game Boy|Strategy|[NotImplementedLife](https://notimplementedlife.itch.io/)
-[Alter Ego](https://retrosouls.itch.io/alterego16bit)|Mega Drive|Platformer|[RetroSouls](https://retrosouls.itch.io/)
-[An Autumn With You](https://leafthief.itch.io/autumn)|Game Boy|Adventure|[leafthief](https://leafthief.itch.io/)
-[Binding of Isaac, The: Game Boy Edition](https://jrob774.itch.io/the-binding-of-isaac-gbjam8-edition)|Game Boy|Roguelike|[Joshua Robertson](https://jrob774.itch.io/)
-[Black Castle](https://user0x7f.itch.io/black-castle)|Game Boy|Action Platformer|[User0x7f](https://user0x7f.itch.io/)
-[Bobl](https://morphcatgames.itch.io/bobl)|NES|Platformer|[Morphcat Games](https://morphcatgames.itch.io/)
-[Breksta's Cat](https://notimplementedlife.itch.io/brekstascat)|Game Boy|Puzzle|[NotImplementedLife](https://notimplementedlife.itch.io/)
-[Celeste Classic](https://github.com/JeffRuLz/Celeste-Classic-GBA)|Game Boy Advance|Platformer|Matt Thorson and Noel Berry
-[Cookies Bakery](https://leafthief.itch.io/cookies-bakery)|Game Boy|Simulation|[leafthief](https://leafthief.itch.io/)
-[Dangan GB](https://snorpung.itch.io/dangan-gb)|Game Boy|Shoot 'em Up|[snorpung](https://snorpung.itch.io/)
-[Deadeus](https://izma.itch.io/deadeus)|Game Boy|Adventure|[izma](https://izma.itch.io/)
-[Deep Forest](https://small.itch.io/deep-forest)|Game Boy|Puzzle|[Kevin Trepanier](https://small.itch.io/)
-[Do I Pass?](https://taylormccue.itch.io/do-i-pass)|Game Boy|Visual Novel|[Taylor McCue](https://taylormccue.itch.io/)
-[Don't Forget About Me](https://suitntie22.itch.io/dont-forget-about-me)|Game Boy|Action RPG|[suitntie22](https://suitntie22.itch.io/)
-[Duck Marines](https://tangramgames.itch.io/duckmarines)|Love|Puzzle|[Tangram Games](https://tangramgames.dk/)
-[Hyperbeatz](https://mysticalwheelbarrow.itch.io/hyperbeatz)|NES|Rhythm|[Mystical Wheelbarrow](https://mysticalwheelbarrow.itch.io/)
-[If](https://neuromage.itch.io/if)|Game Boy|RPG|[Neuromage Studio](https://neuromage.itch.io/)
-[Lighthouse of Sao Bento do Oeste, The](https://neuromage.itch.io/lighthouse)|Saturn|Visual Novel|[Neuromage Studio](https://neuromage.itch.io/)
-[Loonies 8192](https://thp.itch.io/loonies-8192)|Multiplatform|Puzzle|[Thomas Perl](https://thp.itch.io/)
-[Lunar Limit](http://pubby.github.io/lunarlimit.nes)|NES|Shoot 'em Up|[pubby](http://pubby.games/)
-[Notebook Adventure](https://notimplementedlife.itch.io/notebook-adventure)|Game Boy Advance|Platformer|[NotImplementedLife](https://notimplementedlife.itch.io/)
-[Postie](https://invertedhat.itch.io/postie)|Game Boy Color|Platformer|[invertedHat](https://invertedhat.itch.io/)
-[PSXFunkin](https://github.com/cuckydev/PSXFunkin)|PlayStation|Rhythem|[cuckydev](https://github.com/cuckydev/)
-[Pocket Meat](https://bomberdev.itch.io/pocket-meat)|Game Boy Advance|Platformer|[BomberDev](https://bomberdev.itch.io/)
-[Pyoro 64](https://n64squid.com/pyoro-64/)|Nintendo 64|Arcade|[n64squid](https://n64squid.com/)
-[Rubik](https://notimplementedlife.itch.io/rubik)|Game Boy|Puzzle|[NotImplementedLife](https://notimplementedlife.itch.io/)
-[Sam Mallard – The Case of the Missing Swan](https://snorpung.itch.io/sam-mallard-gb)|Game Boy|Adventure|[snorpung](https://snorpung.itch.io/)
-[Sienna](https://tangramgames.itch.io/sienna)|Love|Platformer|[Tangram Games](https://tangramgames.dk/)
-[Super Boss Gaiden](https://superbossgaiden.superfamicom.org/)|Multiplatform|Platformer|Dieter von Laser/ChronoMoogle
-[Sushi Nights](https://zalo.itch.io/sushi-nights)|Game Boy|Platformer|[Zalo](https://zalo.itch.io/)
-[Sword of Ianna, The](http://www.retroworks.es/php/game_en.php?id=15)|Multiplatform|Platformer|[Retroworks](http://www.retroworks.es/)
-[Tobu Tobu Girl Deluxe](https://tangramgames.dk/tobutobugirldx/)|Game Boy Color|Platformer|[Tangram Games](https://tangramgames.dk/)
-[Tobu Tobu Girl](https://tangramgames.dk/tobutobugirl/)|Game Boy|Platformer|[Tangram Games](https://tangramgames.dk/)
-[Trabant](https://notimplementedlife.itch.io/trabant)|Game Boy|Simulation|[NotImplementedLife](https://notimplementedlife.itch.io/)
-[Warp Coin Catastrophe, The](http://game.warp.world/)|Game Boy|Visual Novel|[Proximity Sound](https://proximitysound.itch.io/)
-[Wartris](https://www.wartris.com/articles/view/wartris)|PlayStation|Puzzle|Pissteam
-[Wartris++](http://www.wartris.com/articles/view/wartris-2)|PlayStation|Puzzle|Pissteam
+# Game Boy
+
+Title|Genre|Developer|
+:----|:----|:--------|
+[AIRPLANZ](https://notimplementedlife.itch.io/airplanz)|Strategy|[NotImplementedLife](https://notimplementedlife.itch.io/)
+[An Autumn With You](https://leafthief.itch.io/autumn)|Adventure|[leafthief](https://leafthief.itch.io/)
+[Binding of Isaac, The: Game Boy Edition](https://jrob774.itch.io/the-binding-of-isaac-gbjam8-edition)|Roguelike|[Joshua Robertson](https://jrob774.itch.io/)
+[Bitterroot](https://horatiunyc.itch.io/bitterroot)|Adventure|[Horatie.nyc](https://horatiunyc.itch.io/)
+[Black Castle](https://user0x7f.itch.io/black-castle)|Action Platformer|[User0x7f](https://user0x7f.itch.io/)
+[Breksta's Cat](https://notimplementedlife.itch.io/brekstascat)|Puzzle|[NotImplementedLife](https://notimplementedlife.itch.io/)
+[Cookies Bakery](https://leafthief.itch.io/cookies-bakery)|Simulation|[leafthief](https://leafthief.itch.io/)
+[Crate Place](https://reachcoding.eu/crate-place)|Puzzle|[reachCoding](https://reachcoding.eu/)
+[Dangan GB](https://snorpung.itch.io/dangan-gb)|Shoot 'em Up|[snorpung](https://snorpung.itch.io/)
+[Deadeus](https://izma.itch.io/deadeus)|Adventure|[izma](https://izma.itch.io/)
+[Deep Forest](https://small.itch.io/deep-forest)|Puzzle|[Kevin Trepanier](https://small.itch.io/)
+[Do I Pass?](https://taylormccue.itch.io/do-i-pass)|Visual Novel|[Taylor McCue](https://taylormccue.itch.io/)
+[Don't Forget About Me](https://suitntie22.itch.io/dont-forget-about-me)|Action RPG|[suitntie22](https://suitntie22.itch.io/)
+[GBVR - Virtual Trader](https://polyducks.itch.io/virtual-trader)|Other|[Polyducks](https://polyducks.itch.io/)
+[If](https://neuromage.itch.io/if)|RPG|[Neuromage Studio](https://neuromage.itch.io/)
+[Life in The Analog Age Rainy Day](https://gabeswarr.itch.io/rainy-day)|Other|[Gabe Swarr](https://gabeswarr.itch.io/)
+[LURK](https://anildemir.itch.io/lurk)|Action|[Anil Demir](https://anildemir.itch.io/)
+[Midterm Moments](https://toadstoolpicnic.itch.io/midterm-moments)|Visual Novel|[Toadstoolpicnic](https://toadstoolpicnic.itch.io/)
+[Rubik](https://notimplementedlife.itch.io/rubik)|Puzzle|[NotImplementedLife](https://notimplementedlife.itch.io/)
+[Sam Mallard – The Case of the Missing Swan](https://snorpung.itch.io/sam-mallard-gb)|Adventure|[snorpung](https://snorpung.itch.io/)
+[Super Imposter Bros](https://lumpytouch.itch.io/super-impostor-bros)|Platformer|[Lumpy](https://lumpytouch.itch.io/)
+[Sushi Nights](https://zalo.itch.io/sushi-nights)|Platformer|[Zalo](https://zalo.itch.io/)
+[Sushi Gun](https://metagamemike.itch.io/sushigun)|Action|[MetagameMike](https://metagamemike.itch.io/)
+[There's Nothing To Do In This Town](https://donotrunwithpixels.itch.io/theres-nothing-to-do-in-this-town)|RPG|[donotrunwithpixels](https://donotrunwithpixels.itch.io/)
+[Toast That Died And Went To Heaven, The](https://donotrunwithpixels.itch.io/toast)|Platformer|[donotrunwithpixels](https://donotrunwithpixels.itch.io/)
+[Tobu Tobu Girl](https://tangramgames.dk/tobutobugirl/)|Platformer|[Tangram Games](https://tangramgames.dk/)
+[Trabant](https://notimplementedlife.itch.io/trabant)|Simulation|[NotImplementedLife](https://notimplementedlife.itch.io/)
+[Usurper Ghoul](https://evandahm.itch.io/usurper-ghoul)|Adventure|[evvandahm](https://evandahm.itch.io/)
+[Warp Coin Catastrophe, The](http://game.warp.world/)|Visual Novel|[Proximity Sound](https://proximitysound.itch.io/)
+[Wishing Sarah](https://asteristic.itch.io/wishing-sarah)|Adventure|[Asteristic Game Studio](https://asteristic.itch.io/)
+
+# Game Boy Color
+
+Title|Genre|Developer|
+:----|:----|:--------|
+[Opossum Country](https://benjelter.itch.io/opossum-country)|Adventure|[BenJelter](https://benjelter.itch.io/)
+[Piecrust](https://pdroms.de/files/nintendo-gameboy-gb-gameboycolor-gbc/pie-crust-v1-0)|Puzzle|Jarvik7
+[Postie](https://invertedhat.itch.io/postie)|Platformer|[invertedHat](https://invertedhat.itch.io/)
+[Ruby & Rusty Save The Crows](https://maxoakland.itch.io/ruby-rusty-save-the-crows)|Platformer|[Max Oakland](https://maxoakland.itch.io/)
+[Tobu Tobu Girl Deluxe](https://tangramgames.dk/tobutobugirldx/)|Platformer|[Tangram Games](https://tangramgames.dk/)
+
+# Game Boy Advance
+
+Title|Genre|Developer|
+:----|:----|:--------|
+[A 4D Christmas](https://notimplementedlife.itch.io/a-4d-christmas)|Shooter|[NotImplementedLife](https://notimplementedlife.itch.io/)
+[Anguna](https://gauauu.itch.io/anguna)|Adventure|[gauauu](https://gauauu.itch.io/)
+[Apotris](https://akouzoukos.itch.io/apotris)|Puzzle|[akouzoukos](https://akouzoukos.itch.io/)
+[BlindJump](https://evanbowman.itch.io/blindjump)|Action|[evanbowman](https://evanbowman.itch.io/)
+[Butano Fighter](https://gvaliente.itch.io/butano-fighter)|Shoot 'em Up|[GValiente](https://gvaliente.itch.io/)
+[Celeste Classic](https://github.com/JeffRuLz/Celeste-Classic-GBA)|Platformer|Matt Thorson and Noel Berry
+[Frost Princess](https://squishyfrogs.itch.io/frost-princess)|Puzzle|[squishyfrogs](https://squishyfrogs.itch.io/frost-princess)
+[Inheritors of the Oubliette](https://mahoushoujomagicalmoestar.itch.io/inheritors-of-the-oubliette)|Adventure|[Magical Moestar](https://mahoushoujomagicalmoestar.itch.io/)
+[Necropolis](https://jehoz.itch.io/necropolis)|Adventure|[jehoz](https://jehoz.itch.io/)
+[Notebook Adventure](https://notimplementedlife.itch.io/notebook-adventure)|Platformer|[NotImplementedLife](https://notimplementedlife.itch.io/)
+[Picross Advance](https://drive.google.com/file/d/1jInY9ZLsVj2q96MnO4d_6zX9wK4NPih8/view?usp=sharing)|Puzzle|Phantom
+[Pocket Meat](https://bomberdev.itch.io/pocket-meat)|Platformer|[BomberDev](https://bomberdev.itch.io/)
+[Scolls of Fire](https://akouzoukos.itch.io/scrollsoffire)|Action|[akouzoukos](https://akouzoukos.itch.io/)
+[Skyland](https://evanbowman.itch.io/skyland)|Strategy|[evenbowman](https://evanbowman.itch.io/)
+[Sudoku Micro](https://pdroms.de/files/nintendo-gameboyadvance-gba/sudoku-micro-rc-1)|Puzzle|DJP
+[Sushi The Cat](https://drive.google.com/file/d/1VnpwwHs32bGIkkeVOYbJzWHXmu-iIAmd/view?usp=sharing)|Platformer|N3TKAT
+[xniq](https://exelotl.itch.io/xniq)|Puzzle|[exelotl](https://exelotl.itch.io/xniq)
+
+# Love
+
+Title|Genre|Developer|
+:----|:----|:--------|
+[Duck Marines](https://tangramgames.itch.io/duckmarines)|Puzzle|[Tangram Games](https://tangramgames.dk/)
+[Sienna](https://tangramgames.itch.io/sienna)|Platformer|[Tangram Games](https://tangramgames.dk/)
+
+# MegaDrive/Genesis
+
+Title|Genre|Developer|
+:----|:----|:--------|
+[30 Years of Nintendon't](https://drludos.itch.io/30-years-of-nintendont)|Action|[Dr.Ludos](https://drludos.itch.io/)
+[Alter Ego](https://retrosouls.itch.io/alterego16bit)|Platformer|[RetroSouls](https://retrosouls.itch.io/)
+[Cave Story MD](https://github.com/andwn/cave-story-md/releases/tag/v0.7.0)|Platformer|[andwn](https://github.com/andwn)
+[GLUF](https://retrosouls.itch.io/gluf-16bit)|Platformer|[RetroSouls](https://retrosouls.itch.io/)
+[GraviBots](https://retrosouls.itch.io/gravibots16bit)|Platformer|[RetroSouls](https://retrosouls.itch.io/)
+[Misplaced](https://retrosouls.itch.io/misplaced)|Puzzle|[RetroSouls](https://retrosouls.itch.io/)
+[Old Towers](https://retrosouls.itch.io/old-towers)|Action|[RetroSouls](https://retrosouls.itch.io/)
+[TOURMALINE](https://retrosouls.itch.io/tourmaline)|Platformer|[RetroSouls](https://retrosouls.itch.io/)
+[YAZZIE](https://retrosouls.itch.io/yazzie16bit)|Platformer|[RetroSouls](https://retrosouls.itch.io/)
+
+# Multiplatform
+
+Title|Genre|Developer|
+:----|:----|:--------|
+[Alice's Mom's Rescue](http://orionsoft.free.fr/)|Platformer|[Orion_](http://orionsoft.free.fr/)
+[Alice Sisters](http://orionsoft.free.fr/)|Platformer|[Orion_](http://orionsoft.free.fr/)
+[Elansar](http://orionsoft.free.fr/)|Point & Click|[Orion_](http://orionsoft.free.fr/)
+[Escape 2042 : The Truth Defenders](http://orionsoft.free.fr/)|Platformer|[Orion_](http://orionsoft.free.fr/)
+[Loonies 8192](https://thp.itch.io/loonies-8192)|Puzzle|[Thomas Perl](https://thp.itch.io/)
+[Philia : The Sequel to Elansar](http://orionsoft.free.fr/)|Point & Click|[Orion_](http://orionsoft.free.fr/)
+[Robo-Ninja Climb](https://gauauu.itch.io/robo-ninja-climb)|Action|[gauauu](https://gauauu.itch.io/)
+[Super Boss Gaiden](https://superbossgaiden.superfamicom.org/)|Platformer|Dieter von Laser/ChronoMoogle
+[Sword of Ianna, The](http://www.retroworks.es/php/game_en.php?id=15)|Platformer|[Retroworks](http://www.retroworks.es/)
+[Yopaz 3D](http://orionsoft.free.fr/)|Puzzle|[Orion_](http://orionsoft.free.fr/)
+[Yopaz IceStar](http://orionsoft.free.fr/)|Puzzle|[Orion_](http://orionsoft.free.fr/)
+[Zia and the Goddesses of Magic](http://orionsoft.free.fr/)|RPG|[Orion_](http://orionsoft.free.fr/)
+
+# NES
+
+Title|Genre|Developer|
+:----|:----|:--------|
+[Alter Ego](https://shiru.untergrund.net/files/nes/alter_ego.zip)|Puzzle|[Shiru](https://shiru.untergrund.net/)
+[Bobl](https://morphcatgames.itch.io/bobl)|Platformer|[Morphcat Games](https://morphcatgames.itch.io/)
+[ChronoKnight](https://artixgames.itch.io/chronoknight)|Action|[Artix](https://artixgames.itch.io/)
+[D-Pad Hero](https://www.dpadhero.com/Download.html)|Rhythm|Kent Hansen, Andreas Pedersen
+[D-Pad Hero 2](https://www.dpadhero.com/Download.html)|Rhythm|Kent Hansen, Andreas Pedersen
+[Hyperbeatz](https://mysticalwheelbarrow.itch.io/hyperbeatz)|Rhythm|[Mystical Wheelbarrow](https://mysticalwheelbarrow.itch.io/)
+[Lunar Limit](http://pubby.github.io/lunarlimit.nes)|Shoot 'em Up|[pubby](http://pubby.games/)
+[Project DART](https://cuttercross.itch.io/project-dart)|Platformer|[CutterCross](https://cuttercross.itch.io/)
+[RevolvingGems](https://kyoske.sakura.ne.jp/nes/RevolvingGems100.zip)|Puzzle|[Kyoske](https://kyoske.sakura.ne.jp/)
+[Streemerz](https://www.fauxgame.com/)|Platformer|Mr. Podunkian
+[Spacegulls](https://morphcatgames.itch.io/spacegulls)|Platformer|[Morphcat Games](https://morphcatgames.itch.io/)
+[Super Homebrew War](https://gauauu.itch.io/super-homebrew-war)|Fighting|[gauauu](https://gauauu.itch.io/)
+[Touhou Rououmu](https://kyoske.sakura.ne.jp/index.cgi?p=%E6%9D%B1%E6%96%B9%E8%80%81%E6%A1%9C%E5%A4%A2)|Shoot 'em Up|[Kyoske](https://kyoske.sakura.ne.jp/)
+[Tower of Turmoil, The](https://cuttercross.itch.io/the-tower-of-turmoil)|Platformer|[CutterCross](https://cuttercross.itch.io/)
+[Wolfling](https://lazycow.itch.io/wolfling)|Action|[Lazycow](https://lazycow.itch.io/)
+
+# PlayStation
+
+Title|Genre|Developer|
+:----|:----|:--------|
+[Escape from the North](https://reachcoding.eu/escape-from-the-north)|Puzzle|[reachCoding](https://reachcoding.eu/)
+[PSXFunkin](https://github.com/cuckydev/PSXFunkin)|Rhythem|[cuckydev](https://github.com/cuckydev/)
+[Wartris](https://www.wartris.com/articles/view/wartris)|Puzzle|Pissteam
+[Wartris++](http://www.wartris.com/articles/view/wartris-2)|Puzzle|Pissteam
+
+# Sega Saturn
+
+Title|Genre|Developer|
+:----|:----|:--------|
+[Lighthouse of Sao Bento do Oeste, The](https://neuromage.itch.io/lighthouse)|Visual Novel|[Neuromage Studio](https://neuromage.itch.io/)

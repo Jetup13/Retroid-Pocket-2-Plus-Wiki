@@ -17,7 +17,7 @@ Enhancements|PGXP Texture Correction > On|
 Category|Setting Change|Note
 :-------|:-------------|:---|
 Settings|Auto-Hide Touchscreen Controller > On|
-Settings|Device Vibration > On|To maximize performance leave vibration off
+Settings|Device Vibration > On|
 Port 1|Controller Type > Analog Controller (DualShock)|
 Port 1|Use Analog Sticks for D-Pad in Digital Mode > On|
 
@@ -39,6 +39,39 @@ Rendering Mode|Backend > OpenGL|
 Rendering Mode|Mode > Buffered Rendering|Switch to Non-buffered if you have problems
 Framerate Control|Frame skipping > 1|
 Framerate Control|Auto framskip > On|
+
+# SwanStation (Libretro)
+
+<table>
+<tr>
+<th>Core Option</th>
+<th>Setting Change</th>
+<th>Note</th>
+</tr>
+<tr>
+<td>Console Settings</td>
+<td>Fast Boot > On</td>
+<td>Skips Bios</td>
+</tr>
+<tr>
+<td>Enhancement Settings</td>
+<td>Software</td>
+<td>Increases performance at the cost of not being able to use PGXP or increase resolution</td>
+</tr>
+<tr>
+<td rowspan="2">Display Settings</td>
+<td>Core Provided Aspect Ratio > 4:3</td>
+<td></td>
+</tr>
+<tr>
+<td>Display OSD Messages > Off</td>
+<td></td>
+</tr>
+<tr>
+<td>Port Settings</td>
+<td>Memory Card 1 Type > Separate Card Per Game (Game Title)
+<td></td>
+</table>
 
 # Yaba Sanshiro 2
 

@@ -63,7 +63,7 @@ Nintendo GameBoy|_**Libretro**_: Gambatte, Gearboy, mGBA, TGB Dual, VBA-M|`.gb`,
 Nintendo GameBoy Color|_**Libretro**_: Gambatte, Gearboy, mGBA, TGB Dual, VBA-M|`.gbc`, .gb, .dmg, `.zip`, .7z|_**Optional:**_ gbc_bios.bin, sgb_bios.bin
 Nintendo Gamecube|_**Standalone**_: Dolphin, Dolphin MMJ, Dolphin MMJR|`.iso`, `.gcz`, .rvz, .nkit|
 Nintendo Pokemon Mini|_**Libretro**_: PokeMini|.min, .zip|_**Optional:**_ bios.min
-Nintendo SNES|_**Libretro**_: Beetle Supafraust, bsnes, bsnes-mercury (Balanced), bsnes-mercury (Performance), Snes9x 2002, Snes9x 2005, Snes9x 2005 Plus, Snes9x 2010|`.smc`, .sfc, `.zip`, .7z|
+Nintendo SNES|_**Libretro**_: Beetle Supafraust, bsnes, bsnes-mercury (Balanced), bsnes-mercury (Performance), Snes9x 2002, Snes9x 2005, Snes9x 2005 Plus, Snes9x 2010 _**Standalone**_: Snes9x EX+, SuperRetro16, SNESDroid, MultiSneS16, EmuSNES XL|`.smc`, .sfc, `.zip`, .7z|
 Nintendo Virtual Boy|_**Libretro**_: Beetle VB|.vb, .vboy, `.zip`, .7z|
 Nintendo Wii|_**Standalone**_: Dolphin, Dolphin MMJ, Dolphin MMJR|`.iso`, .rvz, .nkit|
 Oberon RISC Emulator|_**Libretro**_: Oberon RISC Emulator|.dsk|
@@ -76,7 +76,7 @@ Sammy Atomiswave|_**Libretro**_: Flycast _**Standalone**_: Redream|.chd, .ist, .
 ScummVM|_**Libretro**_: ScummVM _**Standalone**_: ScummVM|.zip, .scummvm|
 Sega 32X|_**Libretro**_: PicoDrive|`.32x`, .7z, .bin, .md, .smd, `.zip`|
 Sega CD/Mega CD|_**Libretro**_: Genesis Plus GX, Genesis Plus GX Wide, PicoDrive|`.chd`, .bin/cue|_**Required:**_ bios_CD_U.bin, bios_CD_E.bin, bios_CD_J.bin
-Sega Dreamcast|_**Libretro**_: Flycast _**Standalone**_: Flycast, Redream|`.chd`, .bin/.cue, .bin/.gdi, .bin/cdi|_**Required for Flycast:**_ dc_boot.bin, dc_flash.bin
+Sega Dreamcast|_**Libretro**_: Flycast _**Standalone**_: Flycast, Redream, Reicast|`.chd`, .bin/.cue, .bin/.gdi, .bin/cdi|_**Required for Flycast:**_ dc_boot.bin, dc_flash.bin
 Sega Game Gear|_**Libretro**_: Gearsystem, Genesis Plus GX|`.gg`, .bin, `.zip`, .7z|_**Optional:**_ bios.gg
 Sega Genesis/MegaDrive|_**Libretro**_: Genesis Plus GX, Genesis Plus GX Wide, PicoDrive|`.md`, .68k, .mdx, .sgd, .smd, .gen, .bin, `.zip`, .7z|_**Optional:**_ bios_MD.bin
 Sega Master System|_**Libretro**_: Gearsystem, Genesis Plus GX, Genesis Plus GX Wide, PicoDrive|.7z, .bin, `.sms`, `.zip`|_**Optional:**_ bios_E.sms, bios_U.sms, bios_J.sms
@@ -148,4 +148,23 @@ Final Fantasy IX (USA) (Disc 3).cue
 Final Fantasy IX (USA) (Disc 4).cue
 ```
 
-4. Save file
+4. Save file and place in the same folder as the content
+
+You can also have your content in different folders. This is useful for front-ends that might scan disc and m3u files, leading to multiple files. Simply write the path to the content in the m3u files.
+
+1. Let's say you typically place your psx games in `/sdcard0/roms/psx/`.
+
+2. Now create a folder outside the psx folder. Let's name it `psxmutltidisc`.
+
+3. As an example lets use Metal Gear Solid and place each disc in the newly created folder `/sdcard0/roms/psxmultidisc/`. 
+
+4. Now you can simply write your m3u file as such:
+
+```
+./../psxmultidisc/Metal Gear Solid (USA) (Disc 1) (Rev 1).chd
+./../psxmultidisc/Metal Gear Solid (USA) (Disc 2) (Rev 1).chd
+```
+
+5. Save and place the file in our example folder `/sdcard0/roms/psx/`
+
+Now your preferred front-end will only scan and show one file instead of three (in this case).

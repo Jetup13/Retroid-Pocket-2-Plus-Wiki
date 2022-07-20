@@ -10,7 +10,7 @@ Frontend|Price|Notes|
 [Dig](https://play.google.com/store/apps/details?id=com.digdroid.alman.dig)|Free / In-App Purchases|
 [Launchbox](https://www.launchbox-app.com/android-download)|Free / $10 (_+ $5 yearly for updates or $15 upgrade_) / $25|
 [Lemuroid](https://play.google.com/store/apps/details?id=com.swordfish.lemuroid)|Free|
-[Pegasus](https://pegasus-frontend.org/#downloads)|Free|
+[Pegasus](https://pegasus-frontend.org/#downloads)|Free|[Pegasus Installer](https://www.pegasus-installer.com/)
 [RetroArch](https://www.retroarch.com/)|Free|
 [Retroid Launcher](https://github.com/Jetup13/Retroid-Pocket-2-Plus-FAQ/wiki/Retroid-Pocket-2-Plus-Android#retroid-launcher)|Free|Pre-Installed
 [RESET Collection](https://play.google.com/store/apps/details?id=com.retroloungelab.resetcollection)|$4.99
@@ -51,6 +51,10 @@ Preview 1|Preview 2|
 
 2. Select the emulator > `Save`
 
+#1|#2
+:-|:-
+![](https://github.com/Jetup13/Retroid-Pocket-2-Plus-Wiki/blob/main/Images/daiemulator1.png)|![](https://github.com/Jetup13/Retroid-Pocket-2-Plus-Wiki/blob/main/Images/daiemulator2.png)
+
 </details>
 
 <details>
@@ -61,9 +65,21 @@ Preview 1|Preview 2|
 
 2. `Custom Player` On > Use Drop-down > `Save`
 
+#1|#2
+:-|:-
+![](https://github.com/Jetup13/Retroid-Pocket-2-Plus-Wiki/blob/main/Images/daiemulator3.png)|![](https://github.com/Jetup13/Retroid-Pocket-2-Plus-Wiki/blob/main/Images/daiemulator4.png)
+
 </details>
 
-* [System Images Pack](https://github.com/Jetup13/Retroid-Pocket-2-Plus-Wiki/blob/main/Extra/daijishouimagepack.zip) (Updated 6/12/22)
+<details>
+<summary>How download a wallpaper pack</summary>
+<br>
+
+1. `Settings` > Scroll down to `Appearance` > `Download platform wallpapers pack`
+
+2. Choose a pack > Download Pack
+
+</details>
 
 # Launch Commands for Retroid Launcher
 

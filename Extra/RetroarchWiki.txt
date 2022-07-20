@@ -246,6 +246,19 @@ Watara Supervision|Potator
 
 _Please note that cores that appear on this list might not be supported on the Retroid Pocket 2 Plus. This list just covers cores that support RetroAchievements_
 
+# Softpatching
+
+Some cores support a feature called [softpatching](https://docs.libretro.com/guides/softpatching/). Meaning it can apply a patch (in  .UPS, .IPS or .BPS extensions) on the fly. 
+
+Simply place the patch in the same folder as the rom and make sure its the same name.
+
+> Example
+
+```
+./Bishoujo Senshi Sailor Moon SuperS - Fuwafuwa Panic (Japan).ips
+./Bishoujo Senshi Sailor Moon SuperS - Fuwafuwa Panic (Japan).zip
+```
+
 # Vibration
 
 RetroArch > Settings > Input > Haptic Feedback/Vibration > Enable Device Vibration (For Supported Cores) > On. Save Configuration
