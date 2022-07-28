@@ -1,0 +1,70 @@
+{
+  "alpha": 1.0,
+  "builtIn": false,
+  "createdTime": 0,
+  "descriptions": {},
+  "downloadCount": 0,
+  "id": "1658987756156",
+  "joystickConfigs": [],
+  "keyConfigs": [
+    {
+      "duration": 0,
+      "exclusiveJoystick": false,
+      "followTouchIndicatorPosition": false,
+      "minEffectiveRadiusPercentage": 0.0,
+      "reverseJoystick": false,
+      "speed": 0,
+      "targetCode": 0,
+      "width": 0,
+      "hideFromUi": false,
+      "name": "A",
+      "sensitivity": 1000100,
+      "touchCenter": 66408000,
+      "touchRadius": 0,
+      "type": 4001
+    },
+    {
+      "duration": 0,
+      "exclusiveJoystick": false,
+      "followTouchIndicatorPosition": false,
+      "minEffectiveRadiusPercentage": 0.0,
+      "reverseJoystick": false,
+      "speed": 0,
+      "targetCode": 0,
+      "width": 0,
+      "hideFromUi": false,
+      "name": "B",
+      "sensitivity": 1000100,
+      "touchCenter": 59068000,
+      "touchRadius": 0,
+      "type": 4001
+    },
+    {
+      "duration": 0,
+      "exclusiveJoystick": false,
+      "followTouchIndicatorPosition": false,
+      "minEffectiveRadiusPercentage": 0.0,
+      "reverseJoystick": false,
+      "speed": 0,
+      "targetCode": 0,
+      "width": 0,
+      "hideFromUi": false,
+      "name": "Y",
+      "sensitivity": 1000100,
+      "touchCenter": 51877979,
+      "touchRadius": 0,
+      "type": 4001
+    }
+  ],
+  "lastModifiedTime": 1658987870629,
+  "macroConfigs": [],
+  "mouseConfigs": [],
+  "packageName": "com.DefaultCompany.com.unity.template.mobile2D",
+  "readOnly": false,
+  "titles": {
+    "default": "New RiriRhythm config"
+  },
+  "toolbarLocation": 81091270,
+  "type": 0,
+  "version": 1
+}
