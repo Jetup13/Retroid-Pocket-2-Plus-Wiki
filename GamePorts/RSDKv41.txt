@@ -1,0 +1,21 @@
+Open this link: https://github.com/Rubberduckycooly/Sonic-1-2-2013-Decompilation/actions
+
+Click the latest workflow event
+
+Click or scroll down to Artifacts
+
+Download v4-Android.zip
+
+Extract the apk called `app-debug.apk` from the zip
+
+Install the apk on your device (Google Play might flag apk, ignore this)
+
+Run RSDKv4 and give permissions once
+
+Locate the folder `/RSDK/v4/` on your internal storage
+
+Place your Sonic 1 Classic `Data.rsdk` in the /RSDK/v4/
+
+Run RSDKv4 and enjoy!
+
+(Note you can only have one game (Sonic 1 or Sonic 2) installed at a time)
