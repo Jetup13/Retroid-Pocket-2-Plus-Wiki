@@ -1,0 +1,85 @@
+{
+  "alpha": 0.0,
+  "builtIn": false,
+  "createdTime": 0,
+  "descriptions": {},
+  "downloadCount": 0,
+  "id": "1661386298877",
+  "joystickConfigs": [
+    {
+      "duration": 0,
+      "followTouchIndicatorPosition": false,
+      "minEffectiveRadiusPercentage": 0.0,
+      "mouseMode": 0,
+      "reverseJoystick": false,
+      "speed": 0,
+      "hideFromUi": true,
+      "name": "LEFT_JOYSTICK",
+      "sensitivity": 1000100,
+      "touchCenter": 16257250,
+      "touchRadius": 1500,
+      "type": 5001
+    }
+  ],
+  "keyConfigs": [
+    {
+      "duration": 0,
+      "exclusiveJoystick": false,
+      "followTouchIndicatorPosition": false,
+      "minEffectiveRadiusPercentage": 0.0,
+      "reverseJoystick": false,
+      "speed": 0,
+      "targetCode": 0,
+      "width": 0,
+      "hideFromUi": false,
+      "name": "A",
+      "sensitivity": 1000100,
+      "touchCenter": 65938166,
+      "touchRadius": 0,
+      "type": 4001
+    },
+    {
+      "duration": 0,
+      "exclusiveJoystick": false,
+      "followTouchIndicatorPosition": false,
+      "minEffectiveRadiusPercentage": 0.0,
+      "reverseJoystick": false,
+      "speed": 0,
+      "targetCode": 0,
+      "width": 0,
+      "hideFromUi": false,
+      "name": "B",
+      "sensitivity": 1000100,
+      "touchCenter": 79217395,
+      "touchRadius": 0,
+      "type": 4001
+    },
+    {
+      "duration": 0,
+      "exclusiveJoystick": false,
+      "followTouchIndicatorPosition": false,
+      "minEffectiveRadiusPercentage": 0.0,
+      "reverseJoystick": false,
+      "speed": 0,
+      "targetCode": 0,
+      "width": 0,
+      "hideFromUi": false,
+      "name": "X",
+      "sensitivity": 1000100,
+      "touchCenter": 92036583,
+      "touchRadius": 0,
+      "type": 4001
+    }
+  ],
+  "lastModifiedTime": 1661386471191,
+  "macroConfigs": [],
+  "mouseConfigs": [],
+  "packageName": "com.jockeholm.undertale",
+  "readOnly": false,
+  "titles": {
+    "default": "UNDERTALE config"
+  },
+  "toolbarLocation": 83281125,
+  "type": 0,
+  "version": 1
+}

@@ -1,0 +1,36 @@
+Undertale Steam version:
+
+Download the Undertale Mobile Mod here: https://www.moddb.com/mods/undertale-mobile-mod/downloads
+
+Extact the mobile mod zip
+
+Locate your Steam copy of Undertale. [example: steam\steamapps\common\Undertale]
+
+Copy the data.win file into the mobile mod folder
+
+Open DeltaPatcherLite.exe > Drag & Drop the copied data.win file into `Original File` > Drag & Drop `v1.08 Windows Steam to Mobile.xdelta` into `xDelta Patch` > click Apply Patch
+
+Rename the newly patched `data.win` file to `game.droid`
+
+Place `game.droid` into the `Android\assets\` folder
+
+Place the *.ogg files from you Undertale install into the `Android\assets\` folder
+
+Run the `create-apk.bat`
+
+It should give you an UNDERTALE.apk after its finished (Make sure the command prompt disappears by itself to confirm its finished)
+
+Install apk
+
+Controller Support
+
+Download the Undertale config.json file
+
+Load the app > Swipe the right side of the screen > Locate and Import the Undertale config.json file
+
+Left Stick to move 
+A = Z = Select
+B = X = Cancel
+X = C = Menu
+
+I'd recommend turning down the oppacity to zero for both the game and game assistant 
