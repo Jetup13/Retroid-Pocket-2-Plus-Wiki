@@ -39,6 +39,10 @@ Preview 1|Preview 2|
 
 3. Hit `Sync` to let the front-end find and scrape your games
 
+#1|#2|
+:-------|:----|
+![](https://github.com/Jetup13/Retroid-Pocket-2-Plus-Wiki/blob/main/Images/daisystems1.png)|![](https://github.com/Jetup13/Retroid-Pocket-2-Plus-Wiki/blob/main/Images/daisystems2.png)
+
 * _To add systems not available through the download I'd recommend editing one of [these](https://github.com/magneticchen/Daijishou/tree/main/platforms) JSON files and importing it through `Settings > More Settings > Import platform`_
 
 </details>
@@ -47,7 +51,7 @@ Preview 1|Preview 2|
 <summary>How to change default emulator</summary>
 <br>
 
-1. On the `Platforms` tab select the pen icon > Player Settings drop down
+1. On the `Platforms` click 🖊️ > `Player Settings` drop down
 
 2. Select the emulator > `Save`
 
@@ -81,7 +85,29 @@ Preview 1|Preview 2|
 
 </details>
 
-# Launch Commands for Retroid Launcher
+# Retroid Launcher
+
+The Retroid Launcher is one of two preinstalled front-ends that you can use when loading up your Retroid Pocket 2 Plus.
+
+You can do the following in the Retroid Launcher:
+
+* Add systems, roms, and launch apps
+* Use Retroid's RetroArch/Standalone preconfigured setup
+* _To use Retroid's preconfigured RetroArch/Standalone setup:`Retroid Launcher System Screen > Setup`_
+* _To switch cover art with your own on the device: long press the game and select "Box Cover" and navigate to the `.png`._
+* _To add your own custom box art via computer place your `.pngs` in the Internal storage `RP3Launcher\Emulations\systemname` folders. Make sure to exit and re-enter the Retroid Launcher for it to take effect._
+
+<details>
+<summary>Retroid Launcher Images</summary>
+<br>
+
+Retroid Launcher Home|Add Systems|Game List View 1|Gamelist View 2|
+:--------------------:|:----------:|:---------------:|:--------------:|
+![](https://github.com/Jetup13/Retroid-Pocket-2-Plus-Wiki/blob/main/Images/rlhome.png)|![](https://github.com/Jetup13/Retroid-Pocket-2-Plus-Wiki/blob/main/Images/rladdsystems.png)|![](https://github.com/Jetup13/Retroid-Pocket-2-Plus-Wiki/blob/main/Images/rlview1.png)|![](https://github.com/Jetup13/Retroid-Pocket-2-Plus-Wiki/blob/main/Images/rlview2.png)
+
+</details>
+
+### Launch Commands
 
 * These are launch commands for the Retroid Launcher. 
 * To add: Retroid Launcher > Game list > Edit > New
@@ -103,6 +129,21 @@ Activity|xyz.aethersx2.android.EmulationActivity
 RetroArch Core|
 Rom path key|bootPath
 Data Type|`*/*`
+
+</details>
+
+<details>
+<summary>Citra - Antutu (3DS)</summary>
+<br>
+
+Option|Command/Input
+:-----|:-----------
+Name|Citra Antutu
+Package|com.antutu.ABenchMark
+Activity|org.citra.emu.ui.EmulationActivity
+RetroArch Core|
+Rom path key|SelectedGame
+Data Type|
 
 </details>
 
@@ -269,6 +310,21 @@ Activity|it.dbtecno.pizzaboygbapro.MainActivity
 RetroArch Core|
 Rom path key|rom_uri
 Data Type|
+
+</details>
+
+<details>
+<summary>Redream (Dreamcast)</summary>
+<br>
+
+Option|Command/Input
+:-----|:-----------
+Name|Redream 
+Package|io.recompiled.redream
+Activity|io.recompiled.redream.MainActivity
+RetroArch Core|
+Rom path key|
+Data type|`*/*`
 
 </details>
 

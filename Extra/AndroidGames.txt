@@ -1,4 +1,4 @@
-Here's a list of android games that have been tested on the Retroid Pocket 2 Plus. 
+Here's a list of android games that have been tested on the Retroid Pocket 2 Plus (on Android 9 unless otherwise noted). 
 
 Please refer to the Android Game ports wiki for anything that mentions it for setup and fixes [here](https://github.com/Jetup13/Retroid-Pocket-2-Plus-Wiki/wiki/Game-Ports#native-apps).
 
@@ -58,6 +58,7 @@ Final Fantasy 4 (3D Remake)|🟩||Xbox|Amazon Appstore version used.
 [Funkin-Android](https://github.com/luckydog7/Funkin-android/releases) (Friday Night Funkin)|🟧|Xbox||[Game Ports wiki](https://github.com/Jetup13/Retroid-Pocket-2-Plus-Wiki/wiki/Game-Ports)|
 [GAROU: MARK OF THE WOLVES](https://play.google.com/store/apps/details?id=com.snkplaymore.android013)|🟩||Xbox|Analog reads four directions|
 [Grand Theft Auto 3](https://play.google.com/store/apps/details?id=com.rockstar.gta3)|🟩|Options > Draw Distance > 75%|Xbox|
+[Grand Theft Auto San Andreas](https://play.google.com/store/apps/details?id=com.rockstargames.gtasa)|🟩||Xbox|
 Grand Theft Auto San Andreas|🟥||N/A|Amazon Appstore version used.|
 [Grand Theft Auto Vice City](https://play.google.com/store/apps/details?id=com.rockstargames.gtavc)|🟩||Xbox|
 [Gris](https://play.google.com/store/apps/details?id=com.devolver.grispaid)|🟥||Touch|
@@ -94,11 +95,16 @@ Nimble Quest|🟩||Xbox|_* Credit to [mrwhistles](https://github.com/mrwhistles)
 [Pac-Man 256](https://play.google.com/store/apps/details?id=eu.bandainamcoent.pacman256)|🟩||Xbox|_* Credit to [mrwhistles](https://github.com/mrwhistles)_|
 [Reaper](https://play.google.com/store/apps/details?id=net.hexage.reaper)|🟩||Xbox|_* Credit to [mrwhistles](https://github.com/mrwhistles)_|
 [Retro Bowl](https://play.google.com/store/apps/details?id=com.newstargames.retrobowl)|🟩||Xbox|_* Credit to [mrwhistles](https://github.com/mrwhistles)_|
+[Rocks'n`Diamonds](https://www.artsoft.org/rocksndiamonds/download/)|🟩||Xbox|
 [RPG Tears Revolude](https://play.google.com/store/apps/details?id=kemco.wws.revolude)|🟩||Xbox|
 [RVGL](https://re-volt.io/downloads/game) (Re-Volt)|🟩||Xbox|[Game Ports wiki](https://github.com/Jetup13/Retroid-Pocket-2-Plus-Wiki/wiki/Game-Ports)|
 [San Andreas Unity](https://github.com/GTA-ASM/SanAndreasUnity/wiki/Running-on-Android) (GTA SA Multiplayer)|🟧||Xbox|[Game Ports wiki](https://github.com/Jetup13/Retroid-Pocket-2-Plus-Wiki/wiki/Game-Ports)|
 [Sonic Robo Blast 2](https://www.srb2.org/download/#android-installations)|🟩|Head to options and setup the controls|Xbox|
 [Sonic 1 SMS](https://sonic-sms-remake.blogspot.com/p/one.html)|🟩||Xbox|[Game Ports wiki](https://github.com/Jetup13/Retroid-Pocket-2-Plus-Wiki/wiki/Game-Ports)|
+[Sonic 1](https://github.com/Rubberduckycooly/Sonic-1-2-2013-Decompilation) (Sonic 1 Decomp - RSDKv4)|🟩||Xbox/Touch|[Game Ports wiki](https://github.com/Jetup13/Retroid-Pocket-2-Plus-Wiki/wiki/Game-Ports)|
+[Sonic 2](https://github.com/Rubberduckycooly/Sonic-1-2-2013-Decompilation) (Sonic 2 Decomp - RSDKv4)|🟩||Xbox/Touch|[Game Ports wiki](https://github.com/Jetup13/Retroid-Pocket-2-Plus-Wiki/wiki/Game-Ports)|
+[Sonic CD](https://github.com/Rubberduckycooly/Sonic-1-2-2013-Decompilation) (Sonic CD Decomp - RSDKv4)|🟩||Xbox|[Game Ports wiki](https://github.com/Jetup13/Retroid-Pocket-2-Plus-Wiki/wiki/Game-Ports)|
+[Sonic Mania](https://github.com/Rubberduckycooly/Sonic-Mania-Decompilation) (Sonic Mania Decomp - RSDKv5)|🟥||N/A|Crashes
 [Source Engine Player](https://discord.com/invite/NaAhjQt6) (Half Life 2)|🟩||Xbox|[Game Ports wiki](https://github.com/Jetup13/Retroid-Pocket-2-Plus-Wiki/wiki/Game-Ports)|
 [Spelunky Classic HD](https://yancharkin.itch.io/spelunky-classic-hd)|🟩||Xbox|[Game Ports wiki](https://github.com/Jetup13/Retroid-Pocket-2-Plus-Wiki/wiki/Game-Ports)|
 [Stardew Valley](https://play.google.com/store/apps/details?id=com.chucklefish.stardewvalley)|🟩||Xbox|_* Credit to [mrwhistles](https://github.com/mrwhistles)_|
@@ -116,6 +122,7 @@ Super Mario 64 Android|🟥||N/A|Black Screen|
 [Titan Quest](https://play.google.com/store/apps/details?id=com.dotemu.titanquest)|🟩||Xbox|UI scaling is off on some elements|
 [Titan Quest: Legendary Edition](https://play.google.com/store/apps/details?id=com.hg.titanquestedition)|🟩||Xbox|UI scaling is off on some elements|
 [Tomb Raider](https://play.google.com/store/apps/details?id=com.squareenix.tombraider1classic)|🟩||Xbox|De-listed|
+[Undertale Mobile Mod](https://www.moddb.com/mods/undertale-mobile-mod/downloads)|🟩||Touch Screen Mapper|[Game Ports wiki](https://github.com/Jetup13/Retroid-Pocket-2-Plus-Wiki/wiki/Game-Ports)|
 [VA-11 HALL-A](https://drive.google.com/drive/folders/1YM3VtTuzeWWge9Tk8GPPjWn2IRBSowgn)|🟩||Touch/V.Mouse|[Game Ports wiki](https://github.com/Jetup13/Retroid-Pocket-2-Plus-Wiki/wiki/Game-Ports)|
 [VALKYRIE PROFILE: LENNETH](https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.ValkyrieProfilew)|🟩||Xbox/Touch|Gamepad support is limited|
 [Vita Fighters](https://play.google.com/store/apps/details?id=com.Angrydevs.VitaFighters)|🟩||Xbox|

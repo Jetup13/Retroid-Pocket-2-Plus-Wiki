@@ -8,6 +8,7 @@
 Title|Genre|Developer|
 :----|:----|:--------|
 [AIRPLANZ](https://notimplementedlife.itch.io/airplanz)|Strategy|[NotImplementedLife](https://notimplementedlife.itch.io/)
+[All Humans Must Die!](https://mrpapshmir.itch.io/all-humans-must-die)|Action|[Mr. Papshmir](https://mrpapshmir.itch.io/)
 [An Autumn With You](https://leafthief.itch.io/autumn)|Adventure|[leafthief](https://leafthief.itch.io/)
 [Binding of Isaac, The: Game Boy Edition](https://jrob774.itch.io/the-binding-of-isaac-gbjam8-edition)|Roguelike|[Joshua Robertson](https://jrob774.itch.io/)
 [Bitterroot](https://horatiunyc.itch.io/bitterroot)|Adventure|[Horatie.nyc](https://horatiunyc.itch.io/)
@@ -20,13 +21,17 @@ Title|Genre|Developer|
 [Deep Forest](https://small.itch.io/deep-forest)|Puzzle|[Kevin Trepanier](https://small.itch.io/)
 [Do I Pass?](https://taylormccue.itch.io/do-i-pass)|Visual Novel|[Taylor McCue](https://taylormccue.itch.io/)
 [Don't Forget About Me](https://suitntie22.itch.io/dont-forget-about-me)|Action RPG|[suitntie22](https://suitntie22.itch.io/)
+[Flooder](https://obalfour.itch.io/flooder)|Puzzle|[Obalfour](https://obalfour.itch.io/)
 [GBVR - Virtual Trader](https://polyducks.itch.io/virtual-trader)|Other|[Polyducks](https://polyducks.itch.io/)
+[Hollow Knight Sign Mender](https://elvies.itch.io/hk-signmender)|Platformer|[Elvies](https://elvies.itch.io/)
 [If](https://neuromage.itch.io/if)|RPG|[Neuromage Studio](https://neuromage.itch.io/)
 [Life in The Analog Age Rainy Day](https://gabeswarr.itch.io/rainy-day)|Other|[Gabe Swarr](https://gabeswarr.itch.io/)
 [LURK](https://anildemir.itch.io/lurk)|Action|[Anil Demir](https://anildemir.itch.io/)
+[Make Way](https://minihamsterproductions.itch.io/make-way)|Adventure|[Mini Hamster Productions](https://minihamsterproductions.itch.io/)
 [Midterm Moments](https://toadstoolpicnic.itch.io/midterm-moments)|Visual Novel|[Toadstoolpicnic](https://toadstoolpicnic.itch.io/)
 [Rubik](https://notimplementedlife.itch.io/rubik)|Puzzle|[NotImplementedLife](https://notimplementedlife.itch.io/)
 [Sam Mallard – The Case of the Missing Swan](https://snorpung.itch.io/sam-mallard-gb)|Adventure|[snorpung](https://snorpung.itch.io/)
+[Sherlock: A Study in Scarlet](https://lankgod.itch.io/sherlock-a-study-in-scarlet)|Adventure|[lankgod](https://lankgod.itch.io/)
 [Super Imposter Bros](https://lumpytouch.itch.io/super-impostor-bros)|Platformer|[Lumpy](https://lumpytouch.itch.io/)
 [Sushi Nights](https://zalo.itch.io/sushi-nights)|Platformer|[Zalo](https://zalo.itch.io/)
 [Sushi Gun](https://metagamemike.itch.io/sushigun)|Action|[MetagameMike](https://metagamemike.itch.io/)
@@ -70,13 +75,6 @@ Title|Genre|Developer|
 [Sushi The Cat](https://drive.google.com/file/d/1VnpwwHs32bGIkkeVOYbJzWHXmu-iIAmd/view?usp=sharing)|Platformer|N3TKAT
 [xniq](https://exelotl.itch.io/xniq)|Puzzle|[exelotl](https://exelotl.itch.io/xniq)
 
-# Love
-
-Title|Genre|Developer|
-:----|:----|:--------|
-[Duck Marines](https://tangramgames.itch.io/duckmarines)|Puzzle|[Tangram Games](https://tangramgames.dk/)
-[Sienna](https://tangramgames.itch.io/sienna)|Platformer|[Tangram Games](https://tangramgames.dk/)
-
 # MegaDrive/Genesis
 
 Title|Genre|Developer|
@@ -118,7 +116,9 @@ Title|Genre|Developer|
 [D-Pad Hero](https://www.dpadhero.com/Download.html)|Rhythm|Kent Hansen, Andreas Pedersen
 [D-Pad Hero 2](https://www.dpadhero.com/Download.html)|Rhythm|Kent Hansen, Andreas Pedersen
 [Hyperbeatz](https://mysticalwheelbarrow.itch.io/hyperbeatz)|Rhythm|[Mystical Wheelbarrow](https://mysticalwheelbarrow.itch.io/)
+[Indivisible](https://kasumi.itch.io/indivisible)|Platformer|[Kasumi](https://kasumi.itch.io/)
 [Lunar Limit](http://pubby.github.io/lunarlimit.nes)|Shoot 'em Up|[pubby](http://pubby.games/)
+[Oopi's Quest](https://kenney.itch.io/oopis-quest)|Puzzle|[Kenney](https://kenney.itch.io/)
 [Project DART](https://cuttercross.itch.io/project-dart)|Platformer|[CutterCross](https://cuttercross.itch.io/)
 [RevolvingGems](https://kyoske.sakura.ne.jp/nes/RevolvingGems100.zip)|Puzzle|[Kyoske](https://kyoske.sakura.ne.jp/)
 [Streemerz](https://www.fauxgame.com/)|Platformer|Mr. Podunkian
@@ -126,14 +126,17 @@ Title|Genre|Developer|
 [Super Homebrew War](https://gauauu.itch.io/super-homebrew-war)|Fighting|[gauauu](https://gauauu.itch.io/)
 [Touhou Rououmu](https://kyoske.sakura.ne.jp/index.cgi?p=%E6%9D%B1%E6%96%B9%E8%80%81%E6%A1%9C%E5%A4%A2)|Shoot 'em Up|[Kyoske](https://kyoske.sakura.ne.jp/)
 [Tower of Turmoil, The](https://cuttercross.itch.io/the-tower-of-turmoil)|Platformer|[CutterCross](https://cuttercross.itch.io/)
+[Underground Adventure](https://dale-coop.itch.io/underground-adventure)|Platformer|[dale-coop](https://dale-coop.itch.io/)
 [Wolfling](https://lazycow.itch.io/wolfling)|Action|[Lazycow](https://lazycow.itch.io/)
 
 # PlayStation
 
 Title|Genre|Developer|
 :----|:----|:--------|
+[Doukutsupsx](https://github.com/fgsfdsfgs/doukutsupsx)|Platformer|[fgsfdsfgs](https://github.com/fgsfdsfgs)
 [Escape from the North](https://reachcoding.eu/escape-from-the-north)|Puzzle|[reachCoding](https://reachcoding.eu/)
 [PSXFunkin](https://github.com/cuckydev/PSXFunkin)|Rhythem|[cuckydev](https://github.com/cuckydev/)
+[Rawpsx](https://github.com/fgsfdsfgs/rawpsx)|Platformer|[fgsfdsfgs](https://github.com/fgsfdsfgs)
 [Wartris](https://www.wartris.com/articles/view/wartris)|Puzzle|Pissteam
 [Wartris++](http://www.wartris.com/articles/view/wartris-2)|Puzzle|Pissteam
 

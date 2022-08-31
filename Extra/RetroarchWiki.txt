@@ -7,7 +7,7 @@ You can enable this by opening the `Retroid Launcher > Setup > RetroArch Setup`
 Here's a few settings I go through personally whenever I load and setup RetroArch myself
 
 <details>
-<summary>Settings</summary>
+<summary>Settings Dropdown</summary>
 <br>
 
 * _To save configuration: `Main Menu > Configuration File > Save Current Configuration`_
@@ -58,12 +58,12 @@ Here's a few settings I go through personally whenever I load and setup RetroArc
 </details>
 
 <details>
-<summary>Hotkeys</summary>
+<summary>Hotkeys Dropdown</summary>
 <br>
 
 If your not planning on using a overlay then it might be best to setup hotkeys. Hotkeys can used to enable RetroArch features quickly with a press a few buttons. 
 
-_Anything with a ✓ is up to the user_
+* _Anything with a ✓ is up to the user_
 
 Navigate to RetroArch > Settings > Input > Hotkeys
 
@@ -79,20 +79,40 @@ Navigate to RetroArch > Settings > Input > Hotkeys
 
 </details>
 
+# Controller Fix
+
+### Setup 1: Manual setup
+
+* Update 1.10.0 changed the vendor id for the controller so you will need to update the controller config.
+* Open `RetroArch` by itself > `Input` > `Port 1 Controls` > Update each button > `Save Controller Profile` > `Exit RetroArch`
+* If using multiple RetroArch's (64bit & 32bit) update controller config for both
+* If your A/B are flipped for the menu after updating controls:`RetroArch` > `Settings` > `Input` > `Menu Controls` > `Menu Swap OK and Cancel Buttons` > Enable or Disable to your preference
+* [Video](https://youtu.be/zbOUumVv6xg)
+
+### Setup 2: Pre-configured Controller Profile
+
+* Right Click > Save Link As
+* Download only *one* cfg your RP2+ control style currently set too (Android Settings > Handheld Settings > Input > Controller Style)
+* [Video](https://youtu.be/oVOmuTmhcq4)
+
+Name|File
+:---|:--
+Retro Style|[Download](https://github.com/Jetup13/Retroid-Pocket-2-Plus-Wiki/blob/main/LibretroConfigs/Retroid%20Pocket%20Controller.cfg)
+Xbox Style|[Download](https://github.com/Jetup13/Retroid-Pocket-2-Plus-Wiki/blob/main/LibretroConfigs/X-Box%20Controller.cfg)
+
 <details>
-<summary>Retroarch.cfg file</summary>
+<summary>Adding controller config</summary>
 <br>
 
-Here's the `retroarch.cfg` for each Retroarch. These are the with the changes shown above. `DO NOT MIX RETROARCH CONFIG FILES`. Some parts of a config are meant for the version being loaded (Such as directory's for cores and online updater addresses). These configs assume you have your controller set to `Xbox` 
 
-_I highly suggest setting up RetroArch yourself or use Retroids pre-configured setup._
+Step|Image
+:---|:----|
+Open the `Files` App > Long press controller config files > Select `Copy to...` or `Move to...`|
+Select `☰` on top left > Select the RetroArch that needs to be updated|![](https://github.com/Jetup13/Retroid-Pocket-2-Plus-Wiki/blob/main/Images/controllercfg1.png)
+Select `autoconfig`|![](https://github.com/Jetup13/Retroid-Pocket-2-Plus-Wiki/blob/main/Images/controllercfg2.png)
+Select `android` > Select `Copy` or `Move`|![](https://github.com/Jetup13/Retroid-Pocket-2-Plus-Wiki/blob/main/Images/controllercfg3.png)
 
-|RetroArch version|File Location|
-|:----------------|:------------|
-RetroArch (AArch64)|[Internal shared storage\Android\data\com.retroarch.aarch64\files](https://github.com/Jetup13/Retroid-Pocket-2-Plus-Wiki/blob/main/LibretroConfigs/RetroArchAArch64.zip)
-RetroArch Plus|Will update later
-RetroArch 32 Bit|Internal shared storage\Android\data\com.retroarch.ra32\files
-RetroArch|Will update later
+* Confirm everything is configured correctly by opening `RetroArch > Input > Port 1 Controls >`
 
 </details>
 
@@ -258,6 +278,30 @@ Simply place the patch in the same folder as the rom and make sure its the same 
 ./Bishoujo Senshi Sailor Moon SuperS - Fuwafuwa Panic (Japan).ips
 ./Bishoujo Senshi Sailor Moon SuperS - Fuwafuwa Panic (Japan).zip
 ```
+
+# Updating
+
+### Updating RetroArch
+
+* Simply download apk and install to update RetroArch
+* Nightly builds are the latest compiled but may have problems
+* Use stable 64bit and/or 32bit
+* Google Play builds are ancient 
+* Pre-installed build is 1.9.14 (DEC/05/2021)
+
+Version|Download|Recommended
+:------|:-------|:---------|
+Google Play|[Download](https://play.google.com/store/apps/developer?id=Libretro)|❌
+Nightly RetroArch|[Download](https://buildbot.libretro.com/nightly/android/RetroArch.apk)|
+Nightly RetroArch 32bit|[Download](https://buildbot.libretro.com/nightly/android/RetroArch_ra32.apk)|
+Nightly RetroArch 64bit|[Download](https://buildbot.libretro.com/nightly/android/RetroArch_aarch64.apk)|
+Stable RetroArch|[Download](https://buildbot.libretro.com/stable/1.10.3/android/RetroArch.apk)|
+Stable RetroArch 32bit|[Download](https://buildbot.libretro.com/stable/1.10.3/android/RetroArch_ra32.apk)|✔️
+Stable RetroArch 64bit|[Download](https://buildbot.libretro.com/stable/1.10.3/android/RetroArch_aarch64.apk)|✔️
+
+### Updating Cores
+
+* `RetroArch` > `Online Updater` > `Update Installed Cores`
 
 # Vibration
 

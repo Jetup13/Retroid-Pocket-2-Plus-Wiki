@@ -1,18 +1,22 @@
 # DuckStation Standalone
 
-> App Settings
+> **App Settings**
 
 Category|Setting Change|Note
 :-------|:-------------|:---|
 General|Fast Boot > On|Skips PSX intro
 General|GPU Renderer > Vulkan|
+Display|Crop Mode > Only Overscan Area|
+Display|Aspect Ratio > Auto (Match Display)|
+Display|Interger Upscaling > Disabled|
+Display|Linear Upscaling > Disabled|
 Display|Show Messages > Off|
 Enhancements|Resolution Scale > 1x|Some games might be able to play at 2x
 Enhancements|PGXP Geometry Correction > On|Disable if Resolution Scale is at 2x
 Enhancements|PGXP Culling Correction > On|
 Enhancements|PGXP Texture Correction > On|
 
-> Controller Settings
+> **Controller Settings**
 
 Category|Setting Change|Note
 :-------|:-------------|:---|
@@ -23,13 +27,58 @@ Port 1|Use Analog Sticks for D-Pad in Digital Mode > On|
 
 * _To enable touch screen menu button: `Touchscreen Controller Settings > Change Type > Light gun`. Then `Add/Remove Buttons > Remove everything but OpenPauseMenu`. Make sure Auto-Hide Touchscreen Controller is off_
 
+<details>
+<summary>DuckStation Scoped Storage Update</summary>
+<br>
+
+> **App Settings**
+
+Category|Setting Change|Note
+:-------|:-------------|:---|
+Interface|Fast Boot > On|Skips PSX intro
+Interface|Save State On Exit > Disable| 
+Interface|Show Messages > Disable|
+Graphics|GPU Renderer > OpenGL|If you get graphical glitches switch to Vulkan or Software
+Graphics|Resolution Scale > 1x|2x might be fine on a few games
+Graphics|Texture Filtering > Nearest Neighbor|
+Graphics|PGXP Geometry Correction > On|
+Graphics|Crop Mode > Only Overscan Area|
+Graphics|Aspect Ratio > Auto (Match Display)|
+Graphics|Interger Upscaling > Disabled|
+Graphics|Linear Upscaling > Disabled|
+Graphics|PGXP Culling Correction > On|
+Graphics|PGXP Texture Correction > On|
+
+> **Controller Settings**
+
+Category|Setting Change|Note
+:-------|:-------------|:---|
+Touchscreen|Touchscreen Controller View > Single Analog Pad|Load up game > Controller Settings > Add/Remove Buttons > Remove all buttons besides L3/R3/Pause Menu
+Port 1|Perform Automatic Mapping|
+Port 1|Controller Type > Analog Controller (DualShock)|
+Port 1|Use Analog Sticks for D-Pad in Digital Mode > On|
+
+</details>
+
 # Dolphin MMJR2
 
 Use the [community config](https://mega.nz/file/eQIGhJJb#UnsV-GN6x1-L4VPBo5B8AuFvEDmft4ALNshHFT28d4k) with the Dolphin MMJR2 build from the Retroid Setup Wizard.
 
+### Dolphin Controller Fix (RP2+ 1.10.0 update)
+
+Click the Controller Icon > `GameCube Controller 1` > Select `Emulated` > Configure controller buttons
+
 # EasyRPG Standalone
 
 * To hide the Touch Screen layout: `Settings > Input > Input Layout Transparency 100%`
+
+# Mupen64Plus FZ Pro
+
+### Controller Settings
+
+> If for some reason you lost controller support:
+
+* Click the `☰` in the top left > `Profiles` > `+ New` and name controller profile > Configure controls > Back out > `Profiles` > `Select Profiles` > `Controller 1 Profile` > Select Profile
 
 # PPSSPP Standalone
 
@@ -68,9 +117,10 @@ Framerate Control|Auto framskip > On|
 <td></td>
 </tr>
 <tr>
-<td>Port Settings</td>
-<td>Memory Card 1 Type > Separate Card Per Game (Game Title)
+<td>RetroArch Quick Menu > Controls</td>
+<td>Port 1 Controls > Analog Controller (DualShock)</td>
 <td></td>
+</tr>
 </table>
 
 # Yaba Sanshiro 2
@@ -82,3 +132,7 @@ Video Core|OpenGL
 Aspect Ratio|4:3
 Sound Engine|Legacy
 Sound Time Synchronization|Real Time
+
+### YabaSanshiro Controller Fix (RP2+ 1.10.0 update)
+
+Click the `☰` in the top left > `Settings` > `Player1 Input Device` > Select `Choose` > Select the controller > `Edit Key Map`

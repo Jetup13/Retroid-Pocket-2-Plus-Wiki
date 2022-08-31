@@ -69,9 +69,73 @@
       "touchCenter": 92036583,
       "touchRadius": 0,
       "type": 4001
+    },
+    {
+      "duration": 0,
+      "exclusiveJoystick": false,
+      "followTouchIndicatorPosition": false,
+      "minEffectiveRadiusPercentage": 0.0,
+      "reverseJoystick": false,
+      "speed": 0,
+      "targetCode": 0,
+      "width": 0,
+      "hideFromUi": false,
+      "name": "UP",
+      "sensitivity": 1000100,
+      "touchCenter": 16256375,
+      "touchRadius": 0,
+      "type": 4001
+    },
+    {
+      "duration": 0,
+      "exclusiveJoystick": false,
+      "followTouchIndicatorPosition": false,
+      "minEffectiveRadiusPercentage": 0.0,
+      "reverseJoystick": false,
+      "speed": 0,
+      "targetCode": 0,
+      "width": 0,
+      "hideFromUi": false,
+      "name": "DOWN",
+      "sensitivity": 1000100,
+      "touchCenter": 16098520,
+      "touchRadius": 0,
+      "type": 4001
+    },
+    {
+      "duration": 0,
+      "exclusiveJoystick": false,
+      "followTouchIndicatorPosition": false,
+      "minEffectiveRadiusPercentage": 0.0,
+      "reverseJoystick": false,
+      "speed": 0,
+      "targetCode": 0,
+      "width": 0,
+      "hideFromUi": false,
+      "name": "LEFT",
+      "sensitivity": 1000100,
+      "touchCenter": 7657291,
+      "touchRadius": 0,
+      "type": 4001
+    },
+    {
+      "duration": 0,
+      "exclusiveJoystick": false,
+      "followTouchIndicatorPosition": false,
+      "minEffectiveRadiusPercentage": 0.0,
+      "reverseJoystick": false,
+      "speed": 0,
+      "targetCode": 0,
+      "width": 0,
+      "hideFromUi": false,
+      "name": "RIGHT",
+      "sensitivity": 1000100,
+      "touchCenter": 24687333,
+      "touchRadius": 0,
+      "type": 4001
     }
   ],
-  "lastModifiedTime": 1661386471191,
+  "lastModifiedTime": 1661984289129,
   "macroConfigs": [],
   "mouseConfigs": [],
   "packageName": "com.jockeholm.undertale",
@@ -79,7 +143,7 @@
   "titles": {
     "default": "UNDERTALE config"
   },
-  "toolbarLocation": 83281125,
+  "toolbarLocation": 86250916,
   "type": 0,
   "version": 1
 }
